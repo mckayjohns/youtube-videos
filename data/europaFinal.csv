@@ -1,0 +1,2072 @@
+minute,second,teamId,x,y,period,type,outcome,playerId,endX,endY
+0,0,Manchester United,0,0,FirstHalf,Start,Successful,,,
+0,0,Villarreal,0,0,FirstHalf,Start,Successful,,,
+0,0,Manchester United,49.9,50,FirstHalf,Pass,Successful,18,31.5,59.6
+0,3,Manchester United,32.2,58.1,FirstHalf,Pass,Unsuccessful,2,69.6,100
+0,32,Villarreal,34.4,0,FirstHalf,Pass,Successful,8,36.5,9.5
+0,34,Villarreal,35.1,9.1,FirstHalf,Pass,Successful,7,31.9,2.3
+0,35,Villarreal,33.6,2.6,FirstHalf,TakeOn,Unsuccessful,8,,
+0,35,Manchester United,66.4,97.4,FirstHalf,Tackle,Successful,10,,
+0,52,Villarreal,34.2,0,FirstHalf,Pass,Successful,8,35,10.6
+0,54,Villarreal,34.1,14,FirstHalf,Pass,Successful,5,31.3,37.4
+0,55,Villarreal,30,53.3,FirstHalf,Foul,Successful,14,,
+0,55,Manchester United,70,46.7,FirstHalf,Foul,Unsuccessful,11,,
+1,5,Villarreal,26.1,65.7,FirstHalf,Pass,Successful,4,34,87.1
+1,10,Villarreal,33.3,87.1,FirstHalf,Pass,Successful,24,21.9,75.7
+1,14,Villarreal,26.6,76.6,FirstHalf,Pass,Successful,4,24.1,5.9
+1,19,Villarreal,28.6,5.9,FirstHalf,Pass,Successful,8,43,4.1
+1,23,Villarreal,30.3,12.6,FirstHalf,Pass,Successful,30,14.4,13.1
+1,28,Villarreal,19.6,15,FirstHalf,Pass,Successful,3,25,92.4
+1,35,Manchester United,62.7,16.6,FirstHalf,Challenge,Unsuccessful,29,,
+1,35,Villarreal,37.3,83.4,FirstHalf,TakeOn,Successful,24,,
+1,36,Villarreal,44.6,72.9,FirstHalf,Pass,Successful,24,45.8,65.2
+1,38,Villarreal,50.1,68.1,FirstHalf,Pass,Successful,14,44.2,70.5
+1,42,Villarreal,44.1,69.4,FirstHalf,Pass,Successful,5,37.6,38.5
+1,44,Villarreal,40.4,34.2,FirstHalf,Pass,Successful,3,54.1,3.1
+1,48,Villarreal,58.3,19.4,FirstHalf,Pass,Successful,30,58.3,27.6
+1,50,Villarreal,55.5,25.8,FirstHalf,Pass,Successful,25,48,11.7
+1,52,Villarreal,46.4,10.9,FirstHalf,Pass,Successful,8,57.4,2.5
+1,54,Villarreal,58.2,4.1,FirstHalf,Pass,Successful,7,63.7,26.1
+1,58,Villarreal,65.3,30.1,FirstHalf,Pass,Unsuccessful,9,63.1,32.8
+1,58,Manchester United,34.8,66.3,FirstHalf,Interception,Successful,39,,
+2,0,Villarreal,59.6,32.7,FirstHalf,Pass,Successful,25,54.5,42.1
+2,1,Villarreal,54.7,41,FirstHalf,Pass,Unsuccessful,5,60.5,48.7
+2,1,Manchester United,38.6,53.9,FirstHalf,BallRecovery,Successful,11,,
+2,2,Manchester United,38.6,53.9,FirstHalf,Pass,Successful,11,45.9,66.4
+2,9,Manchester United,58.1,95,FirstHalf,Pass,Unsuccessful,18,62.4,94.4
+2,9,Villarreal,36.3,4.9,FirstHalf,Interception,Successful,8,,
+2,9,Villarreal,40.9,5.9,FirstHalf,BallTouch,Successful,25,,
+2,10,Villarreal,36.6,4.8,FirstHalf,Pass,Successful,8,43.7,8.3
+2,11,Villarreal,40,5,FirstHalf,BallRecovery,Successful,30,,
+2,11,Villarreal,45.6,6.4,FirstHalf,Pass,Successful,30,40,5
+2,12,Villarreal,35.5,5.4,FirstHalf,BallTouch,Unsuccessful,8,,
+2,12,Manchester United,60.1,95.2,FirstHalf,Pass,Unsuccessful,18,61.3,95.2
+2,13,Villarreal,40.1,8.9,FirstHalf,BlockedPass,Successful,8,,
+2,13,Manchester United,63,94,FirstHalf,Dispossessed,Successful,18,,
+2,13,Villarreal,37,6,FirstHalf,Tackle,Successful,8,,
+2,13,Villarreal,43.9,5.8,FirstHalf,BallTouch,Successful,8,,
+2,14,Villarreal,46.7,6,FirstHalf,Pass,Successful,25,47.2,15.5
+2,16,Villarreal,46,10.9,FirstHalf,BallRecovery,Successful,7,,
+2,16,Villarreal,47.1,11.3,FirstHalf,Pass,Successful,7,52.2,4.7
+2,17,Villarreal,52.8,3.2,FirstHalf,Pass,Unsuccessful,25,54.7,6.7
+2,17,Manchester United,44.7,89.4,FirstHalf,BallTouch,Successful,39,,
+2,20,Manchester United,37.1,97.2,FirstHalf,BallRecovery,Successful,23,,
+2,20,Manchester United,37.1,97.2,FirstHalf,Pass,Successful,23,25.7,82.1
+2,22,Manchester United,25.7,82.1,FirstHalf,Pass,Successful,2,10.1,53.1
+2,29,Manchester United,10.7,45.5,FirstHalf,Pass,Successful,1,15.3,68.5
+2,33,Manchester United,22,56.9,FirstHalf,Pass,Successful,2,27.5,23.3
+2,37,Manchester United,28.6,25.8,FirstHalf,Pass,Successful,3,28,61.1
+2,41,Manchester United,32.2,64.9,FirstHalf,Pass,Successful,2,37,94.2
+2,44,Manchester United,38.6,94.4,FirstHalf,Pass,Successful,23,44.6,95.7
+2,45,Manchester United,44.6,95.7,FirstHalf,Pass,Successful,10,36.8,96.2
+2,47,Manchester United,36.8,96.2,FirstHalf,Pass,Successful,23,28.9,72.3
+2,53,Manchester United,31.7,54.2,FirstHalf,Pass,Successful,2,32.9,24.1
+2,58,Manchester United,36.3,14.4,FirstHalf,Pass,Successful,3,32.6,38.6
+3,2,Manchester United,35.3,40.3,FirstHalf,Pass,Unsuccessful,2,64.9,100
+3,26,Villarreal,44.8,0,FirstHalf,Pass,Successful,8,52.3,7.7
+3,29,Villarreal,48.1,11.9,FirstHalf,Pass,Unsuccessful,7,46.7,42.5
+3,30,Manchester United,52.5,55.4,FirstHalf,BallRecovery,Successful,11,,
+3,31,Manchester United,47.3,53,FirstHalf,Pass,Successful,11,43.6,30.9
+3,34,Manchester United,55.3,18.5,FirstHalf,Pass,Successful,29,60.5,12.8
+3,39,Manchester United,60.5,12.8,FirstHalf,Pass,Successful,11,45.5,35.7
+3,42,Manchester United,45.6,42.7,FirstHalf,Pass,Successful,3,53.3,69.9
+3,45,Manchester United,58,74.2,FirstHalf,Pass,Successful,2,69.6,97.2
+3,50,Manchester United,73.7,83.3,FirstHalf,Pass,Successful,10,65.8,69.1
+3,52,Manchester United,65.4,66.4,FirstHalf,Pass,Successful,2,56.5,51.2
+3,55,Manchester United,58.1,52.8,FirstHalf,Pass,Successful,3,57.5,70.9
+3,58,Manchester United,58.3,71.8,FirstHalf,Pass,Successful,2,66.1,79.3
+4,2,Manchester United,69.6,80.8,FirstHalf,Pass,Successful,6,78.2,4.7
+4,7,Manchester United,77.8,18.5,FirstHalf,Pass,Successful,29,75.8,32.8
+4,11,Manchester United,74.1,39.1,FirstHalf,Pass,Successful,11,67.6,43.4
+4,13,Manchester United,67.3,46,FirstHalf,Pass,Successful,6,68,86.2
+4,17,Manchester United,67.8,83,FirstHalf,Pass,Successful,23,75.1,93.5
+4,19,Manchester United,75.1,93.5,FirstHalf,Pass,Unsuccessful,10,81.3,92.3
+4,20,Villarreal,22.1,8.6,FirstHalf,Interception,Successful,8,,
+4,21,Villarreal,20.9,5.2,FirstHalf,BallRecovery,Successful,8,,
+4,21,Villarreal,23.5,4.6,FirstHalf,TakeOn,Unsuccessful,8,,
+4,24,Manchester United,65.1,98.9,FirstHalf,BallRecovery,Successful,2,,
+4,27,Manchester United,61.8,98,FirstHalf,Pass,Successful,2,49,85.7
+4,28,Manchester United,48.8,85.6,FirstHalf,Pass,Successful,6,41.8,64.6
+4,32,Manchester United,43.8,61.4,FirstHalf,Pass,Successful,3,45.7,80.5
+4,35,Manchester United,47.8,80,FirstHalf,Pass,Successful,2,64.8,96.2
+4,40,Manchester United,71.9,94.5,FirstHalf,Pass,Successful,23,73.2,99
+4,45,Manchester United,69.1,90.2,FirstHalf,Pass,Successful,10,74.5,11.9
+4,49,Manchester United,73.1,11.6,FirstHalf,Pass,Successful,29,72.4,17.6
+4,50,Manchester United,72.4,17.6,FirstHalf,Pass,Successful,7,63.6,13.4
+4,53,Manchester United,64.4,20.3,FirstHalf,Pass,Successful,39,63.4,66.3
+4,58,Manchester United,71.6,70.6,FirstHalf,Pass,Successful,2,87.8,95.7
+4,59,Manchester United,87.8,95.7,FirstHalf,Pass,Successful,23,91.5,56.9
+5,0,Manchester United,91.5,56.9,FirstHalf,BallTouch,Unsuccessful,7,,
+5,3,Villarreal,0,0,FirstHalf,ShieldBallOpp,Successful,8,,
+5,15,Villarreal,3.5,41.6,FirstHalf,Pass,Successful,13,7.2,69.1
+5,18,Villarreal,15.6,84.4,FirstHalf,Pass,Successful,4,48.2,91.8
+5,22,Villarreal,44,76,FirstHalf,Pass,Unsuccessful,9,45,74.1
+5,22,Manchester United,56.5,30.7,FirstHalf,BlockedPass,Successful,3,,
+5,25,Villarreal,34.5,85.4,FirstHalf,Aerial,Successful,5,,
+5,25,Manchester United,65.5,14.6,FirstHalf,Aerial,Unsuccessful,11,,
+5,25,Villarreal,35.2,88.4,FirstHalf,Pass,Successful,5,42.5,98.9
+5,27,Villarreal,42.5,98.9,FirstHalf,Pass,Unsuccessful,24,72.8,88
+5,32,Manchester United,30.2,17.3,FirstHalf,BallRecovery,Successful,3,,
+5,34,Manchester United,29.7,27.3,FirstHalf,Pass,Successful,3,36.8,38
+5,36,Manchester United,34.6,48.8,FirstHalf,Pass,Successful,6,47.4,91.4
+5,42,Manchester United,55.3,93,FirstHalf,Pass,Successful,23,58.3,97.4
+5,43,Manchester United,58.3,97.4,FirstHalf,Pass,Successful,10,36.3,72
+5,49,Manchester United,36.7,65.2,FirstHalf,Pass,Successful,2,33.4,38.2
+5,52,Manchester United,34.5,39.2,FirstHalf,Pass,Successful,3,37.2,70.2
+5,57,Manchester United,46.6,74.8,FirstHalf,Pass,Successful,2,66.2,97.4
+6,0,Manchester United,65.4,96,FirstHalf,Pass,Successful,10,54.3,93.9
+6,3,Manchester United,56.4,93.3,FirstHalf,Pass,Successful,23,42.2,72.7
+6,8,Manchester United,42.2,69.4,FirstHalf,Pass,Successful,2,58.8,97.5
+6,10,Manchester United,58.8,97.5,FirstHalf,Pass,Successful,23,65.4,96.8
+6,11,Manchester United,65.4,96.8,FirstHalf,Pass,Successful,18,63.3,87.8
+6,12,Manchester United,63.3,87.8,FirstHalf,Pass,Unsuccessful,23,88,85.6
+6,15,Villarreal,14.9,12.2,FirstHalf,BallTouch,Unsuccessful,4,,
+6,15,Manchester United,87.9,85.1,FirstHalf,Pass,Successful,7,85.4,87.4
+6,19,Manchester United,88,68.4,FirstHalf,Pass,Successful,10,75.1,41.3
+6,21,Manchester United,75.3,41.3,FirstHalf,MissedShots,Successful,39,,
+6,46,Villarreal,4.5,43.7,FirstHalf,Pass,Successful,13,8.5,73.2
+6,48,Villarreal,8.5,73.2,FirstHalf,Pass,Successful,4,14.8,96.2
+6,52,Villarreal,17.8,94.5,FirstHalf,Pass,Unsuccessful,24,29.2,85.1
+6,53,Manchester United,66.6,16.1,FirstHalf,BallRecovery,Successful,39,,
+6,54,Manchester United,66.6,18.2,FirstHalf,Pass,Successful,39,69.8,30.3
+6,55,Manchester United,69.8,30.3,FirstHalf,Pass,Successful,18,74.4,18.8
+6,57,Manchester United,74.3,18.2,FirstHalf,Pass,Successful,11,79.4,5.5
+6,59,Manchester United,79.6,6.7,FirstHalf,Pass,Successful,29,80.8,26.4
+7,1,Manchester United,84.3,23.3,FirstHalf,Pass,Successful,18,86,20
+7,1,Manchester United,86,21.5,FirstHalf,BallTouch,Successful,11,,
+7,2,Villarreal,14.5,74.8,FirstHalf,BallRecovery,Successful,5,,
+7,2,Villarreal,14.5,74.8,FirstHalf,Pass,Successful,5,13.3,83.9
+7,5,Villarreal,19,95.8,FirstHalf,TakeOn,Unsuccessful,24,,
+7,5,Manchester United,81,4.2,FirstHalf,Tackle,Successful,29,,
+7,32,Villarreal,20.3,100,FirstHalf,Pass,Successful,24,25.9,95.4
+7,34,Villarreal,26.5,97.2,FirstHalf,Pass,Successful,14,27.4,89.3
+7,35,Villarreal,27.4,89.3,FirstHalf,Pass,Successful,5,16.4,96
+7,38,Villarreal,16.2,95.4,FirstHalf,Pass,Successful,24,9.4,79.3
+7,41,Villarreal,15,84.5,FirstHalf,Pass,Unsuccessful,4,36.4,65.8
+7,44,Manchester United,64.8,34.3,FirstHalf,BallRecovery,Successful,6,,
+7,45,Manchester United,65.3,34.9,FirstHalf,Pass,Successful,6,72.8,54.2
+7,47,Manchester United,75.2,58,FirstHalf,TakeOn,Unsuccessful,10,,
+7,47,Villarreal,24.8,42,FirstHalf,Tackle,Unsuccessful,8,,
+7,47,Manchester United,75.5,56.8,FirstHalf,BallTouch,Successful,10,,
+7,48,Villarreal,27,32.5,FirstHalf,BallRecovery,Successful,30,,
+7,49,Villarreal,27,32.5,FirstHalf,Pass,Successful,30,27.9,36.9
+7,50,Villarreal,27.9,36.9,FirstHalf,BallTouch,Successful,8,,
+10,11,Villarreal,29.1,49.7,FirstHalf,Pass,Unsuccessful,5,34.6,49.9
+10,12,Manchester United,71.2,53.4,FirstHalf,BallTouch,Successful,18,,
+10,14,Villarreal,51.7,51.9,FirstHalf,Pass,Successful,9,57.4,33.6
+10,17,Villarreal,54.2,30.7,FirstHalf,Pass,Successful,7,33.5,31
+10,21,Villarreal,27.3,37.4,FirstHalf,Pass,Successful,3,23.2,60.9
+10,24,Villarreal,24.4,67.8,FirstHalf,Pass,Successful,4,31.7,96.5
+10,28,Villarreal,22.8,96,FirstHalf,Pass,Successful,24,9.1,77
+10,32,Villarreal,8.1,74.5,FirstHalf,Pass,Successful,4,2.7,59.7
+10,33,Villarreal,2.7,59.7,FirstHalf,Pass,Unsuccessful,13,19.1,93.3
+10,36,Manchester United,79.6,8.7,FirstHalf,Aerial,Successful,29,,
+10,36,Villarreal,20.4,91.3,FirstHalf,Aerial,Unsuccessful,24,,
+10,36,Manchester United,78.4,10.7,FirstHalf,Pass,Unsuccessful,29,75.2,15.5
+10,38,Villarreal,19.2,87.1,FirstHalf,Pass,Successful,14,14.7,75.6
+10,39,Villarreal,14.6,75.6,FirstHalf,Pass,Successful,4,20.2,97.7
+10,41,Villarreal,20.2,97.7,FirstHalf,Pass,Successful,24,31,97.8
+10,44,Villarreal,31,97.8,FirstHalf,Pass,Unsuccessful,9,29.9,86.2
+10,46,Manchester United,67.4,12,FirstHalf,BallRecovery,Successful,39,,
+10,46,Manchester United,67.4,12,FirstHalf,Pass,Successful,39,63.4,31.6
+10,48,Manchester United,64.9,34.3,FirstHalf,Pass,Successful,6,93.7,17.1
+10,53,Manchester United,96.6,23.9,FirstHalf,Pass,Unsuccessful,11,95.9,34.9
+10,53,Villarreal,3.4,64.3,FirstHalf,Clearance,Successful,25,0,71.1
+10,54,Villarreal,3.4,64.2,FirstHalf,CornerAwarded,Unsuccessful,25,,
+10,54,Manchester United,96.6,35.8,FirstHalf,CornerAwarded,Successful,11,,
+11,,Manchester United,95.8,69.1,FirstHalf,OffsideGiven,Unsuccessful,6,,
+11,24,Manchester United,99.5,0.5,FirstHalf,Pass,Unsuccessful,23,93.2,46.4
+11,25,Villarreal,6.1,57.7,FirstHalf,Clearance,Successful,7,21.8,37.3
+11,27,Manchester United,73.7,60.8,FirstHalf,Pass,Successful,10,71.4,36.6
+11,30,Manchester United,71.4,36.6,FirstHalf,OffsidePass,Successful,18,95.8,69.1
+11,30,Villarreal,14.4,54.4,FirstHalf,OffsideProvoked,Successful,25,,
+12,15,Villarreal,15.9,38.8,FirstHalf,Pass,Unsuccessful,13,63.6,31.6
+12,18,Manchester United,35.8,67.5,FirstHalf,Aerial,Successful,6,,
+12,18,Villarreal,64.2,32.5,FirstHalf,Aerial,Unsuccessful,7,,
+12,18,Manchester United,35.1,66.6,FirstHalf,Pass,Successful,6,39,64.8
+12,20,Manchester United,39,64.8,FirstHalf,Pass,Successful,18,32.8,72.9
+12,21,Manchester United,32.9,73.5,FirstHalf,BallRecovery,Successful,6,,
+12,22,Manchester United,36,87.8,FirstHalf,Pass,Successful,6,25.7,90.2
+12,24,Manchester United,26.9,87.5,FirstHalf,Pass,Successful,23,16.3,45.1
+12,31,Manchester United,23.5,35.5,FirstHalf,Pass,Successful,3,27.8,66.1
+12,35,Manchester United,31,73,FirstHalf,Pass,Successful,2,33.8,92.4
+12,37,Manchester United,34.2,93.8,FirstHalf,Pass,Successful,23,46.1,97.5
+12,39,Manchester United,46,97.4,FirstHalf,Pass,Successful,10,21.7,73.6
+12,43,Manchester United,21.9,73.2,FirstHalf,Pass,Successful,2,28.9,57.2
+12,45,Manchester United,27.1,57,FirstHalf,Pass,Successful,39,20.6,31.3
+12,46,Manchester United,20.6,31.3,FirstHalf,Pass,Successful,3,8,43.9
+12,48,Manchester United,8,43.9,FirstHalf,Pass,Successful,1,43,70
+12,50,Manchester United,43,70,FirstHalf,Pass,Successful,18,41,96.9
+12,54,Manchester United,44.4,96.2,FirstHalf,Pass,Unsuccessful,23,46.9,93.5
+12,54,Villarreal,52.5,4.3,FirstHalf,BlockedPass,Successful,30,,
+13,0,Manchester United,57.9,100,FirstHalf,Pass,Successful,23,36.5,88.1
+13,4,Manchester United,36,86.8,FirstHalf,Pass,Successful,2,44.1,59.7
+13,7,Manchester United,46.2,57.3,FirstHalf,Pass,Successful,39,55.8,95.9
+13,11,Manchester United,57.9,94.4,FirstHalf,Pass,Successful,23,72.1,89.6
+13,13,Manchester United,72.1,89.6,FirstHalf,Pass,Successful,10,65.1,92.3
+13,14,Manchester United,65.1,92.3,FirstHalf,Pass,Unsuccessful,18,67.4,89.7
+13,14,Villarreal,28,9.1,FirstHalf,BallRecovery,Successful,25,,
+13,15,Villarreal,28,9.1,FirstHalf,Pass,Successful,25,21.2,12.9
+13,17,Villarreal,21.2,12.2,FirstHalf,Pass,Successful,3,31.6,10.7
+13,18,Villarreal,32,10.7,FirstHalf,Pass,Successful,25,40.1,9.5
+13,20,Villarreal,40,10.1,FirstHalf,Aerial,Successful,30,,
+13,20,Manchester United,60,89.9,FirstHalf,Aerial,Unsuccessful,23,,
+13,20,Villarreal,40.1,9.5,FirstHalf,Pass,Successful,30,46.2,9.4
+13,20,Villarreal,46.2,9.4,FirstHalf,Pass,Unsuccessful,7,43.7,11.6
+13,21,Villarreal,42.4,13.8,FirstHalf,Foul,Successful,,,
+13,21,Manchester United,57.6,86.2,FirstHalf,Foul,Unsuccessful,6,,
+13,53,Villarreal,42.3,11.6,FirstHalf,Pass,Successful,3,37.1,96.2
+13,59,Villarreal,38.3,96.2,FirstHalf,Pass,Successful,24,46.8,96.8
+14,0,Villarreal,46.8,96.8,FirstHalf,Pass,Successful,14,45.9,88.9
+14,2,Villarreal,56.2,88.8,FirstHalf,Foul,Successful,24,,
+14,2,Manchester United,43.8,11.2,FirstHalf,Foul,Unsuccessful,3,,
+14,38,Villarreal,56.4,94.7,FirstHalf,Pass,Successful,5,78.6,96.8
+14,42,Villarreal,86.8,94.5,FirstHalf,Pass,Unsuccessful,24,87.7,91.2
+14,42,Manchester United,11.2,9.5,FirstHalf,Clearance,Successful,29,,
+14,43,Villarreal,87.9,92.4,FirstHalf,CornerAwarded,Successful,24,,
+14,43,Manchester United,12.1,7.6,FirstHalf,CornerAwarded,Unsuccessful,29,,
+15,11,Villarreal,99.5,99.5,FirstHalf,Pass,Successful,30,97,96.8
+15,13,Villarreal,97,96.8,FirstHalf,Pass,Successful,5,93.6,32.7
+15,15,Villarreal,93.6,32.7,FirstHalf,MissedShots,Successful,14,,
+15,36,Manchester United,4.7,50.4,FirstHalf,Pass,Unsuccessful,1,45.6,100
+15,54,Villarreal,64.7,0,FirstHalf,Pass,Successful,8,74.7,5.6
+15,55,Villarreal,74.7,5.6,FirstHalf,Pass,Successful,7,81,12.3
+16,3,Villarreal,89.6,3,FirstHalf,TakeOn,Unsuccessful,30,,
+16,4,Manchester United,10.4,97,FirstHalf,Tackle,Successful,23,,
+16,4,Manchester United,13.6,95.4,FirstHalf,BallRecovery,Successful,23,,
+16,6,Manchester United,20.7,96.5,FirstHalf,Pass,Successful,23,29,92.9
+16,8,Manchester United,30.2,86.4,FirstHalf,Foul,Successful,7,,
+16,8,Villarreal,69.8,13.6,FirstHalf,Foul,Unsuccessful,3,,
+17,12,Manchester United,30.4,80.8,FirstHalf,Pass,Successful,2,38.5,74.5
+17,14,Manchester United,41,62.3,FirstHalf,Pass,Successful,6,41.6,35.1
+17,20,Manchester United,55.7,31.2,FirstHalf,Pass,Successful,39,78.3,96.5
+17,24,Manchester United,78.3,96,FirstHalf,Pass,Successful,10,72.6,93.8
+17,26,Manchester United,76.8,86.9,FirstHalf,TakeOn,Unsuccessful,23,,
+17,26,Villarreal,23.2,13.1,FirstHalf,Tackle,Successful,7,,
+17,28,Villarreal,23.6,10.7,FirstHalf,BallRecovery,Successful,7,,
+17,31,Villarreal,22.6,5.8,FirstHalf,Pass,Successful,7,28.4,25.9
+17,33,Villarreal,28.4,25.9,FirstHalf,Pass,Successful,5,38.4,23.7
+17,36,Villarreal,37.8,32.7,FirstHalf,Pass,Unsuccessful,9,37,41.6
+17,37,Manchester United,64.3,57.8,FirstHalf,Interception,Successful,7,,
+17,38,Manchester United,61.4,58.5,FirstHalf,BallRecovery,Successful,7,,
+17,38,Manchester United,61.4,58.5,FirstHalf,Pass,Successful,7,48.2,57.2
+17,40,Manchester United,48.2,57.2,FirstHalf,Pass,Successful,3,56.2,81.8
+17,43,Manchester United,58.1,82.9,FirstHalf,Pass,Successful,23,67.5,96.3
+17,44,Manchester United,67.5,96.3,FirstHalf,Pass,Successful,10,61,73.8
+17,47,Manchester United,61.2,72.7,FirstHalf,Pass,Successful,6,87.2,94.8
+17,51,Manchester United,87.4,91.6,FirstHalf,TakeOn,Unsuccessful,10,,
+17,52,Villarreal,12.6,8.4,FirstHalf,Tackle,Unsuccessful,30,,
+17,52,Manchester United,87.2,91.7,FirstHalf,BallTouch,Successful,10,,
+17,53,Villarreal,24.5,8.2,FirstHalf,BallRecovery,Successful,30,,
+17,55,Villarreal,23.6,9.1,FirstHalf,Pass,Unsuccessful,30,14.1,12.5
+17,58,Manchester United,85.7,87.3,FirstHalf,TakeOn,Unsuccessful,7,,
+17,58,Villarreal,14.3,12.7,FirstHalf,Tackle,Unsuccessful,7,,
+18,0,Manchester United,91.7,86,FirstHalf,BallRecovery,Successful,7,,
+18,0,Manchester United,91.9,86.3,FirstHalf,BallTouch,Unsuccessful,7,,
+18,3,Villarreal,9.6,14.1,FirstHalf,BallRecovery,Successful,25,,
+18,4,Villarreal,10.2,14.3,FirstHalf,Pass,Successful,25,37,25.8
+18,9,Villarreal,39.3,25.2,FirstHalf,BallTouch,Unsuccessful,9,,
+18,10,Manchester United,61.9,75.7,FirstHalf,BallRecovery,Successful,6,,
+18,13,Manchester United,59.1,73.2,FirstHalf,Pass,Successful,6,59.4,90.5
+18,16,Manchester United,61.1,91.1,FirstHalf,Pass,Successful,23,71.7,97.8
+18,18,Manchester United,73.5,92.7,FirstHalf,Pass,Unsuccessful,18,88.4,58.4
+18,20,Villarreal,10.7,46,FirstHalf,BallTouch,Successful,4,,
+18,22,Villarreal,4.1,32.8,FirstHalf,KeeperPickup,Successful,13,,
+18,30,Villarreal,8.3,42.7,FirstHalf,Pass,Successful,13,9.5,68.4
+18,33,Villarreal,10.7,70.9,FirstHalf,Pass,Successful,4,19,93.9
+18,37,Villarreal,20.1,96,FirstHalf,Pass,Unsuccessful,24,50.8,96.2
+18,39,Manchester United,47.4,3.1,FirstHalf,Pass,Successful,3,79.9,10.6
+18,42,Manchester United,80.6,10.9,FirstHalf,BallRecovery,Successful,11,,
+18,46,Manchester United,90.1,3.5,FirstHalf,Pass,Successful,11,82.9,5
+18,48,Manchester United,80.9,9.7,FirstHalf,Pass,Successful,29,73.5,6.4
+18,54,Manchester United,67.7,33.7,FirstHalf,Pass,Successful,39,66.4,74.2
+18,58,Manchester United,66.3,74.2,FirstHalf,Pass,Successful,23,72.5,88.1
+19,1,Manchester United,70.9,87.7,FirstHalf,Pass,Successful,10,65.8,81.1
+19,4,Manchester United,66.7,88.4,FirstHalf,Pass,Successful,23,66.3,97.2
+19,5,Manchester United,66.3,96.9,FirstHalf,Pass,Successful,10,59.4,74.1
+19,8,Manchester United,59.4,74.1,FirstHalf,Pass,Successful,2,69.5,74.5
+19,9,Manchester United,69.5,74.5,FirstHalf,Pass,Successful,18,59.9,71.1
+19,10,Manchester United,59.9,71.1,FirstHalf,Pass,Successful,2,64.3,87.5
+19,15,Manchester United,67.8,82.1,FirstHalf,Pass,Successful,6,71.6,96.9
+19,16,Manchester United,71.6,96.9,FirstHalf,Pass,Successful,23,67.2,83.2
+19,18,Manchester United,64.8,79.4,FirstHalf,Pass,Successful,6,56.1,34.5
+19,24,Manchester United,62.5,24,FirstHalf,Pass,Successful,3,69.5,4.1
+19,26,Manchester United,69.9,5.2,FirstHalf,Pass,Successful,11,61.1,20.4
+19,31,Manchester United,63.6,23.7,FirstHalf,Pass,Successful,3,76.4,5
+19,34,Manchester United,77.2,7.6,FirstHalf,Pass,Successful,29,76.3,27.1
+19,36,Manchester United,81.6,23.5,FirstHalf,Dispossessed,Successful,11,,
+19,36,Villarreal,18.4,76.5,FirstHalf,Tackle,Unsuccessful,5,,
+19,38,Manchester United,89.9,12.6,FirstHalf,Pass,Unsuccessful,29,91.9,53.6
+19,39,Villarreal,8.2,45.2,FirstHalf,Aerial,Successful,3,,
+19,39,Manchester United,91.8,54.8,FirstHalf,Aerial,Unsuccessful,18,,
+19,39,Villarreal,8.2,43.9,FirstHalf,Clearance,Successful,3,17.7,24.4
+19,42,Manchester United,85.6,75,FirstHalf,MissedShots,Successful,23,,
+20,5,Villarreal,4.9,56,FirstHalf,Pass,Unsuccessful,13,56.1,25.3
+20,8,Manchester United,42,72.2,FirstHalf,Aerial,Successful,23,,
+20,8,Villarreal,58,27.8,FirstHalf,Aerial,Unsuccessful,7,,
+20,8,Manchester United,40.2,69.7,FirstHalf,Pass,Successful,23,42.4,66.4
+20,8,Manchester United,41,76.1,FirstHalf,BallTouch,Successful,2,,
+20,9,Villarreal,56.8,29.2,FirstHalf,Foul,Successful,7,,
+20,9,Manchester United,43.2,70.8,FirstHalf,Foul,Unsuccessful,23,,
+20,41,Villarreal,60,29.7,FirstHalf,Pass,Unsuccessful,5,92.5,64.9
+20,44,Manchester United,8.6,35.6,FirstHalf,Aerial,Successful,3,,
+20,44,Villarreal,91.4,64.4,FirstHalf,Aerial,Unsuccessful,7,,
+20,44,Manchester United,9.7,36.1,FirstHalf,Clearance,Successful,3,0,24.4
+20,46,Villarreal,91,63.8,FirstHalf,CornerAwarded,Successful,5,,
+20,46,Manchester United,9,36.2,FirstHalf,CornerAwarded,Unsuccessful,3,,
+21,29,Villarreal,99.7,99.3,FirstHalf,Pass,Unsuccessful,5,95.2,52.4
+21,30,Manchester United,4.9,49.4,FirstHalf,Clearance,Successful,39,22.2,61.4
+21,34,Villarreal,80.1,38.6,FirstHalf,SavedShot,Successful,30,,
+21,34,Manchester United,13.5,57.8,FirstHalf,Save,Successful,39,,
+21,35,Villarreal,86.4,41.4,FirstHalf,CornerAwarded,Successful,30,,
+21,35,Manchester United,13.6,58.6,FirstHalf,CornerAwarded,Unsuccessful,39,,
+22,15,Villarreal,99.5,0.5,FirstHalf,Pass,Unsuccessful,5,92.8,31.9
+22,15,Manchester United,8.7,65.2,FirstHalf,Clearance,Successful,18,36.9,74.4
+22,19,Villarreal,66.7,26.1,FirstHalf,Pass,Unsuccessful,14,85.3,56.6
+22,21,Manchester United,14.6,43.7,FirstHalf,Aerial,Successful,3,,
+22,21,Villarreal,85.4,56.3,FirstHalf,Aerial,Unsuccessful,4,,
+22,21,Manchester United,14.5,44,FirstHalf,Clearance,Successful,3,15.1,41.9
+22,23,Villarreal,86,57.2,FirstHalf,Aerial,Successful,4,,
+22,23,Manchester United,14,42.8,FirstHalf,Aerial,Unsuccessful,3,,
+22,23,Villarreal,85.7,56,FirstHalf,Pass,Unsuccessful,4,88.3,60.6
+22,23,Manchester United,11,43.5,FirstHalf,BallTouch,Successful,3,,
+22,24,Manchester United,12.1,37.1,FirstHalf,Clearance,Successful,10,8.1,36.5
+22,27,Manchester United,7.7,34.7,FirstHalf,Clearance,Successful,29,10.8,23.5
+22,30,Villarreal,97.5,74.8,FirstHalf,Pass,Successful,9,92.7,53.9
+22,31,Villarreal,92.7,53.9,FirstHalf,MissedShots,Successful,4,,
+22,50,Manchester United,4.7,44.2,FirstHalf,Pass,Successful,1,37.2,89.7
+22,57,Manchester United,37,89.6,FirstHalf,Pass,Successful,18,32.8,81.4
+22,58,Manchester United,32.8,81.4,FirstHalf,Pass,Successful,6,24.8,94.5
+23,0,Manchester United,24.8,93.6,FirstHalf,Pass,Successful,23,27.3,84.1
+23,2,Manchester United,27.1,81.1,FirstHalf,Pass,Successful,6,33.8,8.2
+23,7,Manchester United,46.8,5.6,FirstHalf,Pass,Successful,29,65.1,7.7
+23,10,Manchester United,63.6,11.6,FirstHalf,Pass,Successful,11,90.4,63.3
+23,13,Manchester United,90.4,63.3,FirstHalf,Pass,Unsuccessful,7,92.5,53.4
+23,14,Villarreal,5,46.6,FirstHalf,KeeperPickup,Successful,13,,
+23,24,Villarreal,9.5,47.6,FirstHalf,Pass,Unsuccessful,13,33.5,63.4
+23,32,Manchester United,72.1,37.4,FirstHalf,BallRecovery,Successful,10,,
+23,33,Manchester United,72.2,37.3,FirstHalf,SavedShot,Successful,10,,
+23,34,Villarreal,3,52.4,FirstHalf,Save,Successful,13,,
+23,34,Villarreal,3,52.4,FirstHalf,KeeperPickup,Successful,13,,
+23,42,Villarreal,8.2,45.1,FirstHalf,Pass,Successful,13,17,23.3
+23,47,Villarreal,21.9,21.6,FirstHalf,Pass,Successful,3,28.1,24.9
+23,48,Villarreal,28.1,24.9,FirstHalf,Pass,Successful,25,23.1,15.3
+23,50,Villarreal,23.8,11.4,FirstHalf,Pass,Successful,3,23.9,2.2
+23,52,Villarreal,22.8,2.5,FirstHalf,Pass,Successful,8,7.6,29.1
+23,55,Villarreal,8.7,32.7,FirstHalf,Pass,Successful,13,9,82.3
+24,2,Villarreal,15.3,94.1,FirstHalf,Pass,Successful,4,49.1,95.7
+24,6,Villarreal,45,97.2,FirstHalf,Pass,Unsuccessful,9,46.8,97.7
+24,6,Manchester United,59.9,2.5,FirstHalf,BlockedPass,Successful,3,,
+24,6,Villarreal,43.5,97.4,FirstHalf,BallTouch,Successful,9,,
+24,17,Manchester United,50.2,0,FirstHalf,Pass,Successful,29,39,17.7
+24,23,Manchester United,36.9,33.3,FirstHalf,Pass,Successful,3,45.7,41.8
+24,26,Manchester United,45.8,48.7,FirstHalf,Pass,Successful,6,54.9,78.5
+24,32,Manchester United,75.9,88,FirstHalf,Pass,Successful,2,75.8,97.1
+24,33,Manchester United,75.8,97.1,FirstHalf,Pass,Successful,23,65.9,82.4
+24,37,Manchester United,67,66.6,FirstHalf,Pass,Successful,6,73.2,6.4
+24,42,Manchester United,73.4,7.4,FirstHalf,Pass,Successful,29,73.1,26.5
+24,43,Manchester United,71.7,24.6,FirstHalf,Pass,Successful,18,70.9,9.7
+24,46,Manchester United,70.1,34.2,FirstHalf,Pass,Unsuccessful,29,79.7,45.4
+24,48,Villarreal,18.9,51.9,FirstHalf,Clearance,Successful,3,23.5,100
+25,5,Manchester United,69.7,0,FirstHalf,Pass,Successful,29,44.5,12.2
+25,10,Manchester United,47.4,35.1,FirstHalf,Pass,Successful,3,49.9,68.8
+25,14,Manchester United,53.2,67.5,FirstHalf,Pass,Successful,2,47.7,44.8
+25,19,Manchester United,48,40.9,FirstHalf,Pass,Successful,3,65.8,5.5
+25,21,Manchester United,65.8,5.5,FirstHalf,Pass,Successful,29,64.7,17.3
+25,22,Manchester United,64.7,17.3,FirstHalf,Pass,Successful,11,55.1,16.1
+25,29,Manchester United,58,28.2,FirstHalf,Pass,Successful,39,56.5,70.3
+25,33,Manchester United,60,70.9,FirstHalf,Pass,Successful,2,73.6,96.6
+25,35,Manchester United,73.4,96,FirstHalf,Pass,Successful,23,71.5,86
+25,37,Manchester United,71.5,86,FirstHalf,Pass,Successful,10,61.1,80
+25,38,Manchester United,61.1,80,FirstHalf,Pass,Successful,2,67.9,84.1
+25,42,Manchester United,67.4,76.1,FirstHalf,Pass,Successful,10,78.3,4
+25,52,Manchester United,78.3,9.5,FirstHalf,Pass,Successful,29,73.1,15.9
+25,54,Manchester United,73.1,15.9,FirstHalf,Pass,Successful,39,65.7,26.5
+25,56,Manchester United,65.7,26.5,FirstHalf,Pass,Unsuccessful,6,94.4,52.5
+25,58,Villarreal,5.5,46.2,FirstHalf,Aerial,Successful,13,,
+25,58,Manchester United,94.5,53.8,FirstHalf,Aerial,Unsuccessful,18,,
+25,58,Villarreal,5.4,44.9,FirstHalf,Claim,Successful,13,,
+26,12,Villarreal,8.7,45.1,FirstHalf,Pass,Successful,13,13.9,70.2
+26,16,Villarreal,24.1,72.3,FirstHalf,Pass,Unsuccessful,4,46.3,43.7
+26,18,Manchester United,56.1,55.8,FirstHalf,BallRecovery,Successful,6,,
+26,19,Manchester United,56.1,55.8,FirstHalf,Pass,Successful,6,65.1,65.8
+26,20,Manchester United,65.1,65.8,FirstHalf,Pass,Successful,10,60.6,63.9
+26,23,Manchester United,62.6,62.6,FirstHalf,Dispossessed,Successful,6,,
+26,23,Villarreal,37.4,37.4,FirstHalf,Tackle,Successful,30,,
+26,25,Villarreal,33.9,41.9,FirstHalf,BallRecovery,Successful,5,,
+26,25,Villarreal,33.9,41.9,FirstHalf,Pass,Successful,5,45,31.6
+26,29,Villarreal,53.5,30,FirstHalf,Pass,Successful,7,63.7,38.3
+26,33,Villarreal,77.3,36.4,FirstHalf,MissedShots,Successful,30,,
+27,0,Manchester United,4.9,50.3,FirstHalf,Pass,Successful,1,6.2,68.8
+27,3,Manchester United,4.1,61.7,FirstHalf,Pass,Successful,2,12,3.2
+27,6,Manchester United,12,3.2,FirstHalf,Pass,Successful,29,25.2,14.4
+27,9,Manchester United,25.4,7.4,FirstHalf,Foul,Successful,39,,
+27,9,Villarreal,74.6,92.6,FirstHalf,Foul,Unsuccessful,5,,
+27,17,Manchester United,24.9,7.9,FirstHalf,Pass,Successful,29,13.3,32.5
+27,19,Manchester United,13.3,32.5,FirstHalf,Pass,Successful,3,20.2,65.5
+27,22,Manchester United,20.2,65.5,FirstHalf,Pass,Successful,2,36.4,95.7
+27,26,Manchester United,36.5,96,FirstHalf,Pass,Successful,23,29.2,73.9
+27,31,Manchester United,23.6,67.6,FirstHalf,Pass,Successful,2,19.3,45.7
+27,38,Manchester United,27.1,55.2,FirstHalf,Pass,Successful,3,27.3,79.4
+27,40,Manchester United,25.9,78.5,FirstHalf,Pass,Successful,2,6,67.6
+27,44,Manchester United,9,55.1,FirstHalf,Pass,Unsuccessful,1,32.1,26.4
+27,45,Villarreal,64,70.9,FirstHalf,BallRecovery,Successful,14,,
+27,46,Villarreal,65.8,70,FirstHalf,Pass,Successful,14,67.3,56.7
+27,48,Villarreal,67.2,60.2,FirstHalf,Pass,Successful,5,65,66.4
+27,51,Villarreal,63.9,56,FirstHalf,Pass,Unsuccessful,14,73.7,34.8
+27,51,Manchester United,31.4,61.8,FirstHalf,Interception,Successful,6,,
+27,53,Villarreal,76.5,29.4,FirstHalf,Pass,Unsuccessful,30,76.8,36.4
+27,53,Manchester United,31,56.6,FirstHalf,Interception,Successful,6,,
+27,54,Villarreal,77.5,35.7,FirstHalf,BallTouch,Successful,7,,
+27,55,Manchester United,13.9,60.6,FirstHalf,BallRecovery,Successful,2,,
+27,55,Manchester United,13.9,60.6,FirstHalf,Pass,Successful,2,3.1,52.2
+27,58,Manchester United,3.1,47.3,FirstHalf,Pass,Successful,1,21.7,15.8
+28,2,Manchester United,27.1,2.4,FirstHalf,Dispossessed,Successful,29,,
+28,3,Villarreal,72.9,97.6,FirstHalf,Tackle,Unsuccessful,14,,
+28,5,Manchester United,25.9,3.5,FirstHalf,Pass,Successful,29,28.4,19.2
+28,6,Manchester United,28.8,22.5,FirstHalf,BallTouch,Successful,39,,
+28,10,Manchester United,33,33.4,FirstHalf,Pass,Unsuccessful,6,37.7,39.7
+28,10,Villarreal,61.1,66.4,FirstHalf,Pass,Successful,7,64.5,82
+28,12,Villarreal,67.3,73.2,FirstHalf,BallRecovery,Successful,14,,
+28,13,Villarreal,67.3,73.2,FirstHalf,Pass,Successful,14,63.2,69.6
+28,15,Villarreal,62.7,72,FirstHalf,Foul,Successful,5,,
+28,15,Manchester United,37.3,28,FirstHalf,Foul,Unsuccessful,7,,
+28,52,Villarreal,67.8,73.2,FirstHalf,Pass,Successful,5,92.2,44.5
+28,55,Villarreal,91.8,45.1,FirstHalf,Goal,Successful,7,,
+30,5,Manchester United,49.9,50.1,FirstHalf,Pass,Successful,18,31,40.7
+30,8,Manchester United,30.9,40.7,FirstHalf,Pass,Successful,3,36.4,85.3
+30,13,Manchester United,37.3,87.8,FirstHalf,Pass,Successful,23,32.5,62.9
+30,19,Manchester United,34,48.8,FirstHalf,Pass,Successful,2,33.3,27.9
+30,26,Manchester United,35.8,49.7,FirstHalf,Pass,Successful,3,37,74.2
+30,28,Manchester United,37,74.2,FirstHalf,Pass,Successful,2,41.7,91.4
+30,30,Manchester United,41.7,91.4,FirstHalf,Pass,Successful,23,58.2,97.4
+30,32,Manchester United,57.2,95.7,FirstHalf,Pass,Successful,10,56.8,88.1
+30,34,Manchester United,60.9,75.4,FirstHalf,Pass,Unsuccessful,23,63.3,75.1
+30,34,Villarreal,35.3,31.2,FirstHalf,BlockedPass,Successful,25,,
+30,35,Villarreal,26.5,28.6,FirstHalf,BallRecovery,Successful,5,,
+30,35,Villarreal,28.1,26.8,FirstHalf,Pass,Successful,5,17.4,18.2
+30,38,Villarreal,18.8,22.7,FirstHalf,Pass,Successful,3,51.6,32.4
+30,41,Villarreal,53.1,31.5,FirstHalf,Aerial,Successful,9,,
+30,41,Manchester United,46.9,68.5,FirstHalf,Aerial,Unsuccessful,2,,
+30,41,Villarreal,51.9,32.4,FirstHalf,Pass,Unsuccessful,9,58.9,35.7
+30,42,Manchester United,39.1,63,FirstHalf,BallRecovery,Successful,3,,
+30,44,Manchester United,38.4,60.6,FirstHalf,Pass,Successful,3,40.5,27.9
+30,47,Manchester United,40.8,27,FirstHalf,Pass,Unsuccessful,29,85.3,30.7
+30,51,Villarreal,14.2,71.4,FirstHalf,KeeperPickup,Successful,13,,
+30,59,Villarreal,14.2,66.4,FirstHalf,Pass,Successful,13,30.9,91.5
+31,2,Villarreal,31.5,92,FirstHalf,Pass,Successful,24,30.6,73
+31,4,Villarreal,31,72.9,FirstHalf,Pass,Successful,5,47.5,71.8
+31,5,Villarreal,46.1,71.5,FirstHalf,BallTouch,Unsuccessful,9,,
+31,5,Manchester United,53.2,26.4,FirstHalf,BallTouch,Successful,3,,
+31,7,Manchester United,42.9,23,FirstHalf,BallRecovery,Successful,39,,
+31,10,Manchester United,39.9,27,FirstHalf,Pass,Successful,39,36,56.6
+31,13,Manchester United,36.4,59.1,FirstHalf,Pass,Successful,2,43.5,88
+31,18,Manchester United,46,92.9,FirstHalf,Pass,Unsuccessful,23,80.9,74.7
+31,20,Villarreal,19.9,24,FirstHalf,Clearance,Successful,3,29.4,0
+31,25,Manchester United,59.9,100,FirstHalf,Pass,Successful,23,46.1,78.1
+31,29,Manchester United,47.1,75.4,FirstHalf,Pass,Successful,2,55.9,63.1
+31,32,Manchester United,51.7,56.1,FirstHalf,Pass,Successful,39,43.5,26.8
+31,35,Manchester United,43.5,26.8,FirstHalf,Pass,Successful,3,47,69.3
+31,38,Manchester United,49.6,69.3,FirstHalf,Pass,Successful,2,63.2,96
+31,42,Manchester United,62.8,91.2,FirstHalf,Pass,Successful,23,47,65.1
+31,46,Manchester United,47.8,57.9,FirstHalf,Pass,Successful,2,46.5,40.7
+31,53,Manchester United,55.3,48.7,FirstHalf,Pass,Successful,3,52.6,66.7
+31,56,Manchester United,55.5,70,FirstHalf,Pass,Successful,2,65.7,76.6
+31,58,Manchester United,65.4,77.9,FirstHalf,Pass,Successful,18,83,84.8
+32,0,Manchester United,83,84.8,FirstHalf,Pass,Successful,23,75.7,77.5
+32,1,Manchester United,75.7,77.5,FirstHalf,Pass,Unsuccessful,10,88.6,76.1
+32,1,Villarreal,13.8,20,FirstHalf,BallRecovery,Successful,8,,
+32,5,Villarreal,24.5,34.5,FirstHalf,Pass,Successful,8,32.6,38.2
+32,7,Villarreal,33.2,41,FirstHalf,TakeOn,Unsuccessful,14,,
+32,7,Manchester United,66.8,59,FirstHalf,Tackle,Unsuccessful,39,,
+32,7,Villarreal,33.3,38,FirstHalf,BallTouch,Successful,14,,
+32,9,Manchester United,67.2,56.3,FirstHalf,BallRecovery,Successful,39,,
+32,11,Manchester United,70,53.1,FirstHalf,BallTouch,Unsuccessful,39,,
+32,12,Villarreal,27.3,53.6,FirstHalf,BallRecovery,Successful,5,,
+32,12,Villarreal,27.3,56,FirstHalf,Pass,Successful,5,47.4,67.9
+32,16,Villarreal,48.8,66.4,FirstHalf,Pass,Unsuccessful,9,52,54.6
+32,17,Manchester United,47.5,44.8,FirstHalf,BallRecovery,Successful,6,,
+32,17,Manchester United,48.4,46.2,FirstHalf,Pass,Successful,6,52.6,40
+32,19,Manchester United,54.7,37.9,FirstHalf,Pass,Successful,39,68,39.4
+32,21,Manchester United,68.2,37.4,FirstHalf,Pass,Successful,7,68.2,13.7
+32,24,Manchester United,70,15.3,FirstHalf,Pass,Successful,11,68.6,29.7
+32,25,Manchester United,68.6,29.7,FirstHalf,Pass,Successful,39,63.2,42.4
+32,28,Manchester United,63.3,43.6,FirstHalf,Pass,Successful,6,66,81.2
+32,31,Manchester United,68.2,84.8,FirstHalf,Pass,Successful,23,57.8,65.1
+32,35,Manchester United,57.8,65.1,FirstHalf,Pass,Successful,2,55.5,41
+32,37,Manchester United,56.4,38.5,FirstHalf,Pass,Successful,3,66,7.4
+32,39,Manchester United,66,7.4,FirstHalf,Pass,Successful,29,69.1,15.3
+32,42,Manchester United,69.1,15.3,FirstHalf,Pass,Unsuccessful,18,88.5,50.3
+32,44,Villarreal,12.4,46.6,FirstHalf,Clearance,Successful,3,15.3,56.1
+32,45,Villarreal,15.3,56.1,FirstHalf,Clearance,Successful,5,36,68.7
+32,47,Villarreal,35.3,69.4,FirstHalf,Aerial,Successful,9,,
+32,47,Manchester United,64.7,30.6,FirstHalf,Aerial,Unsuccessful,39,,
+32,47,Villarreal,36.4,68.7,FirstHalf,Pass,Unsuccessful,9,46.9,72
+32,50,Manchester United,59.1,17.7,FirstHalf,Pass,Successful,3,66.4,3.7
+32,52,Villarreal,35.2,95.2,FirstHalf,Challenge,Unsuccessful,14,,
+32,52,Manchester United,64.8,4.8,FirstHalf,TakeOn,Successful,29,,
+32,53,Manchester United,65.7,13.5,FirstHalf,Pass,Unsuccessful,29,78.3,0
+33,13,Villarreal,20.9,100,FirstHalf,Pass,Successful,24,21.2,92
+33,15,Villarreal,21.5,87.7,FirstHalf,Pass,Successful,5,12.6,61.2
+33,17,Villarreal,9.4,61.8,FirstHalf,Pass,Successful,3,3.5,81.2
+33,19,Villarreal,3.3,81.2,FirstHalf,Pass,Unsuccessful,4,37,26.4
+33,22,Manchester United,64.4,73.5,FirstHalf,Pass,Successful,23,47.2,67.3
+33,25,Manchester United,47.2,67.5,FirstHalf,BallRecovery,Successful,6,,
+33,29,Manchester United,58,71.5,FirstHalf,Pass,Successful,6,67.5,76.9
+33,31,Manchester United,64.9,76.7,FirstHalf,Pass,Successful,18,47.7,67.3
+33,34,Manchester United,52.1,68.7,FirstHalf,Pass,Successful,2,59.9,91.4
+33,37,Manchester United,59.8,88.1,FirstHalf,Pass,Successful,18,47.8,66.1
+33,40,Manchester United,47.1,57.5,FirstHalf,Pass,Successful,2,54.7,25.5
+33,46,Manchester United,61.3,23.7,FirstHalf,Pass,Successful,39,52.5,68.2
+33,52,Manchester United,55.1,66.4,FirstHalf,Pass,Successful,2,56.7,54.8
+33,53,Manchester United,56.4,54.2,FirstHalf,Pass,Successful,6,48.2,32.8
+33,59,Manchester United,58.6,31.3,FirstHalf,Pass,Successful,3,48,63.3
+34,4,Manchester United,59,72,FirstHalf,Pass,Successful,2,69.6,73.6
+34,4,Manchester United,69.6,73.6,FirstHalf,Pass,Successful,18,65.3,86.6
+34,6,Manchester United,65.3,86.6,FirstHalf,Pass,Successful,2,71.1,96.9
+34,6,Manchester United,71.1,96.9,FirstHalf,Pass,Unsuccessful,23,72.6,92.7
+34,7,Villarreal,26.5,5.3,FirstHalf,BallTouch,Successful,30,,
+34,8,Villarreal,17,5.8,FirstHalf,BallRecovery,Successful,8,,
+34,11,Villarreal,8.6,4.1,FirstHalf,Pass,Successful,8,21.1,9.5
+34,14,Villarreal,25.2,11.3,FirstHalf,Foul,Successful,25,,
+34,14,Manchester United,74.8,88.7,FirstHalf,Foul,Unsuccessful,23,,
+34,41,Villarreal,19.2,14.1,FirstHalf,Pass,Unsuccessful,13,66,25.2
+34,45,Manchester United,34.4,72.4,FirstHalf,Aerial,Successful,2,,
+34,45,Villarreal,65.6,27.6,FirstHalf,Aerial,Unsuccessful,7,,
+34,45,Manchester United,34,67.5,FirstHalf,Pass,Unsuccessful,2,36.7,100
+35,6,Villarreal,66.4,0,FirstHalf,Pass,Successful,8,63.8,5
+35,7,Villarreal,63.8,5,FirstHalf,Pass,Successful,5,65.3,1
+35,8,Villarreal,65,4.6,FirstHalf,TakeOn,Successful,8,,
+35,8,Manchester United,35,95.4,FirstHalf,Challenge,Unsuccessful,18,,
+35,9,Villarreal,70.3,1,FirstHalf,Pass,Unsuccessful,8,71.6,2.8
+35,9,Manchester United,34.5,96,FirstHalf,BlockedPass,Successful,10,,
+35,11,Manchester United,34.2,89.6,FirstHalf,BallRecovery,Successful,6,,
+35,12,Manchester United,34.2,89.6,FirstHalf,Pass,Unsuccessful,6,32.4,90.6
+35,12,Villarreal,68.7,3.2,FirstHalf,BlockedPass,Successful,30,,
+35,17,Manchester United,35.6,100,FirstHalf,Pass,Successful,23,17.9,83.8
+35,21,Manchester United,20.9,73.3,FirstHalf,Pass,Successful,2,23.8,61.1
+35,24,Manchester United,22.5,58.7,FirstHalf,Pass,Successful,39,39.4,46.3
+35,26,Manchester United,39.4,46.3,FirstHalf,Pass,Successful,11,42.2,91.5
+35,32,Manchester United,61.1,87.5,FirstHalf,Pass,Unsuccessful,23,65.9,82.6
+35,33,Villarreal,32.3,15.5,FirstHalf,Interception,Successful,25,,
+35,34,Manchester United,66.3,65.4,FirstHalf,Pass,Unsuccessful,6,67.2,61.7
+35,34,Villarreal,28.8,38.3,FirstHalf,BlockedPass,Successful,5,,
+35,35,Villarreal,26,38.8,FirstHalf,Pass,Successful,4,40.1,37.7
+35,37,Villarreal,38.3,32.6,FirstHalf,Pass,Unsuccessful,7,40.9,38.6
+35,37,Manchester United,64.8,50.6,FirstHalf,BallRecovery,Successful,39,,
+35,39,Manchester United,64.8,50.6,FirstHalf,Pass,Successful,39,68.8,14.6
+35,43,Manchester United,78.5,13.5,FirstHalf,Pass,Unsuccessful,29,92.8,53.9
+35,44,Villarreal,8,48.7,FirstHalf,Clearance,Successful,3,21.6,62.1
+35,46,Villarreal,21.5,62.6,FirstHalf,BallRecovery,Successful,7,,
+35,47,Villarreal,21.7,63.3,FirstHalf,Pass,Unsuccessful,7,41.3,90.8
+35,51,Manchester United,57.8,10.4,FirstHalf,Dispossessed,Successful,29,,
+35,51,Villarreal,42.2,89.6,FirstHalf,Tackle,Unsuccessful,24,,
+35,52,Manchester United,54.9,15.9,FirstHalf,BallRecovery,Successful,3,,
+35,52,Manchester United,54.9,15.9,FirstHalf,Pass,Successful,3,66.1,11.1
+35,54,Manchester United,66.1,11.1,FirstHalf,Pass,Successful,7,69.6,24.1
+35,58,Manchester United,93.2,22.7,FirstHalf,Pass,Unsuccessful,39,100,49.7
+36,33,Villarreal,4.6,57.2,FirstHalf,Pass,Successful,13,30.4,30
+36,35,Villarreal,30.4,30,FirstHalf,Pass,Successful,3,43.1,4
+36,39,Villarreal,53.2,9.1,FirstHalf,Pass,Successful,8,55.2,33.3
+36,40,Villarreal,55.2,33.3,FirstHalf,BallTouch,Unsuccessful,7,,
+36,41,Manchester United,52.7,60.5,FirstHalf,BallRecovery,Successful,11,,
+36,41,Manchester United,52.7,60.5,FirstHalf,Pass,Successful,11,67.3,96.2
+36,49,Manchester United,88.9,71.4,FirstHalf,Pass,Unsuccessful,10,88.6,67.5
+36,49,Villarreal,13.6,25.3,FirstHalf,BallTouch,Successful,25,,
+36,49,Villarreal,14,29.7,FirstHalf,BallTouch,Successful,5,,
+36,49,Manchester United,83.3,50.3,FirstHalf,BallTouch,Unsuccessful,7,,
+36,51,Villarreal,15.5,38.5,FirstHalf,BallRecovery,Successful,7,,
+36,51,Villarreal,17.4,42.7,FirstHalf,Pass,Unsuccessful,7,66.6,41.5
+36,55,Manchester United,32.2,54.6,FirstHalf,BallRecovery,Successful,1,,
+36,55,Manchester United,32.2,54.6,FirstHalf,Pass,Successful,1,41.4,57.5
+37,0,Manchester United,46.5,58.2,FirstHalf,Pass,Successful,2,58.8,94.2
+37,3,Manchester United,58.8,94.2,FirstHalf,Pass,Successful,18,71,97.2
+37,8,Manchester United,74.6,89,FirstHalf,Pass,Successful,23,78,94.2
+37,9,Manchester United,78,94.2,FirstHalf,Pass,Successful,10,98.8,75.9
+37,12,Manchester United,98.8,75.9,FirstHalf,Pass,Unsuccessful,23,93.7,58.4
+37,12,Villarreal,4.9,39.2,FirstHalf,BallTouch,Successful,3,,
+37,14,Villarreal,3.6,42.4,FirstHalf,KeeperPickup,Successful,13,,
+37,36,Villarreal,15.9,30,FirstHalf,Pass,Unsuccessful,13,79.1,1
+37,43,Manchester United,29.9,96.8,FirstHalf,BallRecovery,Successful,2,,
+37,45,Manchester United,28.7,96.8,FirstHalf,Pass,Successful,2,15.1,85.9
+37,46,Manchester United,15.1,85.9,FirstHalf,Pass,Successful,6,3.1,58.4
+37,49,Manchester United,3.1,58.4,FirstHalf,Pass,Successful,1,18.3,27.4
+37,57,Manchester United,36.1,26.1,FirstHalf,Pass,Successful,3,35.1,42.5
+38,0,Manchester United,42.5,44.6,FirstHalf,Pass,Successful,39,50.9,70.6
+38,4,Manchester United,55.2,72.9,FirstHalf,Pass,Successful,6,54.4,53.4
+38,7,Manchester United,55.2,57,FirstHalf,Pass,Successful,39,50.5,77.8
+38,12,Manchester United,48.7,71.2,FirstHalf,Pass,Successful,2,53.8,25.2
+38,20,Manchester United,71.2,19.4,FirstHalf,Pass,Successful,3,78,4.1
+38,23,Manchester United,75.5,5.3,FirstHalf,Pass,Successful,29,65.8,6.4
+38,25,Manchester United,64.7,7.7,FirstHalf,Pass,Successful,3,56.9,51.6
+38,29,Manchester United,63.2,61.1,FirstHalf,Pass,Successful,2,66.8,74.1
+38,31,Manchester United,66.8,74.2,FirstHalf,Pass,Successful,6,75.5,96.8
+38,35,Manchester United,76.1,96.3,FirstHalf,Pass,Successful,23,77,89.9
+38,36,Manchester United,77,89.9,FirstHalf,Pass,Successful,10,89.3,95.4
+38,37,Manchester United,89.3,95.4,FirstHalf,Pass,Unsuccessful,23,90.8,55.7
+38,38,Villarreal,8.8,42.4,FirstHalf,Clearance,Successful,3,18,69.9
+38,41,Manchester United,70.6,18.1,FirstHalf,Dispossessed,Successful,29,,
+38,43,Villarreal,29.4,81.9,FirstHalf,Tackle,Unsuccessful,14,,
+38,44,Manchester United,69.7,18.3,FirstHalf,Pass,Successful,29,61.1,29.2
+38,46,Manchester United,61.1,29.2,FirstHalf,Pass,Successful,3,64.3,47.6
+38,47,Manchester United,64.3,47.6,FirstHalf,Pass,Successful,6,58,35.1
+38,49,Manchester United,58,35.1,FirstHalf,Pass,Successful,3,64.9,16.5
+38,52,Manchester United,63.2,24,FirstHalf,Pass,Successful,29,61.6,39.1
+38,55,Manchester United,66.3,43.6,FirstHalf,Pass,Successful,6,67.5,66.9
+38,56,Manchester United,67.5,66.9,FirstHalf,Pass,Successful,10,60,67.6
+38,57,Manchester United,60,67.6,FirstHalf,Pass,Successful,2,71.9,94.7
+38,59,Manchester United,71.9,94.7,FirstHalf,Pass,Successful,23,92.2,78.7
+39,2,Manchester United,98,75.8,FirstHalf,Dispossessed,Successful,10,,
+39,3,Villarreal,2,24.2,FirstHalf,Tackle,Successful,25,,
+39,3,Villarreal,0.4,26.2,FirstHalf,BallTouch,Successful,30,,
+39,4,Villarreal,8.1,7.1,FirstHalf,BallRecovery,Successful,25,,
+39,9,Villarreal,9.6,2,FirstHalf,Pass,Unsuccessful,25,24.6,5
+39,11,Manchester United,67.8,89.6,FirstHalf,BallRecovery,Successful,6,,
+39,11,Manchester United,67.8,89.6,FirstHalf,Pass,Successful,6,70.9,97.1
+39,13,Manchester United,70.9,97.1,FirstHalf,Pass,Successful,23,71.9,88.9
+39,14,Manchester United,71.9,88.9,FirstHalf,Pass,Successful,6,86.8,75.9
+39,15,Manchester United,86.8,75.7,FirstHalf,Pass,Unsuccessful,10,93.8,67.5
+39,17,Villarreal,3.3,30.9,FirstHalf,BallTouch,Unsuccessful,4,,
+39,18,Manchester United,93.6,69.9,FirstHalf,Pass,Unsuccessful,7,88.5,56.9
+39,19,Villarreal,10.1,40.3,FirstHalf,BallRecovery,Successful,5,,
+39,19,Villarreal,10.1,40.3,FirstHalf,Pass,Successful,5,10.1,32.8
+39,20,Villarreal,10.1,32.8,FirstHalf,Pass,Successful,8,24.4,33.6
+39,21,Villarreal,24.4,33.6,FirstHalf,Pass,Successful,7,26.1,63.9
+39,22,Villarreal,26.1,63.9,FirstHalf,Pass,Successful,9,23.7,58.4
+39,24,Villarreal,23.7,58.4,FirstHalf,Pass,Successful,14,37.5,40.6
+39,27,Villarreal,36.2,31.6,FirstHalf,Pass,Successful,7,43.9,4.9
+39,31,Villarreal,44,3.8,FirstHalf,Pass,Successful,30,33.2,9.5
+39,37,Villarreal,22,7.1,FirstHalf,Pass,Successful,8,4.3,22.2
+39,40,Villarreal,5.1,16.2,FirstHalf,Pass,Unsuccessful,13,53.1,7.1
+39,44,Manchester United,42.1,89.1,FirstHalf,Pass,Unsuccessful,6,47.4,88.7
+39,45,Villarreal,52.3,4,FirstHalf,BallTouch,Unsuccessful,30,,
+39,58,Manchester United,44.3,100,FirstHalf,Pass,Successful,23,35.9,83.5
+40,0,Manchester United,35.9,82.3,FirstHalf,Pass,Successful,2,33.2,45.7
+40,7,Manchester United,34,39.4,FirstHalf,Pass,Successful,3,39.7,75.7
+40,12,Manchester United,44.3,76.3,FirstHalf,Pass,Successful,2,62.7,80.9
+40,14,Manchester United,61.6,76,FirstHalf,Dispossessed,Successful,10,,
+40,14,Villarreal,38.4,24,FirstHalf,Tackle,Successful,30,,
+40,15,Villarreal,46.4,32.4,FirstHalf,BallRecovery,Successful,7,,
+40,16,Villarreal,46.7,32.5,FirstHalf,Pass,Successful,7,53.6,36.6
+40,19,Villarreal,61.4,27.4,FirstHalf,Pass,Successful,9,60.8,3.7
+40,23,Villarreal,61.3,1.4,FirstHalf,Pass,Successful,7,47.7,2.9
+40,25,Villarreal,47.4,3.1,FirstHalf,Pass,Successful,8,60.4,3.6
+40,26,Villarreal,58.7,3.4,FirstHalf,Pass,Unsuccessful,7,68.5,10.8
+40,27,Manchester United,31.7,79.9,FirstHalf,BallRecovery,Successful,2,,
+40,30,Manchester United,33.7,75.1,FirstHalf,Pass,Successful,2,37.3,78.1
+40,32,Manchester United,37.3,76.4,FirstHalf,Pass,Unsuccessful,6,70.5,60.5
+40,35,Villarreal,31.8,40,FirstHalf,Pass,Unsuccessful,4,35.7,34.2
+40,36,Manchester United,67,64.8,FirstHalf,Pass,Successful,7,94.6,15.6
+40,41,Manchester United,94.6,14.1,FirstHalf,TakeOn,Unsuccessful,18,,
+40,41,Villarreal,5.4,85.9,FirstHalf,Tackle,Unsuccessful,24,,
+40,41,Manchester United,94.6,15.6,FirstHalf,BallTouch,Successful,18,,
+41,20,Villarreal,5.1,40.9,FirstHalf,Pass,Unsuccessful,13,72.5,26.8
+41,25,Manchester United,32.1,68.7,FirstHalf,Pass,Successful,2,35.8,87.2
+41,27,Manchester United,35.8,87.5,FirstHalf,BallRecovery,Successful,23,,
+41,30,Manchester United,35.9,89.3,FirstHalf,Pass,Successful,23,20.1,75.9
+41,33,Manchester United,20.6,74.4,FirstHalf,Pass,Successful,2,18.8,32.5
+41,36,Manchester United,22.3,30.1,FirstHalf,Pass,Successful,3,35.7,5
+41,39,Manchester United,36.1,8.5,FirstHalf,Pass,Successful,29,26.3,31
+41,44,Manchester United,28.5,49.7,FirstHalf,Pass,Successful,3,36.6,52.4
+41,46,Manchester United,36.9,56.4,FirstHalf,Pass,Successful,6,42.5,82.7
+41,52,Manchester United,58.2,82.3,FirstHalf,Pass,Successful,2,53.7,68.7
+41,55,Manchester United,53.8,59.3,FirstHalf,Pass,Successful,6,57.4,23.4
+42,0,Manchester United,71.5,11.6,FirstHalf,Pass,Successful,39,76.1,3.1
+42,2,Manchester United,75.8,3.5,FirstHalf,Pass,Successful,29,65.6,4.3
+42,6,Manchester United,64.3,20.9,FirstHalf,Pass,Successful,39,60.2,59.6
+42,10,Manchester United,61.8,70.2,FirstHalf,Pass,Successful,2,65.8,73.8
+42,12,Manchester United,65.8,70.9,FirstHalf,Pass,Successful,18,58.9,71.2
+42,13,Manchester United,58.9,70.5,FirstHalf,Pass,Successful,2,53.3,44
+42,18,Manchester United,53.6,45.2,FirstHalf,Pass,Successful,3,60.9,72.4
+42,21,Manchester United,60.9,69.4,FirstHalf,Pass,Successful,18,63.1,53
+42,24,Manchester United,63.4,58.4,FirstHalf,Pass,Successful,6,67.9,75.3
+42,25,Manchester United,67.9,75.3,FirstHalf,Pass,Successful,10,55.9,72.7
+42,27,Manchester United,55.9,72.7,FirstHalf,Pass,Successful,2,63.4,76.3
+42,30,Manchester United,60.7,71.2,FirstHalf,Pass,Successful,6,56.1,42.8
+42,32,Manchester United,56.9,38.9,FirstHalf,Pass,Successful,3,63.3,24.3
+42,35,Manchester United,63.4,19.8,FirstHalf,Pass,Successful,39,72.1,3.5
+42,37,Manchester United,72.1,3.5,FirstHalf,Pass,Successful,29,70.5,15.8
+42,38,Manchester United,70.5,15.8,FirstHalf,Pass,Successful,11,58.6,37.7
+42,40,Manchester United,58.6,37.7,FirstHalf,Pass,Successful,3,61.7,67.8
+42,43,Manchester United,64.3,70.5,FirstHalf,Pass,Successful,2,67.4,55.1
+42,44,Manchester United,67.4,55.1,FirstHalf,Pass,Successful,6,57.5,44.5
+42,48,Manchester United,62.2,41.2,FirstHalf,Pass,Successful,3,67.1,46.1
+42,49,Manchester United,67.1,46.1,FirstHalf,Pass,Successful,6,59.3,42.2
+42,49,Manchester United,59.3,42.2,FirstHalf,Pass,Successful,3,60.6,69.6
+42,54,Manchester United,64.7,72.9,FirstHalf,Pass,Successful,2,77.1,95.9
+42,58,Manchester United,76.7,90.5,FirstHalf,Pass,Successful,23,65,80.6
+43,1,Manchester United,65,80.6,FirstHalf,Pass,Successful,2,65.6,59.9
+43,4,Manchester United,67.1,54.6,FirstHalf,Pass,Successful,6,80.4,5.2
+43,7,Manchester United,78.6,12,FirstHalf,Pass,Successful,29,71.2,18.8
+43,11,Manchester United,71.1,25.9,FirstHalf,Pass,Successful,39,74.9,34
+43,12,Manchester United,74.9,34,FirstHalf,Pass,Successful,11,78.4,24.6
+43,13,Manchester United,78.4,24.6,FirstHalf,Pass,Successful,29,69.7,20.1
+43,17,Manchester United,65.9,25.5,FirstHalf,Pass,Unsuccessful,11,72.2,45.2
+43,18,Villarreal,31.3,56.6,FirstHalf,Interception,Successful,7,,
+43,18,Manchester United,71.5,46.6,FirstHalf,Pass,Successful,6,67.2,46
+43,19,Manchester United,69.4,39.2,FirstHalf,TakeOn,Unsuccessful,11,,
+43,19,Villarreal,30.6,60.8,FirstHalf,Tackle,Successful,9,,
+43,20,Villarreal,38.7,54.3,FirstHalf,BallRecovery,Successful,7,,
+43,23,Villarreal,45.3,49.6,FirstHalf,Pass,Successful,7,54.4,20.4
+43,32,Villarreal,98.6,27.7,FirstHalf,Pass,Unsuccessful,30,98.6,30.4
+43,32,Manchester United,2,67,FirstHalf,BlockedPass,Successful,23,,
+43,32,Villarreal,98.6,30.4,FirstHalf,BallTouch,Successful,30,,
+43,56,Manchester United,3.6,50.7,FirstHalf,Pass,Successful,1,22.1,95.4
+43,58,Manchester United,22.1,94.8,FirstHalf,Pass,Successful,23,26.2,83
+44,2,Manchester United,26.8,72,FirstHalf,Pass,Successful,6,20.1,28.2
+44,11,Manchester United,53.3,24.7,FirstHalf,Pass,Successful,3,70.1,26.8
+44,12,Manchester United,70.1,26.8,FirstHalf,Pass,Successful,18,65,19.7
+44,15,Manchester United,75.4,20,FirstHalf,Pass,Successful,11,91,11.9
+44,16,Manchester United,91,11.9,FirstHalf,Pass,Unsuccessful,29,91.4,21
+44,17,Villarreal,8.3,85.1,FirstHalf,BallTouch,Successful,24,,
+44,18,Manchester United,81.5,36.1,FirstHalf,BallTouch,Unsuccessful,18,,
+44,22,Villarreal,21.3,42.5,FirstHalf,BallRecovery,Successful,5,,
+44,22,Villarreal,21.5,38.6,FirstHalf,Pass,Successful,5,24.5,58.3
+44,22,Villarreal,24.9,58.7,FirstHalf,BallTouch,Successful,7,,
+44,25,Villarreal,26,67.5,FirstHalf,Pass,Unsuccessful,14,45.5,86.3
+44,29,Manchester United,54.7,7.3,FirstHalf,BallRecovery,Successful,3,,
+44,30,Manchester United,54.7,7.3,FirstHalf,Pass,Successful,3,53.3,54
+44,33,Manchester United,53.3,54,FirstHalf,Pass,Successful,2,65.7,59.7
+44,35,Manchester United,65.7,59.7,FirstHalf,Pass,Successful,6,74.7,64.9
+44,37,Manchester United,75.6,62.6,FirstHalf,TakeOn,Unsuccessful,10,,
+44,37,Villarreal,24.4,37.4,FirstHalf,Tackle,Successful,8,,
+44,40,Villarreal,26.9,54.5,FirstHalf,BallRecovery,Successful,7,,
+44,40,Villarreal,30.5,63.3,FirstHalf,Dispossessed,Successful,7,,
+44,41,Manchester United,69.5,36.7,FirstHalf,Tackle,Successful,10,,
+44,42,Manchester United,63,18.5,FirstHalf,BallRecovery,Successful,29,,
+44,43,Manchester United,63,18.5,FirstHalf,Pass,Successful,29,72.7,15.9
+44,46,Villarreal,16.6,86.4,FirstHalf,Challenge,Unsuccessful,14,,
+44,46,Manchester United,83.4,13.6,FirstHalf,TakeOn,Successful,10,,
+44,47,Villarreal,8,82.4,FirstHalf,Challenge,Unsuccessful,24,,
+44,47,Manchester United,92,17.6,FirstHalf,TakeOn,Successful,10,,
+44,49,Manchester United,92.6,26.2,FirstHalf,Pass,Unsuccessful,10,95.2,44.6
+44,49,Villarreal,3.4,60.5,FirstHalf,Clearance,Successful,4,7,69.7
+44,50,Villarreal,7,69.7,FirstHalf,Clearance,Successful,25,20.6,67.5
+44,53,Manchester United,77.6,32.7,FirstHalf,Aerial,Successful,39,,
+44,53,Villarreal,22.4,67.3,FirstHalf,Aerial,Unsuccessful,7,,
+44,53,Manchester United,72.2,33.3,FirstHalf,Pass,Unsuccessful,39,86.9,24.9
+44,54,Villarreal,18.7,75.3,FirstHalf,BallRecovery,Successful,24,,
+44,56,Villarreal,18.7,75.3,FirstHalf,Pass,Unsuccessful,24,53.9,1.3
+45,2,Manchester United,41.6,96.9,FirstHalf,BallRecovery,Successful,2,,
+45,4,Manchester United,39.7,91.4,FirstHalf,Pass,Successful,2,40.8,62.9
+45,8,Manchester United,42.6,57.5,FirstHalf,Pass,Successful,3,48.7,34.2
+45,10,Manchester United,52.2,29.5,FirstHalf,Pass,Successful,39,67.9,29.1
+45,12,Manchester United,67.9,29.1,FirstHalf,Pass,Successful,18,57.1,11.7
+45,14,Manchester United,57.1,11.7,FirstHalf,Pass,Successful,29,67.4,2.6
+45,20,Manchester United,97.7,26.7,FirstHalf,Pass,Unsuccessful,11,95,49
+45,21,Villarreal,3.3,53.7,FirstHalf,BallTouch,Successful,3,,
+45,21,Villarreal,2.7,53.3,FirstHalf,KeeperPickup,Successful,13,,
+45,32,Villarreal,5.7,47.2,FirstHalf,BallTouch,Successful,13,,
+46,1,Manchester United,70.8,100,FirstHalf,Pass,Unsuccessful,23,91,74.8
+46,7,Villarreal,6.8,25.1,FirstHalf,KeeperPickup,Successful,13,,
+46,19,Villarreal,16.7,43.7,FirstHalf,Pass,Unsuccessful,13,69.9,54.6
+46,23,Manchester United,30.6,43,FirstHalf,Aerial,Successful,3,,
+46,23,Villarreal,69.4,57,FirstHalf,Aerial,Unsuccessful,7,,
+46,23,Manchester United,31,40.7,FirstHalf,Pass,Unsuccessful,3,39.3,41.9
+46,24,Villarreal,60.8,59.7,FirstHalf,Pass,Successful,5,65.2,73.5
+46,26,Villarreal,66.1,82.4,FirstHalf,Pass,Successful,14,73.8,90.5
+46,28,Villarreal,74.6,90.3,FirstHalf,Pass,Successful,9,71.7,81.7
+46,31,Villarreal,72.1,88.4,FirstHalf,Pass,Successful,14,76.1,98
+46,33,Villarreal,79.3,96.6,FirstHalf,Pass,Successful,24,92,86.5
+46,37,Villarreal,98.7,93.3,FirstHalf,Pass,Unsuccessful,7,97.6,89.6
+46,37,Manchester United,2.6,8.3,FirstHalf,Clearance,Successful,3,,
+46,37,Villarreal,97.4,90.7,FirstHalf,CornerAwarded,Successful,7,,
+46,37,Manchester United,2.6,9.3,FirstHalf,CornerAwarded,Unsuccessful,3,,
+47,4,Villarreal,99.5,99.5,FirstHalf,Pass,Unsuccessful,5,95.2,50.9
+47,6,Manchester United,3.8,48.5,FirstHalf,Clearance,Successful,39,26.8,31
+47,9,Villarreal,0,0,FirstHalf,End,Successful,,,
+47,9,Manchester United,0,0,FirstHalf,End,Successful,,,
+45,0,Villarreal,0,0,SecondHalf,Start,Successful,,,
+45,0,Manchester United,0,0,SecondHalf,Start,Successful,,,
+45,0,Villarreal,50,50.3,SecondHalf,Pass,Successful,9,51,47.8
+45,2,Villarreal,51.8,52.8,SecondHalf,Pass,Successful,7,45,41.8
+45,3,Villarreal,45.8,33.6,SecondHalf,Pass,Successful,25,39.4,14.6
+45,7,Villarreal,41.5,7.9,SecondHalf,Pass,Successful,8,62.4,4.7
+45,8,Villarreal,62.4,4.7,SecondHalf,Pass,Unsuccessful,30,61.3,12.9
+45,10,Manchester United,32.4,85.4,SecondHalf,Pass,Unsuccessful,23,33.9,81.5
+45,10,Villarreal,61.3,12.9,SecondHalf,BlockedPass,Successful,7,,
+45,10,Manchester United,34.3,93,SecondHalf,BallTouch,Successful,23,,
+45,28,Villarreal,65.3,0,SecondHalf,Pass,Unsuccessful,8,69.4,12.8
+45,29,Manchester United,30.9,80.9,SecondHalf,Interception,Successful,6,,
+45,31,Manchester United,37.6,80.9,SecondHalf,Pass,Successful,18,38.4,87.4
+45,32,Manchester United,38.4,87.4,SecondHalf,BallRecovery,Successful,10,,
+45,32,Manchester United,38.4,87.4,SecondHalf,Pass,Successful,10,36.9,64.9
+45,34,Manchester United,36.9,62.9,SecondHalf,Pass,Successful,39,30.3,7.3
+45,40,Manchester United,30.5,6.4,SecondHalf,Pass,Successful,29,31.5,18
+45,41,Manchester United,31.5,18,SecondHalf,Pass,Successful,39,38.7,16.1
+45,46,Manchester United,40.2,7.5,SecondHalf,TakeOn,Unsuccessful,11,,
+45,46,Villarreal,59.8,92.5,SecondHalf,Tackle,Successful,24,,
+45,54,Manchester United,41.1,0,SecondHalf,Pass,Successful,29,30.2,19.5
+45,57,Manchester United,30.6,23.3,SecondHalf,Pass,Successful,3,30.9,64.8
+46,3,Manchester United,39.8,74.8,SecondHalf,Pass,Successful,2,56.6,95.6
+46,9,Manchester United,55.5,88,SecondHalf,Pass,Unsuccessful,10,75.6,49.4
+46,11,Villarreal,24.5,46.3,SecondHalf,Pass,Unsuccessful,4,31.2,14
+46,17,Manchester United,74.6,85.5,SecondHalf,TakeOn,Unsuccessful,10,,
+46,17,Villarreal,25.4,14.5,SecondHalf,Tackle,Successful,30,,
+46,19,Villarreal,26.7,12.9,SecondHalf,BallRecovery,Successful,7,,
+46,20,Villarreal,25.9,12.8,SecondHalf,Pass,Successful,7,20,10.1
+46,23,Villarreal,20.2,8.8,SecondHalf,Pass,Successful,8,55,8.2
+46,27,Villarreal,56.2,9.5,SecondHalf,Pass,Successful,9,54.1,15.5
+46,28,Villarreal,54.1,15.5,SecondHalf,Pass,Successful,7,56.7,5.8
+46,29,Villarreal,56.7,5.8,SecondHalf,Pass,Successful,9,52.5,2.8
+46,31,Villarreal,53.1,3.5,SecondHalf,Pass,Unsuccessful,30,52.2,14.6
+46,31,Manchester United,44.2,81.7,SecondHalf,Interception,Successful,18,,
+46,33,Villarreal,59.2,19.6,SecondHalf,Foul,Successful,9,,
+46,33,Manchester United,40.8,80.4,SecondHalf,Foul,Unsuccessful,3,,
+47,15,Villarreal,58.4,23.9,SecondHalf,Pass,Successful,5,53.3,43.9
+47,17,Villarreal,57.6,40,SecondHalf,Pass,Successful,14,91.2,74.2
+47,23,Villarreal,92.3,76.1,SecondHalf,Pass,Unsuccessful,24,92.5,74.8
+47,23,Manchester United,7.5,26.2,SecondHalf,BallTouch,Successful,29,,
+47,24,Manchester United,2.7,52.8,SecondHalf,Clearance,Successful,18,5,51.5
+47,24,Villarreal,95.7,50.9,SecondHalf,BlockedPass,Successful,9,,
+47,25,Villarreal,97.1,51.2,SecondHalf,BallTouch,Unsuccessful,9,,
+47,26,Manchester United,7.4,47.8,SecondHalf,Clearance,Successful,18,13.1,47.5
+47,26,Villarreal,93,52.4,SecondHalf,BallTouch,Successful,7,,
+47,27,Manchester United,5.3,48.2,SecondHalf,Clearance,Successful,3,19.7,52.2
+47,30,Villarreal,79.5,39.1,SecondHalf,Aerial,Successful,3,,
+47,30,Manchester United,20.5,60.9,SecondHalf,Aerial,Unsuccessful,10,,
+47,30,Villarreal,78.9,37.3,SecondHalf,Pass,Successful,3,75.9,30.1
+47,31,Villarreal,75.9,30.1,SecondHalf,Pass,Successful,5,80.7,25.5
+47,33,Villarreal,80.7,25.5,SecondHalf,Pass,Unsuccessful,30,79.3,30.9
+47,33,Manchester United,23.9,72.3,SecondHalf,Interception,Successful,7,,
+47,35,Manchester United,14.4,73,SecondHalf,BallRecovery,Successful,7,,
+47,35,Manchester United,14.4,73,SecondHalf,Pass,Unsuccessful,7,26.4,81.4
+47,35,Villarreal,78.6,24,SecondHalf,BallRecovery,Successful,5,,
+47,38,Villarreal,83,6.8,SecondHalf,Pass,Successful,5,77.1,27.4
+47,41,Villarreal,77.1,27.4,SecondHalf,Pass,Unsuccessful,25,89.3,55.7
+47,42,Manchester United,8.1,44.6,SecondHalf,Clearance,Successful,29,29.1,54.9
+47,44,Villarreal,75.6,46.6,SecondHalf,Pass,Unsuccessful,24,75.8,35.5
+47,46,Manchester United,24.3,65.1,SecondHalf,BallRecovery,Successful,18,,
+47,46,Manchester United,24.3,65.1,SecondHalf,Pass,Successful,18,29.2,36.7
+47,48,Manchester United,29.3,33.1,SecondHalf,TakeOn,Unsuccessful,39,,
+47,49,Villarreal,70.7,66.9,SecondHalf,Tackle,Unsuccessful,14,,
+47,49,Manchester United,29.2,36.7,SecondHalf,BallTouch,Successful,39,,
+47,49,Villarreal,68.1,79.1,SecondHalf,BallTouch,Successful,14,,
+47,50,Manchester United,28.9,35.5,SecondHalf,Pass,Successful,6,32.6,19.7
+47,52,Manchester United,32.6,19.7,SecondHalf,Pass,Successful,29,38.6,9.5
+47,55,Manchester United,37.7,19.2,SecondHalf,Pass,Unsuccessful,11,91.3,76.6
+48,4,Villarreal,4.1,33.4,SecondHalf,KeeperPickup,Successful,13,,
+48,9,Villarreal,13.2,41.6,SecondHalf,Pass,Successful,13,13.2,69.4
+48,12,Villarreal,15.5,76.3,SecondHalf,Pass,Successful,4,32,97.7
+48,19,Villarreal,55.6,93.3,SecondHalf,Pass,Successful,24,52.6,75.1
+48,22,Villarreal,51.8,74.2,SecondHalf,Pass,Successful,14,47.3,56.7
+48,24,Villarreal,47.3,50.4,SecondHalf,Pass,Successful,25,55.8,7.7
+48,29,Villarreal,57.2,5.8,SecondHalf,Pass,Successful,8,53.6,13.2
+48,32,Villarreal,53.9,9.7,SecondHalf,Pass,Successful,25,52.5,4.3
+48,32,Villarreal,52.5,4.3,SecondHalf,Pass,Unsuccessful,8,58.1,3.7
+48,34,Manchester United,37.2,94.8,SecondHalf,Interception,Successful,7,,
+48,34,Manchester United,39.3,96.6,SecondHalf,BallRecovery,Successful,7,,
+48,36,Manchester United,47,95.3,SecondHalf,Pass,Unsuccessful,7,67,58.8
+48,38,Villarreal,33.9,45.7,SecondHalf,BallRecovery,Successful,4,,
+48,41,Villarreal,35,44.6,SecondHalf,Pass,Successful,4,53,46.3
+48,43,Villarreal,53.4,46.4,SecondHalf,Pass,Unsuccessful,14,67.9,49.4
+48,44,Manchester United,29.6,44.6,SecondHalf,BallTouch,Successful,3,,
+48,47,Villarreal,71.4,60,SecondHalf,Pass,Unsuccessful,9,80.6,42.4
+48,48,Manchester United,22.2,59.1,SecondHalf,Pass,Successful,2,32.1,61.2
+48,50,Manchester United,32.1,61.2,SecondHalf,Pass,Successful,6,32,54
+48,50,Manchester United,32,54,SecondHalf,BallRecovery,Successful,39,,
+48,51,Manchester United,31.8,51.9,SecondHalf,Pass,Successful,39,37.5,39.7
+48,53,Manchester United,37.5,39.7,SecondHalf,Pass,Successful,11,20.8,2
+48,59,Manchester United,21.1,2.6,SecondHalf,Pass,Successful,29,15,31.6
+49,2,Manchester United,19,37,SecondHalf,Pass,Successful,3,22.9,66.6
+49,6,Manchester United,25.5,69,SecondHalf,Pass,Successful,2,31.6,94.2
+49,8,Manchester United,33,94.5,SecondHalf,Pass,Successful,23,46.9,95.1
+49,10,Villarreal,52.8,7,SecondHalf,Challenge,Unsuccessful,8,,
+49,10,Manchester United,47.2,93,SecondHalf,TakeOn,Successful,10,,
+49,12,Manchester United,43.5,75,SecondHalf,Pass,Successful,10,39.1,59
+49,14,Manchester United,39.1,59,SecondHalf,Pass,Unsuccessful,6,60.2,32.7
+49,16,Villarreal,43.2,74.2,SecondHalf,BallRecovery,Successful,24,,
+49,16,Villarreal,44.3,72.9,SecondHalf,BallTouch,Unsuccessful,24,,
+49,18,Manchester United,44.8,19.5,SecondHalf,BallRecovery,Successful,18,,
+49,22,Manchester United,41.5,9.2,SecondHalf,Pass,Successful,18,47.7,14.3
+49,25,Manchester United,56,19.5,SecondHalf,Pass,Successful,39,59.4,4.7
+49,27,Manchester United,60,3.8,SecondHalf,Dispossessed,Successful,29,,
+49,27,Villarreal,40,96.2,SecondHalf,Tackle,Successful,14,,
+49,31,Manchester United,58.9,0,SecondHalf,Pass,Successful,29,51.6,7.6
+49,34,Manchester United,56.5,7.7,SecondHalf,Pass,Successful,18,45.1,61.7
+49,41,Manchester United,56.3,69.6,SecondHalf,Pass,Successful,2,55.9,53.7
+49,44,Manchester United,60.3,48,SecondHalf,Pass,Successful,6,69.9,33.8
+49,46,Manchester United,70.3,33.9,SecondHalf,Pass,Successful,18,74.7,27.1
+49,47,Manchester United,78.5,25.4,SecondHalf,Pass,Successful,11,91.6,11
+49,50,Manchester United,93.9,9.5,SecondHalf,Pass,Unsuccessful,29,95.9,40.6
+49,50,Villarreal,2.8,59.3,SecondHalf,Clearance,Successful,4,21.4,60.5
+49,53,Villarreal,21.4,60.5,SecondHalf,BallRecovery,Successful,7,,
+49,53,Villarreal,21.4,60.5,SecondHalf,Pass,Successful,7,30.2,81.1
+49,55,Villarreal,31.3,81.7,SecondHalf,Pass,Successful,9,28,67.2
+50,0,Villarreal,33,75.1,SecondHalf,TakeOn,Unsuccessful,14,,
+50,0,Manchester United,67,24.9,SecondHalf,Tackle,Unsuccessful,18,,
+50,3,Villarreal,29.2,91.2,SecondHalf,Pass,Successful,14,20.8,68.8
+50,5,Villarreal,20.8,68.8,SecondHalf,Pass,Unsuccessful,5,22.3,67.3
+50,5,Manchester United,73.5,33.4,SecondHalf,BlockedPass,Successful,6,,
+50,6,Villarreal,24.5,66.2,SecondHalf,BallTouch,Successful,5,,
+50,6,Manchester United,77.9,31.2,SecondHalf,BallTouch,Successful,7,,
+50,6,Villarreal,21.1,62.1,SecondHalf,BallTouch,Unsuccessful,5,,
+50,6,Manchester United,76.9,37.7,SecondHalf,BallTouch,Successful,7,,
+50,7,Villarreal,20.8,63.6,SecondHalf,Foul,Successful,5,,
+50,7,Manchester United,79.2,36.4,SecondHalf,Foul,Unsuccessful,7,,
+50,21,Villarreal,25.5,55.7,SecondHalf,Pass,Unsuccessful,4,46,0
+50,26,Manchester United,55.8,100,SecondHalf,Pass,Successful,10,46.7,89.4
+50,28,Manchester United,45.1,92,SecondHalf,Pass,Successful,23,38.4,65.2
+50,30,Manchester United,38.4,65.2,SecondHalf,Pass,Successful,2,47.3,74.2
+50,37,Manchester United,51.3,49,SecondHalf,Pass,Successful,6,53.4,69.7
+50,40,Manchester United,56.7,74.2,SecondHalf,Pass,Successful,2,66.7,95.9
+50,44,Manchester United,68.6,95.9,SecondHalf,Pass,Successful,23,60,78.7
+50,47,Manchester United,60,78.7,SecondHalf,Pass,Successful,10,53.5,37.6
+50,51,Manchester United,55.2,29.4,SecondHalf,Pass,Successful,3,65.8,3.1
+50,53,Manchester United,65.8,3.1,SecondHalf,Pass,Successful,29,61.8,17.4
+50,55,Villarreal,39.7,83.5,SecondHalf,Challenge,Unsuccessful,9,,
+50,55,Manchester United,60.3,16.5,SecondHalf,TakeOn,Successful,39,,
+50,58,Manchester United,60.8,30.7,SecondHalf,Pass,Successful,39,61.5,66.7
+51,3,Manchester United,64,75,SecondHalf,Pass,Successful,2,71.6,76.1
+51,3,Manchester United,71.6,76.1,SecondHalf,Pass,Successful,10,65,81.1
+51,5,Manchester United,65,81.1,SecondHalf,Pass,Successful,2,65.3,68.7
+51,12,Manchester United,73.2,80.8,SecondHalf,Pass,Successful,6,62.7,45.2
+51,15,Manchester United,62.6,44.5,SecondHalf,Pass,Successful,3,80,8
+51,20,Manchester United,91.6,6.8,SecondHalf,Pass,Successful,29,79.8,7.6
+51,22,Manchester United,78.2,7.9,SecondHalf,Pass,Successful,11,78,27
+51,23,Manchester United,78,27,SecondHalf,Pass,Unsuccessful,18,85.9,25
+51,25,Villarreal,14.2,75.9,SecondHalf,Pass,Successful,24,22.2,72.9
+51,26,Villarreal,22.2,72.9,SecondHalf,Pass,Successful,5,22.5,94.7
+51,29,Villarreal,22.7,95.4,SecondHalf,BallRecovery,Successful,14,,
+51,30,Villarreal,22.1,97.8,SecondHalf,BallTouch,Unsuccessful,14,,
+52,19,Manchester United,75.3,0,SecondHalf,Pass,Successful,29,63.5,16.1
+52,24,Manchester United,63.6,15.2,SecondHalf,Pass,Successful,39,81.3,15.2
+52,27,Manchester United,93.1,10.4,SecondHalf,Pass,Unsuccessful,18,100,47.3
+52,49,Villarreal,4.5,56,SecondHalf,Pass,Successful,13,3.9,29.8
+52,53,Villarreal,15.7,21.5,SecondHalf,Pass,Successful,3,46,11.6
+52,55,Villarreal,46,11.6,SecondHalf,Pass,Successful,30,37.1,25.6
+52,57,Villarreal,40.4,27.6,SecondHalf,Pass,Unsuccessful,25,48.5,25.6
+52,58,Manchester United,52.2,73.6,SecondHalf,Interception,Successful,6,,
+52,59,Manchester United,43.4,82.6,SecondHalf,BallRecovery,Successful,23,,
+53,0,Manchester United,43.4,82.6,SecondHalf,Pass,Successful,23,65,81.5
+53,2,Manchester United,65,81.4,SecondHalf,Pass,Unsuccessful,7,63.7,75.6
+53,3,Manchester United,61.8,76.8,SecondHalf,Foul,Successful,18,,
+53,3,Villarreal,38.2,23.2,SecondHalf,Foul,Unsuccessful,25,,
+53,10,Villarreal,0,0,SecondHalf,Card,Successful,25,,
+53,47,Manchester United,63.7,75.4,SecondHalf,Pass,Successful,23,88.2,30.4
+53,49,Manchester United,88.9,29.8,SecondHalf,Aerial,Successful,6,,
+53,49,Villarreal,11.1,70.2,SecondHalf,Aerial,Unsuccessful,5,,
+53,49,Manchester United,88.2,30.4,SecondHalf,Pass,Successful,6,89,41.3
+53,51,Manchester United,89,41.3,SecondHalf,BallTouch,Unsuccessful,39,,
+53,52,Villarreal,4.1,60.5,SecondHalf,Clearance,Successful,24,5.6,60.9
+53,52,Manchester United,89.9,39.8,SecondHalf,BlockedPass,Successful,39,,
+53,52,Villarreal,5.1,59.6,SecondHalf,BallTouch,Successful,24,,
+53,54,Villarreal,8.8,66.5,SecondHalf,Challenge,Unsuccessful,5,,
+53,54,Manchester United,91.2,33.5,SecondHalf,TakeOn,Successful,39,,
+53,55,Manchester United,90,36.9,SecondHalf,SavedShot,Successful,39,,
+53,56,Villarreal,7.9,57.3,SecondHalf,Save,Successful,4,,
+53,57,Villarreal,7.8,58,SecondHalf,CornerAwarded,Unsuccessful,4,,
+53,57,Manchester United,92.2,42,SecondHalf,CornerAwarded,Successful,39,,
+54,17,Manchester United,99.7,99.5,SecondHalf,Pass,Unsuccessful,23,89.4,45.5
+54,19,Villarreal,9,49.3,SecondHalf,Clearance,Successful,3,23.5,47.6
+54,21,Manchester United,75.5,50.7,SecondHalf,SavedShot,Successful,10,,
+54,22,Villarreal,10.8,47.2,SecondHalf,Save,Successful,24,,
+54,22,Manchester United,88.6,51.5,SecondHalf,Pass,Successful,39,90.9,51.8
+54,23,Manchester United,92,51.1,SecondHalf,Goal,Successful,7,,
+56,14,Villarreal,49.7,50.1,SecondHalf,Pass,Successful,9,39.1,57.9
+56,16,Villarreal,39.3,58.1,SecondHalf,Pass,Successful,5,54.2,97.2
+56,18,Villarreal,60.3,95.5,SecondHalf,Dispossessed,Successful,24,,
+56,19,Manchester United,39.7,4.5,SecondHalf,Tackle,Successful,11,,
+56,19,Manchester United,34.3,10.6,SecondHalf,BallRecovery,Successful,29,,
+56,20,Manchester United,34.3,10.6,SecondHalf,Pass,Successful,29,45.4,15
+56,26,Manchester United,63.8,18.2,SecondHalf,Pass,Successful,18,77.2,3.2
+56,29,Manchester United,82,4.9,SecondHalf,TakeOn,Unsuccessful,11,,
+56,29,Villarreal,18,95.1,SecondHalf,Tackle,Unsuccessful,14,,
+56,31,Manchester United,79.5,5.3,SecondHalf,Pass,Successful,11,70.3,7.1
+56,33,Manchester United,69.6,2.2,SecondHalf,Pass,Successful,18,98.1,10.7
+56,37,Manchester United,98.1,10.7,SecondHalf,Pass,Successful,29,87.5,63
+56,39,Manchester United,86.8,63.9,SecondHalf,Pass,Successful,23,80.3,30.5
+56,42,Manchester United,78.6,34,SecondHalf,MissedShots,Successful,18,,
+57,20,Villarreal,4.6,45.1,SecondHalf,Pass,Unsuccessful,13,61.6,46.4
+57,23,Manchester United,36.4,49.7,SecondHalf,Aerial,Successful,39,,
+57,23,Villarreal,63.6,50.3,SecondHalf,Aerial,Unsuccessful,9,,
+57,23,Manchester United,35.2,47,SecondHalf,Pass,Unsuccessful,39,36.8,46.6
+57,23,Villarreal,64.7,49.6,SecondHalf,BallTouch,Successful,9,,
+57,26,Villarreal,47.7,49.1,SecondHalf,Pass,Unsuccessful,4,67.4,43.3
+57,27,Manchester United,28.9,47.2,SecondHalf,Pass,Successful,3,42.1,65.8
+57,29,Manchester United,42.1,65.8,SecondHalf,BallTouch,Unsuccessful,10,,
+57,30,Villarreal,59.4,30.3,SecondHalf,TakeOn,Successful,8,,
+57,30,Manchester United,40.6,69.7,SecondHalf,Challenge,Unsuccessful,10,,
+57,31,Villarreal,60.6,29.8,SecondHalf,Pass,Successful,8,69.6,28.9
+57,32,Villarreal,69.6,28.9,SecondHalf,BallTouch,Unsuccessful,30,,
+57,34,Manchester United,32.4,58.1,SecondHalf,BallRecovery,Successful,39,,
+57,34,Villarreal,68.8,37.3,SecondHalf,Challenge,Unsuccessful,30,,
+57,34,Manchester United,31.2,62.7,SecondHalf,TakeOn,Successful,39,,
+57,36,Manchester United,35.2,75.1,SecondHalf,BallTouch,Unsuccessful,39,,
+57,37,Villarreal,61,9.4,SecondHalf,BallTouch,Successful,8,,
+57,40,Villarreal,68.5,3.2,SecondHalf,BallRecovery,Successful,7,,
+57,43,Villarreal,66.7,10.3,SecondHalf,Pass,Successful,7,58.1,10.4
+57,45,Villarreal,59.5,11.6,SecondHalf,TakeOn,Successful,25,,
+57,45,Manchester United,40.5,88.4,SecondHalf,Challenge,Unsuccessful,18,,
+57,49,Villarreal,70.3,11,SecondHalf,Pass,Successful,25,77.2,2.8
+57,50,Villarreal,77.3,3.2,SecondHalf,Pass,Successful,30,90.8,2.3
+57,53,Villarreal,90.4,2.8,SecondHalf,TakeOn,Successful,25,,
+57,53,Manchester United,9.6,97.2,SecondHalf,Challenge,Unsuccessful,39,,
+57,56,Villarreal,90,11.3,SecondHalf,Dispossessed,Successful,25,,
+57,56,Manchester United,10,88.7,SecondHalf,Tackle,Unsuccessful,39,,
+57,57,Villarreal,90.3,3.7,SecondHalf,Dispossessed,Successful,25,,
+57,57,Manchester United,9.7,96.3,SecondHalf,Tackle,Successful,39,,
+57,58,Manchester United,8.5,87.5,SecondHalf,BallRecovery,Successful,39,,
+57,59,Manchester United,9.2,82.7,SecondHalf,Pass,Unsuccessful,39,48.8,74.7
+58,2,Villarreal,51.6,31.2,SecondHalf,BallRecovery,Successful,4,,
+58,6,Villarreal,52.8,44.6,SecondHalf,Pass,Successful,4,57.6,95
+58,12,Villarreal,66.2,83.3,SecondHalf,Pass,Successful,24,66,67.5
+58,14,Villarreal,62.6,65.7,SecondHalf,Pass,Successful,14,53.1,66
+58,16,Villarreal,53,62,SecondHalf,Pass,Successful,5,51.6,41
+58,19,Villarreal,53.5,31,SecondHalf,Pass,Successful,3,65.8,4.1
+58,23,Villarreal,64.1,6.1,SecondHalf,Pass,Successful,30,54.5,7.6
+58,25,Villarreal,54.5,8.2,SecondHalf,Pass,Successful,8,41.9,31.2
+58,32,Villarreal,44.4,48.4,SecondHalf,Pass,Successful,3,43.3,84.7
+58,35,Villarreal,45,92.1,SecondHalf,Pass,Successful,4,48.8,98.6
+58,37,Villarreal,51.6,98.6,SecondHalf,Pass,Successful,24,66,97.4
+58,40,Villarreal,69.4,96.5,SecondHalf,Pass,Successful,14,81.3,85.7
+58,42,Villarreal,80.5,84.3,SecondHalf,BallTouch,Unsuccessful,24,,
+58,45,Manchester United,0,0,SecondHalf,ShieldBallOpp,Successful,3,,
+59,16,Villarreal,0,0,SecondHalf,SubstitutionOff,Successful,9,,
+59,16,Villarreal,0,0,SecondHalf,SubstitutionOn,Successful,19,,
+59,29,Manchester United,5.1,49.1,SecondHalf,Pass,Successful,1,7.2,70.9
+59,30,Manchester United,7.2,70.9,SecondHalf,Pass,Successful,2,14.7,95.4
+59,33,Manchester United,14.9,93,SecondHalf,Pass,Successful,23,33.9,94.7
+59,38,Manchester United,46.3,93.3,SecondHalf,Pass,Unsuccessful,6,50.7,84.7
+59,38,Villarreal,51.5,8.5,SecondHalf,BallTouch,Successful,25,,
+59,39,Villarreal,38,33.9,SecondHalf,BallRecovery,Successful,4,,
+59,42,Villarreal,38.4,33.9,SecondHalf,Pass,Successful,4,41.5,26.7
+59,42,Villarreal,41.5,26.7,SecondHalf,Pass,Successful,25,24.7,25.8
+59,45,Villarreal,22.6,27.6,SecondHalf,Pass,Successful,3,8.8,48.8
+59,47,Villarreal,8.5,47.9,SecondHalf,Pass,Successful,13,14.3,16.8
+59,55,Villarreal,37.6,17.1,SecondHalf,Pass,Unsuccessful,3,46.1,66
+59,57,Manchester United,55.9,31.8,SecondHalf,Interception,Successful,29,,
+60,0,Villarreal,39.1,90.9,SecondHalf,Pass,Successful,24,27.1,78.7
+60,6,Villarreal,30.9,67.3,SecondHalf,Pass,Successful,4,31.3,52.8
+60,11,Villarreal,34.6,50.6,SecondHalf,Pass,Successful,3,38.9,84.1
+60,16,Villarreal,44.7,90.5,SecondHalf,Pass,Unsuccessful,4,71.1,88
+60,17,Manchester United,27.7,15.9,SecondHalf,Aerial,Successful,3,,
+60,17,Villarreal,72.3,84.1,SecondHalf,Aerial,Unsuccessful,30,,
+60,17,Manchester United,30.8,16.7,SecondHalf,Interception,Successful,3,,
+60,21,Villarreal,55.1,97.5,SecondHalf,Pass,Successful,24,55.6,77.5
+60,24,Villarreal,55.6,77.5,SecondHalf,Pass,Successful,5,58.6,61.1
+60,24,Villarreal,58.6,61.1,SecondHalf,Pass,Successful,19,50.9,65.4
+60,27,Villarreal,46.7,66,SecondHalf,Pass,Successful,25,51.2,45.8
+60,29,Villarreal,47.9,55.2,SecondHalf,Pass,Successful,19,46.4,74.5
+60,32,Villarreal,46.4,74.5,SecondHalf,Pass,Successful,4,57.6,98
+60,34,Villarreal,57,97.8,SecondHalf,Pass,Successful,24,47.4,93.8
+60,37,Villarreal,44,85.9,SecondHalf,Pass,Successful,5,43.9,33.9
+60,40,Villarreal,46.8,31.9,SecondHalf,Pass,Successful,3,63.1,6.5
+60,44,Villarreal,59.9,23.7,SecondHalf,Pass,Successful,7,58.8,43.1
+60,45,Villarreal,58.8,43.1,SecondHalf,Pass,Unsuccessful,5,60.3,47.6
+60,46,Manchester United,37.2,46.3,SecondHalf,BlockedPass,Successful,39,,
+60,48,Manchester United,43.5,38.3,SecondHalf,BallRecovery,Successful,11,,
+60,55,Manchester United,76.1,24.4,SecondHalf,Pass,Successful,11,61.9,17.4
+61,,Manchester United,89.9,81.6,SecondHalf,OffsideGiven,Unsuccessful,10,,
+61,0,Manchester United,62.8,18.9,SecondHalf,Pass,Successful,29,54,41.9
+61,2,Manchester United,53.8,42.8,SecondHalf,Pass,Successful,3,59.3,74.8
+61,5,Manchester United,59.4,74.7,SecondHalf,Pass,Successful,2,75.5,95.7
+61,8,Manchester United,78.5,94.7,SecondHalf,Pass,Unsuccessful,23,81.7,87.5
+61,8,Villarreal,16.3,8.6,SecondHalf,Clearance,Successful,8,,
+61,11,Manchester United,79.1,97.7,SecondHalf,OffsidePass,Successful,23,89.9,81.6
+61,11,Villarreal,12.1,39.8,SecondHalf,OffsideProvoked,Successful,4,,
+61,45,Villarreal,14.6,14.9,SecondHalf,Pass,Unsuccessful,13,69.4,26.1
+61,49,Manchester United,31.8,73,SecondHalf,Aerial,Successful,2,,
+61,49,Villarreal,68.2,27,SecondHalf,Aerial,Unsuccessful,7,,
+61,49,Manchester United,33,72,SecondHalf,Pass,Unsuccessful,2,36.1,77.8
+61,51,Villarreal,66.4,17.8,SecondHalf,Dispossessed,Successful,19,,
+61,52,Manchester United,33.6,82.2,SecondHalf,Tackle,Unsuccessful,18,,
+61,52,Villarreal,67.7,15,SecondHalf,Pass,Successful,19,70.2,12.5
+61,53,Villarreal,70.2,12.5,SecondHalf,Pass,Unsuccessful,7,68.3,15.5
+61,53,Manchester United,33.7,80.3,SecondHalf,BallTouch,Successful,6,,
+61,55,Villarreal,65.3,21.2,SecondHalf,Pass,Successful,25,59.9,34.9
+61,56,Villarreal,59.9,34.9,SecondHalf,Pass,Successful,5,67.9,51.2
+61,57,Villarreal,67.9,51.2,SecondHalf,Pass,Unsuccessful,14,76.5,77.5
+62,0,Manchester United,23.3,26.1,SecondHalf,Interception,Successful,29,,
+62,0,Villarreal,76.5,77.5,SecondHalf,BallTouch,Successful,24,,
+62,0,Manchester United,23.3,26.1,SecondHalf,BallTouch,Successful,29,,
+62,25,Villarreal,85.3,100,SecondHalf,Pass,Successful,24,88.1,93.6
+62,26,Villarreal,88.1,93.6,SecondHalf,Pass,Unsuccessful,30,85.1,92.1
+62,27,Manchester United,14.3,9.8,SecondHalf,BallRecovery,Successful,39,,
+62,27,Manchester United,17.2,7.8,SecondHalf,Foul,Successful,39,,
+62,27,Villarreal,82.8,92.2,SecondHalf,Foul,Unsuccessful,14,,
+62,36,Manchester United,22.1,9.1,SecondHalf,Pass,Unsuccessful,29,80.7,24
+62,40,Villarreal,0,0,SecondHalf,KeeperSweeper,Successful,13,,
+62,40,Villarreal,18.4,75,SecondHalf,Pass,Successful,13,30.4,98.1
+62,42,Villarreal,29.7,98.6,SecondHalf,BallRecovery,Successful,24,,
+62,44,Villarreal,29.2,97.2,SecondHalf,Pass,Unsuccessful,24,29.4,94.7
+62,45,Manchester United,63.7,3.4,SecondHalf,BlockedPass,Successful,7,,
+63,0,Villarreal,35,100,SecondHalf,Pass,Successful,24,37.7,85
+63,1,Villarreal,37.7,85,SecondHalf,Pass,Unsuccessful,25,36.6,69.3
+63,2,Manchester United,67.1,44.3,SecondHalf,BallRecovery,Successful,10,,
+63,3,Manchester United,67.1,44.3,SecondHalf,Pass,Successful,10,60.2,44.6
+63,4,Manchester United,60.2,44.6,SecondHalf,Pass,Successful,6,52.2,63.6
+63,10,Manchester United,56.6,67.8,SecondHalf,Pass,Successful,23,52.3,54.2
+63,12,Manchester United,50.4,53.6,SecondHalf,Pass,Successful,6,46.5,33
+63,17,Manchester United,48.4,37.6,SecondHalf,Pass,Successful,3,51.4,67
+63,20,Manchester United,55.1,70.8,SecondHalf,Pass,Successful,2,67.8,96.9
+63,25,Manchester United,76.6,94.4,SecondHalf,Dispossessed,Successful,10,,
+63,26,Villarreal,23.4,5.6,SecondHalf,Tackle,Unsuccessful,8,,
+63,27,Manchester United,76.4,93.2,SecondHalf,BallTouch,Successful,10,,
+63,27,Villarreal,22.8,4.4,SecondHalf,BallTouch,Successful,8,,
+63,28,Villarreal,20.2,3.1,SecondHalf,BallRecovery,Successful,19,,
+63,28,Villarreal,20.2,3.1,SecondHalf,Pass,Successful,19,36.8,3.1
+63,31,Villarreal,36.8,3.1,SecondHalf,Pass,Successful,7,44.8,11.9
+63,35,Villarreal,47.3,18.6,SecondHalf,Pass,Successful,30,46.8,65.4
+63,37,Villarreal,46.8,65.4,SecondHalf,BallTouch,Unsuccessful,24,,
+63,39,Manchester United,51.7,37.7,SecondHalf,BallRecovery,Successful,18,,
+63,46,Manchester United,76.9,9.1,SecondHalf,Pass,Unsuccessful,18,86.5,33.4
+63,47,Villarreal,14.5,69.7,SecondHalf,BallTouch,Successful,4,,
+63,47,Villarreal,15.2,63.1,SecondHalf,Clearance,Successful,25,24.3,72.3
+63,50,Manchester United,71.4,29.7,SecondHalf,BallTouch,Unsuccessful,11,,
+63,51,Villarreal,24.4,64,SecondHalf,BallRecovery,Successful,30,,
+63,51,Villarreal,24.2,63,SecondHalf,Pass,Successful,30,27.8,46.3
+63,57,Villarreal,46.1,31.6,SecondHalf,Pass,Successful,19,48,14.7
+63,59,Villarreal,48.7,14,SecondHalf,Pass,Unsuccessful,7,50.4,14.7
+63,59,Manchester United,43.8,84.5,SecondHalf,BlockedPass,Successful,23,,
+64,1,Villarreal,47,28.8,SecondHalf,Dispossessed,Successful,25,,
+64,1,Manchester United,53,71.2,SecondHalf,Tackle,Unsuccessful,7,,
+64,1,Villarreal,47.2,29.4,SecondHalf,BallTouch,Successful,25,,
+64,3,Manchester United,39.8,73.3,SecondHalf,BallRecovery,Successful,6,,
+64,4,Manchester United,39.8,73.3,SecondHalf,Pass,Successful,6,40.1,59.7
+64,5,Manchester United,40.1,59.7,SecondHalf,Pass,Successful,39,43.6,70.8
+64,10,Manchester United,45.1,63.4,SecondHalf,Pass,Successful,6,39,40.3
+64,16,Manchester United,60.2,28.3,SecondHalf,Pass,Successful,3,68.8,39.2
+64,17,Manchester United,68.8,39.2,SecondHalf,Pass,Successful,11,70.8,3.4
+64,21,Manchester United,77.9,8.6,SecondHalf,Pass,Unsuccessful,29,85.1,51.3
+64,22,Villarreal,14.4,48.7,SecondHalf,Clearance,Successful,3,36.3,25.9
+64,28,Manchester United,64.4,82.7,SecondHalf,Pass,Successful,23,79.4,91.4
+64,32,Manchester United,85.2,88.6,SecondHalf,Pass,Successful,10,72.7,86.3
+64,34,Manchester United,72.7,85.7,SecondHalf,Pass,Successful,23,66.5,66.7
+64,38,Manchester United,63.8,61.5,SecondHalf,Pass,Successful,2,63.4,34.8
+64,40,Manchester United,63.7,28.3,SecondHalf,Pass,Successful,39,70.8,5
+64,43,Manchester United,70.9,6.4,SecondHalf,Pass,Successful,29,63.9,28.5
+64,47,Manchester United,64.7,36.1,SecondHalf,Pass,Successful,3,64,65.1
+64,49,Manchester United,64,65.1,SecondHalf,Pass,Successful,2,68.7,55.5
+64,52,Manchester United,68.8,55.4,SecondHalf,Pass,Successful,6,63.9,69.6
+64,53,Manchester United,63.9,69.6,SecondHalf,Pass,Successful,2,67.8,75.7
+64,54,Manchester United,67.8,75.7,SecondHalf,Pass,Successful,18,61.3,69.3
+64,56,Manchester United,61.3,64.8,SecondHalf,Pass,Successful,2,79.6,95.4
+65,2,Manchester United,78.7,84.1,SecondHalf,Pass,Successful,10,73.5,79.9
+65,3,Manchester United,73.5,79.9,SecondHalf,Pass,Successful,18,87.9,86.6
+65,5,Manchester United,87.9,86.6,SecondHalf,Pass,Unsuccessful,23,89.4,82.7
+65,6,Villarreal,9.6,16.4,SecondHalf,Interception,Successful,8,,
+65,6,Villarreal,6.2,12.8,SecondHalf,BallRecovery,Successful,8,,
+65,8,Villarreal,2.8,10.3,SecondHalf,Pass,Unsuccessful,8,21.7,7.6
+65,10,Manchester United,73.5,89.7,SecondHalf,BallRecovery,Successful,18,,
+65,15,Manchester United,63.8,81.4,SecondHalf,Pass,Successful,18,77.6,93.5
+65,18,Manchester United,80.7,94.5,SecondHalf,Pass,Successful,23,87.8,63.4
+65,23,Manchester United,88.6,73.8,SecondHalf,Pass,Successful,11,84.5,64.3
+65,25,Manchester United,84.5,64.3,SecondHalf,Pass,Successful,6,80.7,42.8
+65,26,Manchester United,81.2,43.5,SecondHalf,SavedShot,Successful,39,,
+65,26,Villarreal,18.4,54,SecondHalf,Save,Successful,14,,
+65,28,Manchester United,69.9,53.6,SecondHalf,Pass,Successful,2,61.3,46.7
+65,31,Manchester United,63,44.9,SecondHalf,Pass,Successful,3,85.2,96.8
+65,34,Manchester United,85.2,96.8,SecondHalf,BallTouch,Unsuccessful,23,,
+66,5,Villarreal,22.9,0,SecondHalf,Pass,Successful,8,39.4,3.8
+66,8,Villarreal,42.4,2.8,SecondHalf,TakeOn,Unsuccessful,7,,
+66,8,Manchester United,57.6,97.2,SecondHalf,Tackle,Unsuccessful,23,,
+66,10,Manchester United,55.2,93.2,SecondHalf,Foul,Successful,23,,
+66,10,Villarreal,44.8,6.8,SecondHalf,Foul,Unsuccessful,7,,
+66,15,Manchester United,57.7,96.8,SecondHalf,Pass,Successful,6,68.6,97.2
+66,18,Manchester United,68.6,97.2,SecondHalf,Pass,Successful,10,55.7,88
+66,20,Manchester United,55.7,88,SecondHalf,Pass,Successful,23,45.8,56
+66,25,Manchester United,49.2,49.3,SecondHalf,Pass,Successful,3,53.1,73.2
+66,27,Manchester United,56.3,72.9,SecondHalf,Pass,Successful,2,65.2,82.9
+66,29,Manchester United,65.7,82.9,SecondHalf,Pass,Successful,6,72.5,80.8
+66,30,Manchester United,74.6,80.1,SecondHalf,Foul,Successful,18,,
+66,30,Villarreal,25.4,19.9,SecondHalf,Foul,Unsuccessful,25,,
+67,18,Manchester United,74,81.2,SecondHalf,Pass,Unsuccessful,23,88.4,53.6
+67,19,Villarreal,12.2,46.4,SecondHalf,Clearance,Successful,7,19,63.7
+67,21,Manchester United,80.8,36.7,SecondHalf,BallTouch,Unsuccessful,11,,
+67,22,Villarreal,14,55.7,SecondHalf,Clearance,Successful,4,52.5,97.1
+67,33,Manchester United,39.7,17.6,SecondHalf,Pass,Successful,29,43.8,54.2
+67,36,Manchester United,45.1,52.8,SecondHalf,Pass,Successful,2,51.2,26.7
+67,39,Manchester United,53.7,27.3,SecondHalf,Pass,Successful,29,67.3,38
+67,41,Manchester United,66.6,43.9,SecondHalf,Pass,Successful,11,64,77
+67,45,Manchester United,67.4,79.6,SecondHalf,Pass,Successful,23,81.5,96.5
+67,51,Manchester United,73.7,84.8,SecondHalf,Pass,Unsuccessful,18,96.8,43.1
+67,53,Villarreal,4.6,55.4,SecondHalf,KeeperPickup,Successful,13,,
+68,4,Villarreal,8.5,56.3,SecondHalf,Pass,Successful,13,18.1,74.8
+68,8,Villarreal,20.6,75.3,SecondHalf,Pass,Successful,4,9.1,52.7
+68,11,Villarreal,8.7,47.9,SecondHalf,Pass,Successful,13,9.7,14
+68,13,Villarreal,9.7,14,SecondHalf,Pass,Successful,3,22,2.8
+68,16,Villarreal,24.4,1.9,SecondHalf,Pass,Successful,8,51.6,2
+68,18,Villarreal,49.8,3.8,SecondHalf,Foul,Successful,7,,
+68,18,Manchester United,50.2,96.2,SecondHalf,Foul,Unsuccessful,2,,
+68,40,Villarreal,47.3,3.8,SecondHalf,Pass,Successful,8,32.8,9.5
+68,45,Villarreal,32,35.1,SecondHalf,Pass,Successful,3,31.5,76.3
+68,50,Villarreal,38.6,90.9,SecondHalf,Pass,Successful,4,18.5,63.1
+68,59,Villarreal,23.1,53.4,SecondHalf,Pass,Successful,13,44.3,97.4
+69,,Manchester United,74.9,2.5,SecondHalf,OffsideGiven,Unsuccessful,18,,
+69,1,Villarreal,44.3,97.4,SecondHalf,Pass,Unsuccessful,24,53,97.1
+69,3,Manchester United,42.1,4.3,SecondHalf,BallRecovery,Successful,3,,
+69,3,Manchester United,42.1,4.3,SecondHalf,Pass,Successful,3,66.4,7.7
+69,6,Manchester United,64.5,1.9,SecondHalf,OffsidePass,Successful,7,74.9,2.5
+69,6,Villarreal,24.5,71.1,SecondHalf,OffsideProvoked,Successful,5,,
+69,37,Villarreal,13.3,46.7,SecondHalf,Pass,Successful,13,45.9,74.4
+69,40,Villarreal,52.1,85.5,SecondHalf,Pass,Successful,7,62.4,96.9
+69,42,Villarreal,65,96.9,SecondHalf,Pass,Successful,24,57.1,95.6
+69,43,Villarreal,60.8,93.3,SecondHalf,Pass,Successful,14,62.2,80.9
+69,48,Villarreal,75.2,73.3,SecondHalf,Pass,Successful,7,78.1,65.5
+69,48,Villarreal,78.1,65.5,SecondHalf,Pass,Successful,30,76.4,67.6
+69,50,Villarreal,76.5,60.3,SecondHalf,Pass,Unsuccessful,7,76.8,56
+69,50,Manchester United,22.6,42.5,SecondHalf,BallTouch,Successful,7,,
+69,53,Villarreal,78,36.4,SecondHalf,Pass,Successful,19,75.4,18.8
+69,58,Villarreal,72.1,18.5,SecondHalf,Pass,Successful,8,66.8,49.7
+70,2,Villarreal,70.4,47.9,SecondHalf,MissedShots,Successful,5,,
+70,16,Manchester United,4.7,49,SecondHalf,Pass,Successful,1,9.6,68.2
+70,18,Manchester United,9.6,68.2,SecondHalf,Pass,Successful,2,4.4,53.1
+70,26,Manchester United,9.1,49.6,SecondHalf,Pass,Successful,1,9.6,76.6
+70,30,Manchester United,8.4,70.2,SecondHalf,Pass,Successful,2,10.9,25.3
+70,33,Manchester United,12.8,17.7,SecondHalf,Pass,Successful,3,29.2,2
+70,36,Manchester United,29.4,2.3,SecondHalf,Pass,Successful,29,37.1,2.9
+70,37,Manchester United,37.1,2.9,SecondHalf,Pass,Successful,11,30.5,7.9
+70,39,Manchester United,33,16.1,SecondHalf,Pass,Successful,29,34.8,28.6
+70,41,Manchester United,34.8,28.6,SecondHalf,Pass,Successful,6,40.2,91.2
+70,45,Manchester United,40.7,90.5,SecondHalf,Pass,Successful,18,66.4,94.8
+70,48,Manchester United,67.2,94.7,SecondHalf,Pass,Successful,10,86.4,81.5
+70,51,Villarreal,11,24.2,SecondHalf,Challenge,Unsuccessful,25,,
+70,51,Manchester United,89,75.8,SecondHalf,TakeOn,Successful,23,,
+70,53,Manchester United,89,65.8,SecondHalf,MissedShots,Successful,23,,
+70,54,Manchester United,92.5,44.7,SecondHalf,SavedShot,Successful,7,,
+70,54,Villarreal,3.6,51.8,SecondHalf,Save,Successful,4,,
+70,55,Villarreal,9.5,47.6,SecondHalf,Clearance,Successful,5,34.9,46.6
+70,57,Villarreal,34.7,46.6,SecondHalf,BallTouch,Unsuccessful,30,,
+70,59,Manchester United,53.3,44.7,SecondHalf,Pass,Successful,6,57.7,27.7
+71,2,Manchester United,59.4,25.5,SecondHalf,Pass,Successful,29,78.6,6.8
+71,7,Manchester United,95.6,17.9,SecondHalf,Pass,Unsuccessful,11,96.2,24.7
+71,7,Villarreal,3,76.3,SecondHalf,Clearance,Successful,24,,
+71,8,Manchester United,95.9,24.7,SecondHalf,BallTouch,Successful,11,,
+71,30,Villarreal,3.5,57.5,SecondHalf,Pass,Successful,13,13.4,29.8
+71,34,Villarreal,21.2,30.6,SecondHalf,Pass,Successful,3,24.9,98.3
+71,38,Villarreal,24.4,96.6,SecondHalf,Pass,Successful,24,15.4,77.6
+71,45,Villarreal,41.3,81.4,SecondHalf,Pass,Successful,4,46.3,98
+71,47,Villarreal,46.5,98,SecondHalf,Pass,Successful,24,53.6,96.6
+71,49,Villarreal,53.4,97.7,SecondHalf,Pass,Successful,7,46.6,95.4
+71,51,Villarreal,45.1,93.9,SecondHalf,Pass,Unsuccessful,24,46.9,95
+71,51,Manchester United,55.2,7.6,SecondHalf,BallTouch,Successful,3,,
+71,52,Villarreal,52.3,97.1,SecondHalf,Pass,Unsuccessful,7,53.6,94.5
+71,53,Manchester United,44.9,8.2,SecondHalf,BlockedPass,Successful,29,,
+71,53,Manchester United,45.8,7.6,SecondHalf,Pass,Successful,29,53.7,10.3
+71,54,Manchester United,59.8,18,SecondHalf,BallRecovery,Successful,18,,
+71,54,Manchester United,59.8,18,SecondHalf,Pass,Successful,18,63.5,2
+71,56,Manchester United,63.5,2,SecondHalf,Pass,Successful,11,62.5,12.2
+71,58,Manchester United,62.5,12.2,SecondHalf,Pass,Successful,18,62.7,2.6
+71,59,Manchester United,62.6,3.7,SecondHalf,Pass,Successful,11,59.8,27.4
+72,1,Manchester United,59.8,27.4,SecondHalf,Pass,Successful,6,61.6,8.3
+72,5,Manchester United,61.6,8.3,SecondHalf,Pass,Successful,11,59,18.6
+72,6,Manchester United,59,18.6,SecondHalf,Pass,Successful,6,69.5,2.8
+72,8,Manchester United,73.6,9.5,SecondHalf,Pass,Successful,29,79.8,18.9
+72,9,Manchester United,79.8,18.9,SecondHalf,Pass,Successful,18,91.7,11.1
+72,11,Manchester United,91.7,11.1,SecondHalf,Pass,Unsuccessful,29,89.5,43
+72,12,Villarreal,9,56.7,SecondHalf,Clearance,Successful,3,23.8,89.9
+72,14,Villarreal,24.8,85.8,SecondHalf,Challenge,Unsuccessful,14,,
+72,14,Manchester United,75.2,14.2,SecondHalf,TakeOn,Successful,11,,
+72,17,Manchester United,85.5,16.3,SecondHalf,Pass,Unsuccessful,11,87.6,23.3
+72,17,Villarreal,13,73.5,SecondHalf,BallTouch,Successful,4,,
+72,19,Villarreal,2,58.1,SecondHalf,KeeperPickup,Successful,13,,
+72,32,Villarreal,3.2,53.6,SecondHalf,Pass,Successful,13,22.3,27
+72,35,Villarreal,22.3,27,SecondHalf,Pass,Successful,25,33.8,8.3
+72,39,Villarreal,45.3,8.7,SecondHalf,Pass,Unsuccessful,8,46.2,7.9
+72,39,Manchester United,46.1,94.5,SecondHalf,BallTouch,Successful,10,,
+73,2,Villarreal,55.1,0,SecondHalf,Pass,Successful,8,65.6,3.7
+73,4,Villarreal,65.4,2.6,SecondHalf,Pass,Successful,19,58,3.1
+73,6,Villarreal,55.8,3.4,SecondHalf,Pass,Successful,8,45.6,11.9
+73,7,Villarreal,45.6,11.9,SecondHalf,Pass,Successful,3,18.4,34.5
+73,10,Villarreal,19.3,35.8,SecondHalf,Pass,Successful,13,28.4,61.5
+73,13,Villarreal,27.5,62.9,SecondHalf,Pass,Successful,4,44.7,94.1
+73,17,Villarreal,39.9,90.5,SecondHalf,Pass,Successful,24,21.8,81.5
+73,20,Villarreal,21.8,81.5,SecondHalf,Pass,Successful,4,7.2,60.6
+73,23,Villarreal,7.9,66.3,SecondHalf,Pass,Successful,13,25.6,72.6
+73,24,Villarreal,25.6,72.6,SecondHalf,Pass,Unsuccessful,5,24.2,70.5
+73,24,Manchester United,70.1,26.8,SecondHalf,BlockedPass,Successful,18,,
+73,24,Manchester United,70.1,26.8,SecondHalf,Pass,Successful,18,73.4,19.8
+73,26,Manchester United,73.4,19.8,SecondHalf,BallRecovery,Successful,11,,
+73,27,Manchester United,73.4,19.8,SecondHalf,Pass,Successful,11,71,25.5
+73,29,Manchester United,71,25.5,SecondHalf,Pass,Successful,18,78.8,25.3
+73,31,Manchester United,76.4,25.8,SecondHalf,Pass,Successful,11,67.6,27.4
+73,31,Manchester United,67.6,27.4,SecondHalf,Pass,Successful,18,54.9,30.6
+73,36,Manchester United,56.6,27,SecondHalf,Pass,Successful,3,58.2,23.3
+73,38,Manchester United,60.9,20,SecondHalf,Pass,Successful,39,72,2.8
+73,41,Manchester United,72.9,5.9,SecondHalf,Pass,Successful,29,68.1,12.6
+73,44,Manchester United,68.1,17.4,SecondHalf,Pass,Successful,39,65.3,29.2
+73,46,Manchester United,64.7,33.3,SecondHalf,Pass,Unsuccessful,6,67.1,100
+74,10,Villarreal,41.1,0,SecondHalf,Pass,Successful,8,52.2,4.6
+74,11,Villarreal,52.2,4.6,SecondHalf,BallTouch,Unsuccessful,7,,
+74,12,Manchester United,42.6,83.2,SecondHalf,BallRecovery,Successful,6,,
+74,13,Manchester United,42.6,83.2,SecondHalf,Pass,Successful,6,56.9,90.9
+74,13,Manchester United,56.9,90.9,SecondHalf,Pass,Unsuccessful,10,67.1,83.2
+74,15,Villarreal,39.4,14.4,SecondHalf,Pass,Successful,3,46.6,28.6
+74,17,Villarreal,46.6,28.6,SecondHalf,BallRecovery,Successful,19,,
+74,17,Villarreal,45.2,28.6,SecondHalf,Dispossessed,Successful,19,,
+74,18,Manchester United,54.8,71.4,SecondHalf,Tackle,Unsuccessful,39,,
+74,19,Villarreal,39.2,35.8,SecondHalf,Pass,Successful,5,36.1,62.7
+74,23,Villarreal,49.4,66.7,SecondHalf,Pass,Unsuccessful,4,91.4,75.1
+74,26,Manchester United,8,28.8,SecondHalf,Clearance,Successful,29,7.5,25.5
+74,26,Villarreal,90.6,74.5,SecondHalf,BlockedPass,Successful,24,,
+74,26,Manchester United,7.5,25.5,SecondHalf,BallTouch,Successful,29,,
+74,28,Villarreal,92,74.8,SecondHalf,CornerAwarded,Successful,24,,
+74,28,Manchester United,8,25.2,SecondHalf,CornerAwarded,Unsuccessful,29,,
+75,3,Villarreal,99.5,99.3,SecondHalf,Pass,Successful,30,94.8,97.1
+75,4,Villarreal,95.2,97.1,SecondHalf,Pass,Successful,5,80.8,86.3
+75,7,Villarreal,80.7,86.5,SecondHalf,Pass,Unsuccessful,24,90.6,53
+75,8,Manchester United,8.7,47.5,SecondHalf,Clearance,Successful,6,28.4,63.6
+75,11,Villarreal,74.9,39.6,SecondHalf,SavedShot,Successful,14,,
+75,11,Manchester United,22.2,60.2,SecondHalf,Save,Successful,10,,
+75,15,Villarreal,75,39.7,SecondHalf,CornerAwarded,Successful,14,,
+75,15,Manchester United,25,60.3,SecondHalf,CornerAwarded,Unsuccessful,10,,
+75,58,Villarreal,99.5,0.5,SecondHalf,Pass,Successful,30,95.3,2.6
+75,59,Villarreal,95.3,2.6,SecondHalf,Pass,Successful,5,78.3,8.3
+76,3,Villarreal,77,10,SecondHalf,Pass,Successful,8,65.5,41.3
+76,6,Villarreal,66.8,40,SecondHalf,Pass,Unsuccessful,14,100,25.5
+76,35,Villarreal,0,0,SecondHalf,SubstitutionOff,Successful,30,,
+76,35,Villarreal,0,0,SecondHalf,SubstitutionOn,Successful,17,,
+76,57,Villarreal,0,0,SecondHalf,SubstitutionOff,Successful,14,,
+76,57,Villarreal,0,0,SecondHalf,SubstitutionOn,Successful,23,,
+77,17,Manchester United,4.6,51,SecondHalf,Pass,Unsuccessful,1,59.5,88.1
+77,20,Villarreal,42.2,10.6,SecondHalf,Aerial,Successful,8,,
+77,20,Manchester United,57.8,89.4,SecondHalf,Aerial,Unsuccessful,10,,
+77,21,Villarreal,47.2,5.9,SecondHalf,Pass,Unsuccessful,8,54.7,0
+77,42,Manchester United,54.6,100,SecondHalf,Pass,Successful,23,59.2,93.3
+77,43,Manchester United,59.2,93.3,SecondHalf,Pass,Successful,6,57.6,97.1
+77,44,Manchester United,57.6,97.1,SecondHalf,Pass,Unsuccessful,23,69.7,31.2
+77,48,Villarreal,29.5,70.6,SecondHalf,Pass,Successful,24,37,85.3
+77,50,Villarreal,37,85.3,SecondHalf,BallRecovery,Successful,23,,
+77,52,Villarreal,36.1,96.3,SecondHalf,Pass,Successful,23,26.5,75.4
+77,55,Villarreal,24,73.5,SecondHalf,Pass,Successful,5,7.7,52.8
+77,59,Villarreal,7.6,47.6,SecondHalf,Pass,Successful,13,27.8,4.3
+78,7,Villarreal,33,6,SecondHalf,TakeOn,Unsuccessful,8,,
+78,7,Manchester United,67,94,SecondHalf,Tackle,Unsuccessful,10,,
+78,7,Villarreal,33.1,1.7,SecondHalf,BallTouch,Successful,8,,
+78,7,Manchester United,66.1,94.4,SecondHalf,BallRecovery,Successful,10,,
+78,9,Manchester United,69.1,96.5,SecondHalf,Pass,Unsuccessful,10,77.1,79.4
+78,10,Villarreal,21.9,18.6,SecondHalf,BallRecovery,Successful,3,,
+78,11,Villarreal,23.1,17.6,SecondHalf,Pass,Unsuccessful,3,48.8,29.8
+78,13,Manchester United,52.1,72.7,SecondHalf,Pass,Unsuccessful,2,55.4,86.3
+78,15,Villarreal,48.5,11.6,SecondHalf,BallTouch,Successful,7,,
+78,16,Manchester United,56.2,71.4,SecondHalf,BallRecovery,Successful,23,,
+78,18,Manchester United,58.5,68.7,SecondHalf,Pass,Successful,23,60.2,58.5
+78,23,Manchester United,72.9,29.8,SecondHalf,Pass,Successful,39,77.3,16.4
+78,27,Manchester United,86.6,21.3,SecondHalf,Pass,Unsuccessful,11,91.9,41
+78,28,Villarreal,7.5,58.8,SecondHalf,Clearance,Successful,4,15,74.8
+78,29,Villarreal,15,74.8,SecondHalf,Clearance,Successful,23,26.8,82.6
+78,33,Manchester United,68.4,14.7,SecondHalf,Pass,Successful,29,73.5,25.3
+78,38,Manchester United,97.9,24.3,SecondHalf,Pass,Unsuccessful,39,97.1,44.6
+78,38,Villarreal,3.1,57.9,SecondHalf,Clearance,Successful,3,0,71.1
+78,39,Villarreal,2.8,57,SecondHalf,CornerAwarded,Unsuccessful,3,,
+78,39,Manchester United,97.2,43,SecondHalf,CornerAwarded,Successful,39,,
+79,8,Manchester United,99.5,0.5,SecondHalf,Pass,Successful,23,85.7,5.3
+79,10,Manchester United,84.2,11.3,SecondHalf,Pass,Unsuccessful,11,91.5,43
+79,11,Villarreal,8.9,57.2,SecondHalf,Aerial,Successful,24,,
+79,11,Manchester United,91.1,42.8,SecondHalf,Aerial,Unsuccessful,3,,
+79,11,Villarreal,9.3,57.2,SecondHalf,Clearance,Successful,24,14.4,46.7
+79,13,Villarreal,13.4,50.8,SecondHalf,Aerial,Successful,8,,
+79,13,Manchester United,86.6,49.2,SecondHalf,Aerial,Unsuccessful,2,,
+79,14,Villarreal,14.5,46.6,SecondHalf,Clearance,Successful,8,20.6,38.3
+79,15,Manchester United,78.6,62.6,SecondHalf,Pass,Successful,6,75.6,65.7
+79,16,Manchester United,75.6,65.7,SecondHalf,Pass,Successful,10,77.8,59.3
+79,18,Manchester United,79.8,60.9,SecondHalf,Pass,Successful,6,81,56.1
+79,20,Manchester United,82.6,56.1,SecondHalf,Pass,Unsuccessful,39,95.7,64.3
+79,22,Villarreal,1.7,33.9,SecondHalf,BallRecovery,Successful,8,,
+79,23,Villarreal,2.5,25.8,SecondHalf,BallTouch,Unsuccessful,8,,
+79,24,Manchester United,91.6,75.8,SecondHalf,Dispossessed,Successful,6,,
+79,25,Villarreal,8.4,24.2,SecondHalf,Tackle,Successful,8,,
+79,26,Villarreal,13.2,24.6,SecondHalf,Pass,Unsuccessful,5,25.5,20.4
+79,27,Manchester United,71.6,76.6,SecondHalf,Pass,Successful,23,77.5,72.3
+79,28,Manchester United,77.5,72.3,SecondHalf,BallRecovery,Successful,39,,
+79,29,Manchester United,77.5,72.3,SecondHalf,Pass,Successful,39,85.7,76.4
+79,30,Manchester United,84.9,79.8,SecondHalf,Pass,Successful,10,88.5,92.7
+79,33,Manchester United,89.6,91.8,SecondHalf,Pass,Unsuccessful,23,96.6,48.8
+79,34,Villarreal,4.1,49.4,SecondHalf,KeeperPickup,Successful,13,,
+79,46,Villarreal,9.8,50.4,SecondHalf,Pass,Successful,13,25.5,95.4
+79,49,Villarreal,29.1,97.2,SecondHalf,Pass,Unsuccessful,24,53.2,70.6
+79,52,Manchester United,45.1,30.2,SecondHalf,Foul,Successful,3,,
+79,52,Villarreal,54.9,69.8,SecondHalf,Foul,Unsuccessful,17,,
+80,6,Manchester United,43.5,31,SecondHalf,Pass,Successful,3,37.5,59.9
+80,8,Manchester United,37.5,59.9,SecondHalf,Pass,Successful,2,41.2,91.1
+80,10,Manchester United,41.2,91.1,SecondHalf,Pass,Successful,23,57,96.2
+80,11,Manchester United,57,96.2,SecondHalf,Pass,Successful,10,44.4,90.2
+80,14,Manchester United,44.4,90.2,SecondHalf,Pass,Successful,23,39.3,61.8
+80,16,Manchester United,39.3,61.8,SecondHalf,Pass,Unsuccessful,2,70.3,69.7
+80,18,Villarreal,32,34.3,SecondHalf,Pass,Unsuccessful,8,40.5,41
+80,20,Manchester United,61.4,61.7,SecondHalf,Pass,Successful,6,68.6,66.6
+80,24,Manchester United,72.1,75.4,SecondHalf,Pass,Successful,7,78.7,89.3
+80,28,Manchester United,79.7,75.7,SecondHalf,MissedShots,Successful,10,,
+81,6,Villarreal,4.5,42.7,SecondHalf,Pass,Unsuccessful,13,61.9,45.7
+81,8,Manchester United,37.2,49.6,SecondHalf,Aerial,Successful,6,,
+81,8,Villarreal,62.8,50.4,SecondHalf,Aerial,Unsuccessful,19,,
+81,8,Manchester United,36.2,44.8,SecondHalf,Pass,Unsuccessful,6,45.5,46.6
+81,9,Villarreal,54,52.9,SecondHalf,Aerial,Successful,25,,
+81,9,Manchester United,46,47.1,SecondHalf,Aerial,Unsuccessful,18,,
+81,9,Villarreal,53.6,52.4,SecondHalf,Pass,Unsuccessful,25,62.8,56.3
+81,11,Manchester United,38.1,38.2,SecondHalf,Pass,Unsuccessful,39,35.8,47.3
+81,11,Villarreal,63.1,52.6,SecondHalf,BallTouch,Successful,7,,
+81,13,Manchester United,37.4,63.7,SecondHalf,Pass,Successful,6,35.1,84.2
+81,13,Manchester United,35.6,84.5,SecondHalf,BallRecovery,Successful,23,,
+81,16,Manchester United,35.6,84.5,SecondHalf,Pass,Unsuccessful,23,66.6,86.8
+81,17,Villarreal,28.4,10,SecondHalf,BallTouch,Successful,8,,
+81,19,Manchester United,70.3,87.4,SecondHalf,TakeOn,Unsuccessful,10,,
+81,19,Villarreal,29.7,12.6,SecondHalf,Tackle,Successful,3,,
+81,27,Manchester United,64.9,100,SecondHalf,Pass,Successful,23,86.7,93.8
+81,31,Manchester United,86.7,95.1,SecondHalf,Pass,Successful,18,74.3,94.8
+81,33,Manchester United,74.3,94.8,SecondHalf,Pass,Successful,23,66,81.8
+81,34,Manchester United,66,81.8,SecondHalf,Pass,Successful,6,61.4,86.2
+81,38,Manchester United,59.6,79.9,SecondHalf,Pass,Successful,2,51.4,54.6
+81,40,Manchester United,51.4,54.6,SecondHalf,Pass,Successful,3,64.8,48.5
+81,42,Manchester United,63.8,46.6,SecondHalf,Pass,Unsuccessful,6,67.4,19.2
+81,43,Villarreal,29.8,82.9,SecondHalf,BallRecovery,Successful,23,,
+81,45,Villarreal,31.4,84.1,SecondHalf,Pass,Unsuccessful,23,58.4,69.3
+81,47,Villarreal,59.7,68.9,SecondHalf,Foul,Successful,17,,
+81,47,Manchester United,40.3,31.1,SecondHalf,Foul,Unsuccessful,3,,
+81,56,Manchester United,0,0,SecondHalf,Card,Successful,3,,
+82,48,Villarreal,59.8,70.5,SecondHalf,Pass,Unsuccessful,5,90.9,46.7
+82,49,Manchester United,8.2,53.7,SecondHalf,KeeperPickup,Successful,1,,
+82,54,Manchester United,14,50.7,SecondHalf,Pass,Successful,1,27.7,18.5
+82,59,Manchester United,34.3,11.6,SecondHalf,Pass,Successful,18,38.7,2.9
+83,0,Manchester United,38.7,2.9,SecondHalf,Pass,Successful,29,36.4,7.7
+83,2,Manchester United,36.4,9.4,SecondHalf,Pass,Successful,18,39.1,35.8
+83,6,Manchester United,45,48.4,SecondHalf,Pass,Successful,6,54.6,84.5
+83,10,Manchester United,62.2,86.3,SecondHalf,Pass,Successful,23,65,96.2
+83,12,Manchester United,65,96.2,SecondHalf,Pass,Successful,10,90.1,85.7
+83,15,Manchester United,91.4,84.8,SecondHalf,Foul,Successful,23,,
+83,15,Villarreal,8.6,15.2,SecondHalf,Foul,Unsuccessful,8,,
+83,58,Villarreal,0,0,SecondHalf,Card,Successful,8,,
+85,5,Manchester United,91.5,83.8,SecondHalf,Pass,Successful,18,89.3,50.1
+85,9,Manchester United,84.9,51.5,SecondHalf,BallTouch,Unsuccessful,39,,
+85,10,Villarreal,13.2,48.5,SecondHalf,Clearance,Successful,25,23.7,48.4
+85,11,Manchester United,73.8,47.6,SecondHalf,MissedShots,Successful,10,,
+85,44,Villarreal,4.4,58.1,SecondHalf,Pass,Successful,13,67.1,66.1
+85,48,Villarreal,66.6,64.5,SecondHalf,Aerial,Successful,7,,
+85,48,Manchester United,33.4,35.5,SecondHalf,Aerial,Unsuccessful,6,,
+85,48,Villarreal,67.1,66.1,SecondHalf,Pass,Unsuccessful,7,73.6,75.1
+85,54,Manchester United,33.4,20.9,SecondHalf,Pass,Successful,29,35.8,27.1
+85,54,Manchester United,35.9,27.1,SecondHalf,BallRecovery,Successful,39,,
+85,56,Villarreal,62.4,76.4,SecondHalf,Challenge,Unsuccessful,5,,
+85,56,Manchester United,37.6,23.6,SecondHalf,TakeOn,Successful,39,,
+85,57,Villarreal,56.6,66.1,SecondHalf,Challenge,Unsuccessful,19,,
+85,57,Manchester United,43.4,33.9,SecondHalf,TakeOn,Successful,39,,
+85,59,Manchester United,48.2,44.9,SecondHalf,Pass,Successful,39,60.4,82.1
+86,3,Manchester United,80.7,76.4,SecondHalf,TakeOn,Unsuccessful,10,,
+86,5,Villarreal,19.3,23.6,SecondHalf,Tackle,Successful,8,,
+86,7,Villarreal,20.1,10.9,SecondHalf,BallRecovery,Successful,8,,
+86,7,Villarreal,22.9,9.4,SecondHalf,BallTouch,Successful,8,,
+86,9,Villarreal,29.3,6.4,SecondHalf,Pass,Unsuccessful,7,25.7,13.1
+86,11,Manchester United,64.6,80.6,SecondHalf,BallRecovery,Successful,6,,
+86,12,Manchester United,65.6,82.3,SecondHalf,Pass,Successful,6,71.9,89.4
+86,14,Manchester United,70.6,94.1,SecondHalf,Dispossessed,Successful,23,,
+86,14,Villarreal,29.4,5.9,SecondHalf,Tackle,Unsuccessful,19,,
+86,15,Manchester United,69.8,93.9,SecondHalf,BallTouch,Successful,23,,
+87,11,Villarreal,0,0,SecondHalf,SubstitutionOff,Successful,24,,
+87,11,Villarreal,0,0,SecondHalf,SubstitutionOn,Successful,18,,
+87,31,Villarreal,0,0,SecondHalf,SubstitutionOff,Successful,8,,
+87,31,Villarreal,0,0,SecondHalf,SubstitutionOn,Successful,2,,
+87,38,Villarreal,39.7,0,SecondHalf,Pass,Successful,2,53.5,3.4
+87,41,Villarreal,53.5,3.5,SecondHalf,BallTouch,Unsuccessful,7,,
+87,54,Manchester United,38,100,SecondHalf,Pass,Successful,23,41.6,87.5
+87,56,Manchester United,41,85.3,SecondHalf,Pass,Unsuccessful,6,34.3,89.3
+87,58,Villarreal,58.5,5.8,SecondHalf,Interception,Successful,7,,
+87,58,Manchester United,34.3,89.3,SecondHalf,BallTouch,Successful,23,,
+87,58,Villarreal,61.5,3.2,SecondHalf,BallRecovery,Successful,7,,
+88,0,Villarreal,61.5,3.2,SecondHalf,Pass,Unsuccessful,7,91.8,30.7
+88,3,Manchester United,8.8,69.6,SecondHalf,KeeperPickup,Successful,1,,
+88,5,Manchester United,11.1,66.7,SecondHalf,Pass,Successful,1,26.7,23.7
+88,10,Manchester United,26.7,25,SecondHalf,Pass,Successful,3,29.3,44
+88,15,Manchester United,34.6,61.5,SecondHalf,Pass,Successful,39,37.7,88.4
+88,16,Manchester United,37.7,88.4,SecondHalf,Pass,Successful,23,28.3,68.4
+88,19,Manchester United,28,63.6,SecondHalf,Pass,Successful,2,28.6,29.2
+88,22,Manchester United,28.6,29.4,SecondHalf,Pass,Successful,3,29.4,59.6
+88,27,Manchester United,33.2,54.2,SecondHalf,Pass,Successful,2,32.1,33.1
+88,31,Manchester United,32.2,41.2,SecondHalf,Pass,Successful,3,33,64.2
+88,35,Manchester United,32.9,65.8,SecondHalf,Pass,Successful,2,29.8,45.7
+88,38,Manchester United,29.8,45.7,SecondHalf,Pass,Successful,3,39.9,15.6
+88,46,Manchester United,66,13.7,SecondHalf,Pass,Successful,39,90.4,84.1
+88,53,Manchester United,93.3,81.7,SecondHalf,Pass,Successful,10,80.6,70.3
+88,54,Manchester United,80.6,70.3,SecondHalf,Pass,Successful,23,89.3,46.3
+88,55,Manchester United,91.6,47.6,SecondHalf,Aerial,Successful,6,,
+88,55,Villarreal,8.4,52.4,SecondHalf,Aerial,Unsuccessful,4,,
+88,56,Manchester United,89.3,46.3,SecondHalf,MissedShots,Successful,6,,
+89,32,Villarreal,5.1,57.5,SecondHalf,Pass,Unsuccessful,13,65.6,71.5
+89,36,Manchester United,35.2,29.9,SecondHalf,Foul,Successful,3,,
+89,36,Villarreal,64.8,70.1,SecondHalf,Foul,Unsuccessful,7,,
+89,53,Manchester United,36,25,SecondHalf,Pass,Successful,39,30.9,36.6
+89,55,Manchester United,30.9,36.6,SecondHalf,Pass,Successful,3,32.4,66.3
+89,59,Manchester United,39.4,73,SecondHalf,Pass,Successful,2,44.5,90.3
+90,2,Manchester United,49.2,89.7,SecondHalf,Pass,Successful,23,58,96.3
+90,3,Manchester United,58,96.3,SecondHalf,Pass,Successful,10,36.6,81.2
+90,5,Manchester United,37.2,80.3,SecondHalf,Pass,Successful,2,98.9,93.9
+90,10,Manchester United,97.7,92,SecondHalf,BallTouch,Unsuccessful,10,,
+90,48,Villarreal,4.6,56.9,SecondHalf,Pass,Unsuccessful,13,63.6,54.6
+90,52,Manchester United,33,39.1,SecondHalf,Pass,Unsuccessful,6,39.2,32.2
+90,55,Villarreal,60.4,68.8,SecondHalf,Foul,Successful,23,,
+90,55,Manchester United,39.6,31.2,SecondHalf,Foul,Unsuccessful,18,,
+91,31,Villarreal,61.7,73.9,SecondHalf,Pass,Unsuccessful,5,90.9,34.2
+91,33,Manchester United,9.8,68,SecondHalf,Aerial,Successful,23,,
+91,33,Villarreal,90.2,32,SecondHalf,Aerial,Unsuccessful,4,,
+91,34,Manchester United,10.5,70.2,SecondHalf,Clearance,Successful,23,1.3,78.2
+91,36,Villarreal,98.5,18.5,SecondHalf,Pass,Successful,2,89.9,26.1
+91,38,Villarreal,86.8,28,SecondHalf,MissedShots,Successful,4,,
+92,15,Manchester United,5.1,50.7,SecondHalf,Pass,Unsuccessful,1,65.6,65.8
+92,19,Villarreal,35.7,34.2,SecondHalf,Pass,Successful,25,42,33.1
+92,22,Villarreal,41.9,33,SecondHalf,BallTouch,Unsuccessful,7,,
+92,24,Manchester United,58.7,71.2,SecondHalf,Pass,Successful,6,56.1,91.2
+92,26,Manchester United,56.4,92.4,SecondHalf,Pass,Successful,23,62,92.3
+92,27,Manchester United,62,92.3,SecondHalf,Pass,Successful,10,61.3,80.5
+92,29,Manchester United,60.4,71.1,SecondHalf,Pass,Successful,6,60.7,13.2
+92,33,Manchester United,61.9,13.7,SecondHalf,Pass,Successful,29,80,14
+92,37,Manchester United,91.5,4.6,SecondHalf,TakeOn,Unsuccessful,11,,
+92,37,Villarreal,8.5,95.4,SecondHalf,Tackle,Unsuccessful,18,,
+92,39,Manchester United,87,3.3,SecondHalf,Dispossessed,Successful,11,,
+92,41,Villarreal,13,96.7,SecondHalf,Tackle,Unsuccessful,18,,
+92,41,Manchester United,84.2,2.2,SecondHalf,BallTouch,Successful,11,,
+93,2,Villarreal,10.2,100,SecondHalf,Pass,Unsuccessful,18,20.1,97.5
+93,5,Villarreal,0,0,SecondHalf,End,Successful,,,
+93,5,Manchester United,0,0,SecondHalf,End,Successful,,,
+90,0,Villarreal,0,0,FirstPeriodOfExtraTime,Start,Successful,,,
+90,0,Manchester United,0,0,FirstPeriodOfExtraTime,Start,Successful,,,
+90,0,Manchester United,49.9,49.9,FirstPeriodOfExtraTime,Pass,Successful,18,39.5,55.4
+90,3,Manchester United,41.1,55.4,FirstPeriodOfExtraTime,Pass,Successful,6,33.9,39.7
+90,5,Manchester United,33.3,41,FirstPeriodOfExtraTime,Pass,Successful,3,34.3,72.4
+90,9,Manchester United,34.8,71.7,FirstPeriodOfExtraTime,Pass,Successful,2,32.2,40
+90,14,Manchester United,34.1,54.2,FirstPeriodOfExtraTime,Pass,Successful,3,35.9,76.6
+90,16,Manchester United,35.9,76.6,FirstPeriodOfExtraTime,Pass,Successful,2,31.5,57.3
+90,26,Manchester United,44.1,55.1,FirstPeriodOfExtraTime,Pass,Successful,3,78.1,97.8
+90,32,Manchester United,89.8,89.6,FirstPeriodOfExtraTime,Pass,Successful,10,76.4,81.5
+90,34,Manchester United,76.4,81.5,FirstPeriodOfExtraTime,Pass,Unsuccessful,23,95.8,43
+90,35,Villarreal,3.7,56,FirstPeriodOfExtraTime,KeeperPickup,Successful,13,,
+90,51,Villarreal,9.9,55.5,FirstPeriodOfExtraTime,Pass,Successful,13,21.1,25.2
+90,53,Villarreal,21.1,25.2,FirstPeriodOfExtraTime,Pass,Successful,3,8.7,48.2
+90,58,Villarreal,13.6,47.6,FirstPeriodOfExtraTime,Pass,Unsuccessful,13,41.9,71.1
+91,0,Manchester United,60.1,25.5,FirstPeriodOfExtraTime,BallTouch,Unsuccessful,29,,
+91,1,Villarreal,36,76.6,FirstPeriodOfExtraTime,Pass,Unsuccessful,18,41.2,63.3
+91,3,Manchester United,58.6,38.8,FirstPeriodOfExtraTime,BallRecovery,Successful,39,,
+91,7,Manchester United,60.5,74.1,FirstPeriodOfExtraTime,Pass,Successful,39,61.7,92.7
+91,10,Manchester United,61.7,92.7,FirstPeriodOfExtraTime,Pass,Successful,23,61.1,81.1
+91,12,Manchester United,61.4,75.3,FirstPeriodOfExtraTime,Pass,Successful,39,57.4,52.7
+91,18,Manchester United,62.2,48.4,FirstPeriodOfExtraTime,Pass,Successful,6,60.2,66.6
+91,22,Manchester United,63.5,71.7,FirstPeriodOfExtraTime,Pass,Successful,2,70.3,70.3
+91,23,Manchester United,70.3,70.3,FirstPeriodOfExtraTime,Pass,Successful,10,64.6,77.5
+91,24,Manchester United,64.6,77.5,FirstPeriodOfExtraTime,Pass,Successful,2,68.1,96
+91,26,Manchester United,68.1,96,FirstPeriodOfExtraTime,Pass,Successful,23,59.4,81.5
+91,29,Manchester United,58,76.4,FirstPeriodOfExtraTime,Pass,Successful,2,47.7,56.1
+91,31,Manchester United,48.2,53.4,FirstPeriodOfExtraTime,Pass,Unsuccessful,3,63.2,29.5
+91,34,Villarreal,36.4,71.9,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,23,,
+91,34,Manchester United,63.6,28.1,FirstPeriodOfExtraTime,Tackle,Unsuccessful,39,,
+91,34,Villarreal,36.3,73.3,FirstPeriodOfExtraTime,BallTouch,Successful,23,,
+91,37,Manchester United,65.1,48.4,FirstPeriodOfExtraTime,Pass,Successful,6,88.5,86.5
+91,43,Manchester United,90.8,83.5,FirstPeriodOfExtraTime,Pass,Successful,10,78.4,70.3
+91,46,Manchester United,85.5,70.8,FirstPeriodOfExtraTime,SavedShot,Successful,18,,
+91,47,Villarreal,9,42.1,FirstPeriodOfExtraTime,Save,Successful,3,,
+91,49,Villarreal,23.4,60.4,FirstPeriodOfExtraTime,Aerial,Successful,17,,
+91,49,Manchester United,76.6,39.6,FirstPeriodOfExtraTime,Aerial,Unsuccessful,39,,
+91,49,Villarreal,22.5,61.7,FirstPeriodOfExtraTime,Clearance,Successful,17,27.1,67.5
+91,51,Manchester United,68.3,24.7,FirstPeriodOfExtraTime,Pass,Successful,3,64.9,56.3
+91,54,Manchester United,65.1,59.1,FirstPeriodOfExtraTime,Pass,Successful,2,67.3,84.4
+91,57,Manchester United,67.8,84.2,FirstPeriodOfExtraTime,Pass,Successful,23,73.4,77
+91,57,Manchester United,73.4,77,FirstPeriodOfExtraTime,Pass,Successful,18,65.3,81.8
+91,59,Manchester United,65.3,81.8,FirstPeriodOfExtraTime,Pass,Successful,23,58.9,66.4
+92,1,Manchester United,61,66.9,FirstPeriodOfExtraTime,Pass,Unsuccessful,2,71.4,67.2
+92,2,Villarreal,25.7,31.2,FirstPeriodOfExtraTime,Interception,Successful,25,,
+92,3,Villarreal,29.2,35.7,FirstPeriodOfExtraTime,BallRecovery,Successful,5,,
+92,5,Villarreal,29.3,36.1,FirstPeriodOfExtraTime,Pass,Successful,5,37.6,27.6
+92,8,Villarreal,45.5,30.1,FirstPeriodOfExtraTime,Pass,Successful,7,51.6,41.2
+92,10,Villarreal,49.2,40.3,FirstPeriodOfExtraTime,Pass,Successful,17,45.5,52.4
+92,12,Villarreal,46.5,55.4,FirstPeriodOfExtraTime,Pass,Successful,5,59,89.3
+92,17,Villarreal,77.3,85.1,FirstPeriodOfExtraTime,Pass,Unsuccessful,18,91.5,34.5
+92,19,Manchester United,9.5,63.6,FirstPeriodOfExtraTime,Aerial,Successful,23,,
+92,19,Villarreal,90.5,36.4,FirstPeriodOfExtraTime,Aerial,Unsuccessful,7,,
+92,19,Manchester United,10.5,61.7,FirstPeriodOfExtraTime,Clearance,Successful,23,23,100
+92,34,Villarreal,78,0,FirstPeriodOfExtraTime,Pass,Successful,2,56,6.1
+92,40,Villarreal,54.1,32.1,FirstPeriodOfExtraTime,Pass,Successful,3,46.8,66.9
+92,45,Villarreal,53.7,72.1,FirstPeriodOfExtraTime,Pass,Successful,4,65.6,64.2
+92,47,Villarreal,66,60.6,FirstPeriodOfExtraTime,Dispossessed,Successful,17,,
+92,47,Manchester United,34,39.4,FirstPeriodOfExtraTime,Tackle,Unsuccessful,7,,
+92,47,Villarreal,63.3,61.1,FirstPeriodOfExtraTime,BallTouch,Successful,17,,
+92,50,Villarreal,66.1,58.5,FirstPeriodOfExtraTime,Pass,Unsuccessful,5,68.7,52.5
+92,50,Manchester United,33.4,52.8,FirstPeriodOfExtraTime,Interception,Successful,6,,
+92,53,Villarreal,78.2,23.3,FirstPeriodOfExtraTime,Pass,Successful,2,84.4,11.4
+92,56,Villarreal,84.6,11.3,FirstPeriodOfExtraTime,Pass,Successful,7,65.4,21.3
+92,59,Villarreal,65.4,21.3,FirstPeriodOfExtraTime,Pass,Successful,25,69,29.2
+93,0,Villarreal,69,29.2,FirstPeriodOfExtraTime,Pass,Successful,19,54.3,58.1
+93,4,Villarreal,56.6,65.8,FirstPeriodOfExtraTime,Pass,Successful,3,68.1,90.9
+93,6,Villarreal,65.7,95.1,FirstPeriodOfExtraTime,Pass,Successful,18,53.1,84.8
+93,11,Villarreal,52.8,66.6,FirstPeriodOfExtraTime,Pass,Successful,4,41.7,51.5
+93,14,Villarreal,42.3,46.9,FirstPeriodOfExtraTime,Pass,Successful,3,49.5,7.7
+93,17,Villarreal,52.9,8.8,FirstPeriodOfExtraTime,Pass,Successful,25,42.9,40
+93,22,Villarreal,47.1,43.4,FirstPeriodOfExtraTime,Pass,Successful,3,53.2,7.3
+93,26,Villarreal,53.7,7.7,FirstPeriodOfExtraTime,Pass,Successful,25,42.3,34.3
+93,30,Villarreal,43.4,34.3,FirstPeriodOfExtraTime,Pass,Successful,3,53.2,4.7
+93,33,Villarreal,54.2,4.9,FirstPeriodOfExtraTime,Pass,Successful,25,56.9,20.7
+93,36,Villarreal,55.3,30.6,FirstPeriodOfExtraTime,Pass,Successful,19,55,71.8
+93,42,Villarreal,69.8,89.3,FirstPeriodOfExtraTime,Pass,Successful,4,75.1,96.3
+93,43,Villarreal,75.1,96.3,FirstPeriodOfExtraTime,Pass,Successful,18,72.5,86.8
+93,44,Villarreal,72.5,86.8,FirstPeriodOfExtraTime,Pass,Successful,23,61.5,91.2
+93,49,Villarreal,66.6,75.9,FirstPeriodOfExtraTime,Pass,Successful,4,72.8,67
+93,50,Villarreal,75.5,61.2,FirstPeriodOfExtraTime,Pass,Unsuccessful,19,82.5,56.1
+93,51,Manchester United,17.9,42.7,FirstPeriodOfExtraTime,Interception,Successful,3,,
+93,52,Manchester United,22.6,44.7,FirstPeriodOfExtraTime,BallRecovery,Successful,3,,
+93,52,Manchester United,23.6,42.9,FirstPeriodOfExtraTime,Pass,Unsuccessful,3,24.4,42.1
+93,52,Villarreal,77.5,53.6,FirstPeriodOfExtraTime,BlockedPass,Successful,23,,
+93,57,Manchester United,40.6,34.8,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,18,,
+93,57,Villarreal,59.4,65.2,FirstPeriodOfExtraTime,Tackle,Unsuccessful,5,,
+93,57,Manchester United,35.4,36.7,FirstPeriodOfExtraTime,BallTouch,Successful,18,,
+93,58,Villarreal,51.3,65.5,FirstPeriodOfExtraTime,BallRecovery,Successful,19,,
+93,59,Villarreal,51.3,65.5,FirstPeriodOfExtraTime,Pass,Successful,19,51.7,70.5
+94,0,Villarreal,51.7,70.5,FirstPeriodOfExtraTime,Pass,Successful,18,46.6,53
+94,2,Villarreal,46.6,53,FirstPeriodOfExtraTime,Pass,Successful,25,55.6,27.9
+94,6,Villarreal,72.5,18,FirstPeriodOfExtraTime,Pass,Successful,2,76.3,3.5
+94,11,Villarreal,76.9,20.3,FirstPeriodOfExtraTime,Pass,Successful,7,85.2,41.9
+94,12,Villarreal,85.6,40.9,FirstPeriodOfExtraTime,SavedShot,Successful,17,,
+94,12,Manchester United,13.2,58.1,FirstPeriodOfExtraTime,Save,Successful,3,,
+94,14,Manchester United,12.1,54.5,FirstPeriodOfExtraTime,BallRecovery,Successful,29,,
+94,14,Manchester United,12.1,54.5,FirstPeriodOfExtraTime,Pass,Unsuccessful,29,42.4,90.9
+94,17,Villarreal,56.8,6.8,FirstPeriodOfExtraTime,Aerial,Successful,3,,
+94,17,Manchester United,43.2,93.2,FirstPeriodOfExtraTime,Aerial,Unsuccessful,10,,
+94,17,Villarreal,56.1,4.4,FirstPeriodOfExtraTime,Pass,Unsuccessful,3,60.8,0
+94,42,Manchester United,40.4,100,FirstPeriodOfExtraTime,Pass,Successful,23,33.8,80.3
+94,43,Manchester United,33.8,80.3,FirstPeriodOfExtraTime,Pass,Successful,2,30.1,52.7
+94,44,Manchester United,30.1,52.7,FirstPeriodOfExtraTime,Pass,Successful,3,35.1,76.9
+94,48,Manchester United,36.7,77,FirstPeriodOfExtraTime,Pass,Successful,2,41.1,94.2
+94,53,Manchester United,41.7,92.6,FirstPeriodOfExtraTime,Pass,Successful,23,37.5,71.4
+94,55,Manchester United,36.8,69.1,FirstPeriodOfExtraTime,Pass,Successful,2,32.5,42.5
+94,58,Manchester United,37.6,31,FirstPeriodOfExtraTime,Pass,Successful,3,44.4,11.6
+95,2,Manchester United,57.3,7.7,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,39,,
+95,2,Villarreal,42.7,92.3,FirstPeriodOfExtraTime,Tackle,Successful,17,,
+95,19,Manchester United,65,0,FirstPeriodOfExtraTime,Pass,Unsuccessful,29,76.9,5.5
+95,22,Villarreal,22.2,95.7,FirstPeriodOfExtraTime,BallRecovery,Successful,4,,
+95,22,Villarreal,22.2,95.7,FirstPeriodOfExtraTime,Pass,Successful,4,44.1,93.9
+95,23,Villarreal,44.1,93.9,FirstPeriodOfExtraTime,BallTouch,Unsuccessful,17,,
+95,26,Manchester United,47.5,30.4,FirstPeriodOfExtraTime,BallRecovery,Successful,2,,
+95,28,Manchester United,53.5,50.3,FirstPeriodOfExtraTime,Pass,Successful,2,61.2,95.3
+95,34,Manchester United,67.6,94.5,FirstPeriodOfExtraTime,Pass,Successful,23,66,86.3
+95,36,Manchester United,65.9,79.7,FirstPeriodOfExtraTime,Pass,Successful,10,54,41.8
+95,39,Manchester United,52.8,40,FirstPeriodOfExtraTime,Pass,Successful,3,60,19.8
+95,43,Manchester United,63.6,17.1,FirstPeriodOfExtraTime,Pass,Successful,29,54.6,43.4
+95,46,Manchester United,54.6,43.4,FirstPeriodOfExtraTime,Pass,Successful,3,60.5,23.1
+95,49,Manchester United,60.9,18.5,FirstPeriodOfExtraTime,Pass,Successful,29,69.9,5.9
+95,50,Manchester United,69.9,5.9,FirstPeriodOfExtraTime,Pass,Successful,11,70.7,15.6
+95,50,Manchester United,70.7,15.6,FirstPeriodOfExtraTime,Pass,Unsuccessful,39,76.8,14.1
+95,51,Villarreal,26,93.3,FirstPeriodOfExtraTime,Pass,Unsuccessful,4,38.1,91.4
+95,53,Manchester United,64.6,10.3,FirstPeriodOfExtraTime,Pass,Successful,29,71.7,5.6
+95,58,Manchester United,54.7,7.3,FirstPeriodOfExtraTime,Pass,Successful,18,31.2,28.2
+96,6,Manchester United,34.7,45.7,FirstPeriodOfExtraTime,Pass,Successful,3,37.8,25
+96,8,Manchester United,38.2,25.2,FirstPeriodOfExtraTime,Pass,Unsuccessful,18,73.8,53.1
+96,11,Villarreal,24.8,49.4,FirstPeriodOfExtraTime,Pass,Successful,3,41.4,59.1
+96,13,Villarreal,41.4,59.1,FirstPeriodOfExtraTime,Pass,Successful,5,37,59.9
+96,14,Villarreal,35.8,62,FirstPeriodOfExtraTime,BallRecovery,Successful,25,,
+96,16,Villarreal,36.7,70.8,FirstPeriodOfExtraTime,Pass,Successful,25,43.8,95.4
+96,19,Villarreal,44.1,95.4,FirstPeriodOfExtraTime,Pass,Successful,18,39,80.2
+96,21,Villarreal,38,79.1,FirstPeriodOfExtraTime,Pass,Successful,25,38.3,65.7
+96,23,Villarreal,38.2,64.2,FirstPeriodOfExtraTime,Pass,Successful,5,45.6,43.4
+96,25,Villarreal,45.6,43.4,FirstPeriodOfExtraTime,Pass,Successful,19,56.1,5.8
+96,28,Villarreal,56.1,5.8,FirstPeriodOfExtraTime,Pass,Successful,2,53.1,23.1
+96,31,Villarreal,53.1,23.9,FirstPeriodOfExtraTime,Pass,Successful,19,41.8,36.7
+96,35,Villarreal,41.9,39.1,FirstPeriodOfExtraTime,Pass,Successful,3,47.7,35.8
+96,39,Villarreal,56.8,34.8,FirstPeriodOfExtraTime,Dispossessed,Successful,25,,
+96,39,Manchester United,43.2,65.2,FirstPeriodOfExtraTime,Tackle,Successful,7,,
+96,40,Manchester United,34.6,61.2,FirstPeriodOfExtraTime,BallRecovery,Successful,6,,
+96,41,Manchester United,34.6,61.2,FirstPeriodOfExtraTime,Pass,Successful,6,39.6,40.9
+96,42,Manchester United,39.6,40.9,FirstPeriodOfExtraTime,Pass,Successful,18,39.4,47.3
+96,44,Villarreal,50.8,60,FirstPeriodOfExtraTime,Challenge,Unsuccessful,5,,
+96,44,Manchester United,49.2,40,FirstPeriodOfExtraTime,TakeOn,Successful,39,,
+96,45,Manchester United,54.5,36.1,FirstPeriodOfExtraTime,Pass,Unsuccessful,39,66.3,42.4
+96,46,Villarreal,33.8,61.4,FirstPeriodOfExtraTime,Interception,Successful,18,,
+96,48,Villarreal,32.2,70.5,FirstPeriodOfExtraTime,BallRecovery,Successful,4,,
+96,49,Villarreal,32.8,73.2,FirstPeriodOfExtraTime,Pass,Successful,4,41.2,88.1
+96,51,Villarreal,45.5,89.3,FirstPeriodOfExtraTime,Pass,Successful,23,54.9,72.3
+96,55,Villarreal,48.3,68.5,FirstPeriodOfExtraTime,Pass,Successful,5,55.9,21.2
+97,0,Villarreal,74.7,25.3,FirstPeriodOfExtraTime,Pass,Successful,2,77.5,13.8
+97,9,Villarreal,70.3,16.5,FirstPeriodOfExtraTime,Pass,Successful,7,54.1,29.8
+97,13,Villarreal,55.1,33.7,FirstPeriodOfExtraTime,Pass,Successful,3,52.3,58.5
+97,16,Villarreal,52.9,58.8,FirstPeriodOfExtraTime,Pass,Successful,4,63.9,90.3
+97,18,Villarreal,63.9,90.3,FirstPeriodOfExtraTime,Pass,Successful,18,79.2,90.5
+97,22,Villarreal,76.7,88,FirstPeriodOfExtraTime,Pass,Successful,23,71.4,70.3
+97,24,Villarreal,72,68.5,FirstPeriodOfExtraTime,Pass,Unsuccessful,5,96.8,33.9
+97,26,Manchester United,4.2,66.7,FirstPeriodOfExtraTime,Aerial,Successful,23,,
+97,26,Villarreal,95.8,33.3,FirstPeriodOfExtraTime,Aerial,Unsuccessful,7,,
+97,27,Manchester United,5.4,67.4,FirstPeriodOfExtraTime,Clearance,Successful,23,5.3,68.8
+97,27,Villarreal,96.8,33.9,FirstPeriodOfExtraTime,BallTouch,Successful,7,,
+97,47,Manchester United,5.1,50.1,FirstPeriodOfExtraTime,Pass,Successful,1,7.9,67.8
+97,50,Manchester United,7.9,67.8,FirstPeriodOfExtraTime,Pass,Successful,2,3.9,51.6
+97,56,Manchester United,9,47.3,FirstPeriodOfExtraTime,Pass,Unsuccessful,1,35.9,88.1
+97,59,Villarreal,65.2,5.5,FirstPeriodOfExtraTime,BallRecovery,Successful,19,,
+98,2,Villarreal,69.2,7.6,FirstPeriodOfExtraTime,TakeOn,Successful,19,,
+98,2,Manchester United,30.8,92.4,FirstPeriodOfExtraTime,Challenge,Unsuccessful,18,,
+98,3,Villarreal,72.9,7,FirstPeriodOfExtraTime,Pass,Successful,19,75.6,15.5
+98,5,Villarreal,74,11.4,FirstPeriodOfExtraTime,Pass,Successful,7,64,11.4
+98,7,Villarreal,63.4,11.7,FirstPeriodOfExtraTime,Pass,Successful,25,67.3,38.3
+98,13,Villarreal,64.9,36.7,FirstPeriodOfExtraTime,Pass,Successful,5,70.6,56.9
+98,16,Villarreal,80,62.1,FirstPeriodOfExtraTime,Pass,Successful,23,87.2,74.5
+98,18,Villarreal,92.2,73.2,FirstPeriodOfExtraTime,MissedShots,Successful,18,,
+98,49,Manchester United,5.2,48.7,FirstPeriodOfExtraTime,Pass,Successful,1,5.7,64.6
+98,52,Manchester United,3.9,56.1,FirstPeriodOfExtraTime,Pass,Successful,2,3.8,23.7
+98,57,Manchester United,2.9,16.8,FirstPeriodOfExtraTime,Pass,Successful,3,7.3,2.3
+99,3,Manchester United,4.2,6.7,FirstPeriodOfExtraTime,Pass,Unsuccessful,29,5.7,6.5
+99,3,Villarreal,93.6,95.1,FirstPeriodOfExtraTime,BlockedPass,Successful,23,,
+99,23,Manchester United,7.4,0,FirstPeriodOfExtraTime,Pass,Successful,29,25.5,4.6
+99,24,Manchester United,25,3.4,FirstPeriodOfExtraTime,Dispossessed,Successful,6,,
+99,25,Villarreal,75,96.6,FirstPeriodOfExtraTime,Tackle,Successful,19,,
+99,26,Villarreal,76,93.3,FirstPeriodOfExtraTime,BallRecovery,Successful,19,,
+99,26,Villarreal,76.7,91.8,FirstPeriodOfExtraTime,Pass,Successful,19,79.6,70.9
+99,28,Villarreal,79.6,70.9,FirstPeriodOfExtraTime,Pass,Successful,7,86.4,73.5
+99,29,Villarreal,85.9,71.4,FirstPeriodOfExtraTime,MissedShots,Successful,17,,
+99,47,Manchester United,0,0,FirstPeriodOfExtraTime,SubstitutionOff,Successful,11,,
+99,47,Manchester United,0,0,FirstPeriodOfExtraTime,SubstitutionOn,Successful,17,,
+99,54,Manchester United,0,0,FirstPeriodOfExtraTime,FormationChange,Successful,,,
+100,2,Manchester United,4.9,51.2,FirstPeriodOfExtraTime,Pass,Successful,1,7.9,70.9
+100,2,Manchester United,7.9,70.9,FirstPeriodOfExtraTime,Pass,Successful,2,21.1,96.2
+100,7,Manchester United,22,94.4,FirstPeriodOfExtraTime,Pass,Successful,23,9.2,74.4
+100,9,Manchester United,9,72,FirstPeriodOfExtraTime,Pass,Successful,2,3.1,59.7
+100,10,Manchester United,3.1,59.7,FirstPeriodOfExtraTime,Pass,Unsuccessful,1,36.1,72.7
+100,12,Villarreal,63.6,26.8,FirstPeriodOfExtraTime,Aerial,Successful,25,,
+100,12,Manchester United,36.4,73.2,FirstPeriodOfExtraTime,Aerial,Unsuccessful,18,,
+100,12,Villarreal,62.5,25.2,FirstPeriodOfExtraTime,Pass,Successful,25,70.6,31.5
+100,14,Villarreal,71.6,31.5,FirstPeriodOfExtraTime,BallRecovery,Successful,5,,
+100,14,Villarreal,72.1,32.2,FirstPeriodOfExtraTime,Pass,Successful,5,70.9,57.3
+100,18,Villarreal,73.7,73.8,FirstPeriodOfExtraTime,Pass,Successful,23,76.1,89.3
+100,22,Villarreal,73.2,91.8,FirstPeriodOfExtraTime,Pass,Successful,18,53.9,89.4
+100,28,Villarreal,55.8,83.3,FirstPeriodOfExtraTime,Pass,Successful,4,82.1,75.7
+100,33,Villarreal,84.6,88.4,FirstPeriodOfExtraTime,Foul,Successful,19,,
+100,33,Manchester United,15.4,11.6,FirstPeriodOfExtraTime,Foul,Unsuccessful,3,,
+101,28,Villarreal,80.1,89.6,FirstPeriodOfExtraTime,Pass,Unsuccessful,5,97.4,42.1
+101,29,Manchester United,2.4,57.3,FirstPeriodOfExtraTime,Clearance,Successful,1,0,64.2
+101,32,Villarreal,97.6,41.4,FirstPeriodOfExtraTime,CornerAwarded,Successful,5,,
+101,32,Manchester United,2.4,58.6,FirstPeriodOfExtraTime,CornerAwarded,Unsuccessful,1,,
+102,11,Villarreal,99.5,0.5,FirstPeriodOfExtraTime,Pass,Unsuccessful,5,92.1,46.4
+102,12,Manchester United,8.4,51.3,FirstPeriodOfExtraTime,Aerial,Successful,23,,
+102,12,Villarreal,91.6,48.7,FirstPeriodOfExtraTime,Aerial,Unsuccessful,3,,
+102,12,Manchester United,9.3,53.4,FirstPeriodOfExtraTime,Clearance,Successful,23,20.8,57.6
+102,15,Manchester United,19.4,65.8,FirstPeriodOfExtraTime,Clearance,Successful,17,21.2,67
+102,15,Villarreal,75.6,38.2,FirstPeriodOfExtraTime,BallTouch,Successful,23,,
+102,16,Manchester United,25.5,60.9,FirstPeriodOfExtraTime,BallRecovery,Successful,23,,
+102,16,Manchester United,25.5,60.9,FirstPeriodOfExtraTime,Pass,Successful,23,38.1,73
+102,18,Manchester United,38.1,73,FirstPeriodOfExtraTime,Pass,Unsuccessful,18,63,34.8
+102,21,Villarreal,39.9,67.5,FirstPeriodOfExtraTime,Pass,Successful,25,46.2,85.6
+102,23,Villarreal,46.2,85.6,FirstPeriodOfExtraTime,BallTouch,Unsuccessful,4,,
+102,25,Manchester United,56.3,16.1,FirstPeriodOfExtraTime,Pass,Successful,29,57.1,25.6
+102,27,Manchester United,57.4,25.4,FirstPeriodOfExtraTime,Dispossessed,Successful,7,,
+102,28,Villarreal,42.6,74.6,FirstPeriodOfExtraTime,Tackle,Successful,4,,
+102,29,Villarreal,46.8,72,FirstPeriodOfExtraTime,BallRecovery,Successful,23,,
+102,29,Villarreal,46.8,72,FirstPeriodOfExtraTime,Pass,Successful,23,49.4,63.9
+102,31,Villarreal,53,66.2,FirstPeriodOfExtraTime,Dispossessed,Successful,7,,
+102,31,Manchester United,47,33.8,FirstPeriodOfExtraTime,Tackle,Successful,7,,
+102,35,Manchester United,23.1,42.5,FirstPeriodOfExtraTime,BallRecovery,Successful,1,,
+102,35,Manchester United,23.1,42.5,FirstPeriodOfExtraTime,Pass,Successful,1,40.4,86.3
+102,43,Manchester United,61.1,93.5,FirstPeriodOfExtraTime,Pass,Successful,23,51.6,87.1
+102,47,Manchester United,48.4,84.5,FirstPeriodOfExtraTime,Pass,Successful,18,40.5,59.6
+102,50,Manchester United,44.3,51.8,FirstPeriodOfExtraTime,Pass,Successful,17,51.1,7.3
+102,53,Manchester United,51.1,7.3,FirstPeriodOfExtraTime,Pass,Successful,29,72.1,18.3
+102,54,Manchester United,72.9,18.6,FirstPeriodOfExtraTime,BallTouch,Unsuccessful,39,,
+102,59,Villarreal,3.5,86.2,FirstPeriodOfExtraTime,BallRecovery,Successful,25,,
+103,2,Villarreal,10,88.4,FirstPeriodOfExtraTime,Foul,Successful,25,,
+103,2,Manchester United,90,11.6,FirstPeriodOfExtraTime,Foul,Unsuccessful,39,,
+103,38,Villarreal,14.9,85.4,FirstPeriodOfExtraTime,Pass,Successful,13,78.7,74.5
+103,43,Villarreal,78.7,74.5,FirstPeriodOfExtraTime,Pass,Successful,17,81.1,77
+103,44,Villarreal,81,75.2,FirstPeriodOfExtraTime,TakeOn,Unsuccessful,7,,
+103,45,Manchester United,19,24.8,FirstPeriodOfExtraTime,Tackle,Unsuccessful,29,,
+103,46,Villarreal,90.2,81,FirstPeriodOfExtraTime,Pass,Unsuccessful,7,91.5,76.9
+103,46,Manchester United,7.8,23.1,FirstPeriodOfExtraTime,BallTouch,Successful,29,,
+103,47,Manchester United,5.2,48.1,FirstPeriodOfExtraTime,KeeperPickup,Successful,1,,
+103,57,Manchester United,14.8,48.9,FirstPeriodOfExtraTime,Pass,Successful,1,15.8,64.7
+104,0,Manchester United,18.9,64.9,FirstPeriodOfExtraTime,Pass,Successful,2,15.2,35.7
+104,4,Manchester United,19,40.1,FirstPeriodOfExtraTime,Pass,Successful,3,25.2,72.6
+104,10,Manchester United,29.8,73.2,FirstPeriodOfExtraTime,Pass,Successful,2,25.7,44.9
+104,13,Manchester United,25.6,44.9,FirstPeriodOfExtraTime,Pass,Successful,3,31.4,15
+104,20,Manchester United,37.6,16.1,FirstPeriodOfExtraTime,Pass,Successful,39,38.8,56.7
+104,23,Manchester United,38.8,56.7,FirstPeriodOfExtraTime,Pass,Successful,3,44.5,74.8
+104,27,Manchester United,56.2,78.7,FirstPeriodOfExtraTime,Pass,Successful,2,63.9,97.5
+104,31,Manchester United,66,83.8,FirstPeriodOfExtraTime,Pass,Successful,23,53,77.9
+104,34,Manchester United,46.3,70,FirstPeriodOfExtraTime,Pass,Successful,2,51.5,54.9
+104,39,Manchester United,53.2,44.5,FirstPeriodOfExtraTime,Pass,Successful,17,40.1,41.3
+104,40,Manchester United,40.1,41.3,FirstPeriodOfExtraTime,Pass,Successful,3,55.7,18.5
+104,45,Manchester United,70.4,16.5,FirstPeriodOfExtraTime,Pass,Successful,39,73.4,20
+104,46,Manchester United,73.4,20,FirstPeriodOfExtraTime,Pass,Successful,10,73.9,8
+104,47,Manchester United,73.9,8,FirstPeriodOfExtraTime,Pass,Successful,39,76.7,2.3
+104,48,Manchester United,76.7,2.3,FirstPeriodOfExtraTime,Pass,Successful,29,70.1,4.7
+104,51,Manchester United,68.7,7,FirstPeriodOfExtraTime,Pass,Successful,10,47,35.8
+104,53,Manchester United,47,35.8,FirstPeriodOfExtraTime,Pass,Successful,3,54.6,65.2
+104,58,Manchester United,65.8,73.6,FirstPeriodOfExtraTime,Pass,Successful,2,74.3,96
+105,,Manchester United,94,26.7,FirstPeriodOfExtraTime,OffsideGiven,Unsuccessful,10,,
+105,2,Manchester United,75.5,90.6,FirstPeriodOfExtraTime,Pass,Successful,23,74.6,70.6
+105,4,Manchester United,72.6,65.8,FirstPeriodOfExtraTime,OffsidePass,Successful,6,94,26.7
+105,4,Villarreal,14.5,54.4,FirstPeriodOfExtraTime,OffsideProvoked,Successful,4,,
+105,43,Villarreal,19.5,64.8,FirstPeriodOfExtraTime,Pass,Unsuccessful,13,67.1,98.1
+105,46,Villarreal,65.6,97.2,FirstPeriodOfExtraTime,Aerial,Successful,7,,
+105,46,Manchester United,34.4,2.8,FirstPeriodOfExtraTime,Aerial,Unsuccessful,39,,
+105,46,Villarreal,65.9,97.5,FirstPeriodOfExtraTime,BallTouch,Successful,7,,
+105,55,Manchester United,35.9,0,FirstPeriodOfExtraTime,Pass,Successful,29,24.4,21.6
+106,0,Manchester United,26.3,31.8,FirstPeriodOfExtraTime,Pass,Successful,3,31.6,62.6
+106,2,Villarreal,0,0,FirstPeriodOfExtraTime,End,Successful,,,
+106,2,Manchester United,0,0,FirstPeriodOfExtraTime,End,Successful,,,
+105,0,Villarreal,0,0,SecondPeriodOfExtraTime,Start,Successful,,,
+105,0,Manchester United,0,0,SecondPeriodOfExtraTime,Start,Successful,,,
+105,0,Villarreal,49.7,50.1,SecondPeriodOfExtraTime,Pass,Successful,17,48.1,50
+105,1,Villarreal,48.1,50,SecondPeriodOfExtraTime,Pass,Successful,7,39.2,60.5
+105,3,Villarreal,39.2,60.5,SecondPeriodOfExtraTime,Pass,Successful,5,30.4,75.9
+105,6,Villarreal,30,75.1,SecondPeriodOfExtraTime,Pass,Successful,4,17.8,46.4
+105,9,Villarreal,17.8,46.4,SecondPeriodOfExtraTime,Pass,Successful,13,21.6,8.2
+105,12,Villarreal,21.6,8.2,SecondPeriodOfExtraTime,Pass,Successful,3,56.6,10.6
+105,16,Villarreal,56.6,10.6,SecondPeriodOfExtraTime,BallTouch,Successful,7,,
+105,16,Manchester United,36.7,76.6,SecondPeriodOfExtraTime,BallTouch,Successful,2,,
+105,18,Villarreal,62.1,26.2,SecondPeriodOfExtraTime,Foul,Successful,7,,
+105,18,Manchester United,37.9,73.8,SecondPeriodOfExtraTime,Foul,Unsuccessful,2,,
+105,53,Villarreal,68.7,26.7,SecondPeriodOfExtraTime,Pass,Unsuccessful,5,85.1,61.8
+105,55,Manchester United,14.2,39.2,SecondPeriodOfExtraTime,Foul,Successful,2,,
+105,55,Villarreal,85.8,60.8,SecondPeriodOfExtraTime,Foul,Unsuccessful,3,,
+106,8,Manchester United,13.6,40.1,SecondPeriodOfExtraTime,Pass,Successful,1,23.8,75.6
+106,11,Manchester United,23.8,75.6,SecondPeriodOfExtraTime,Pass,Successful,17,33.6,93.9
+106,14,Manchester United,34.8,94.8,SecondPeriodOfExtraTime,Pass,Successful,23,27.2,84.1
+106,16,Manchester United,27.2,84.1,SecondPeriodOfExtraTime,Pass,Successful,17,24.3,56.7
+106,19,Manchester United,24.5,54.8,SecondPeriodOfExtraTime,Pass,Successful,2,28.6,24.3
+106,22,Manchester United,30.6,24.9,SecondPeriodOfExtraTime,Pass,Successful,3,29.4,39.7
+106,28,Manchester United,31.8,47.5,SecondPeriodOfExtraTime,Pass,Unsuccessful,2,74.1,49.3
+106,31,Villarreal,0,0,SecondPeriodOfExtraTime,KeeperSweeper,Successful,13,,
+106,31,Villarreal,22.4,45.6,SecondPeriodOfExtraTime,Pass,Unsuccessful,13,55.6,92.7
+106,35,Manchester United,36.6,18,SecondPeriodOfExtraTime,Pass,Unsuccessful,3,66.8,0
+106,41,Villarreal,26,100,SecondPeriodOfExtraTime,Pass,Successful,18,19.2,91.2
+106,48,Villarreal,14.1,96.5,SecondPeriodOfExtraTime,Pass,Successful,4,21.5,98.4
+106,51,Villarreal,31.7,97.4,SecondPeriodOfExtraTime,TakeOn,Successful,18,,
+106,51,Manchester United,68.3,2.6,SecondPeriodOfExtraTime,Challenge,Unsuccessful,18,,
+106,53,Villarreal,38.3,95.6,SecondPeriodOfExtraTime,Pass,Unsuccessful,18,78.1,73.6
+106,56,Manchester United,0,0,SecondPeriodOfExtraTime,KeeperSweeper,Successful,1,,
+106,56,Manchester United,22.6,25,SecondPeriodOfExtraTime,BallRecovery,Successful,1,,
+106,56,Manchester United,23.7,23.9,SecondPeriodOfExtraTime,Pass,Unsuccessful,1,41.3,0
+107,5,Villarreal,48.4,100,SecondPeriodOfExtraTime,Pass,Successful,18,29.7,91.4
+107,9,Villarreal,29.4,85.3,SecondPeriodOfExtraTime,Pass,Successful,4,32.9,31.8
+107,12,Villarreal,35.4,29.1,SecondPeriodOfExtraTime,Pass,Successful,3,53.7,2.9
+107,15,Villarreal,54.4,2.5,SecondPeriodOfExtraTime,Pass,Successful,2,51.9,11.6
+107,16,Villarreal,51.9,11.6,SecondPeriodOfExtraTime,Pass,Unsuccessful,25,61.7,14.1
+107,17,Manchester United,29.2,80.2,SecondPeriodOfExtraTime,Interception,Successful,17,,
+107,18,Villarreal,59.5,5.9,SecondPeriodOfExtraTime,Pass,Unsuccessful,25,59.4,19.8
+107,19,Manchester United,38.3,74.6,SecondPeriodOfExtraTime,Pass,Unsuccessful,17,39.2,73
+107,19,Villarreal,57.6,19.2,SecondPeriodOfExtraTime,BlockedPass,Successful,19,,
+107,20,Villarreal,63.1,23.3,SecondPeriodOfExtraTime,Foul,Successful,19,,
+107,20,Manchester United,36.9,76.7,SecondPeriodOfExtraTime,Foul,Unsuccessful,17,,
+107,56,Villarreal,67.1,25.5,SecondPeriodOfExtraTime,Pass,Unsuccessful,5,93.4,57
+107,59,Manchester United,7.1,47.2,SecondPeriodOfExtraTime,KeeperPickup,Successful,1,,
+108,5,Manchester United,13.6,53.6,SecondPeriodOfExtraTime,Pass,Successful,1,24.9,83.8
+108,12,Manchester United,31.5,90.2,SecondPeriodOfExtraTime,Pass,Successful,23,34.9,81.7
+108,13,Manchester United,34.9,81.7,SecondPeriodOfExtraTime,Pass,Successful,6,27.8,81.4
+108,15,Manchester United,28,75,SecondPeriodOfExtraTime,Pass,Successful,17,23.7,32.4
+108,18,Manchester United,24.5,29.1,SecondPeriodOfExtraTime,Pass,Successful,3,39.4,5.5
+108,21,Manchester United,39.4,5.6,SecondPeriodOfExtraTime,Pass,Successful,29,20.8,26.7
+108,26,Manchester United,23,27.7,SecondPeriodOfExtraTime,Pass,Successful,3,33.2,18
+108,30,Manchester United,39.1,16.8,SecondPeriodOfExtraTime,Pass,Unsuccessful,39,89.9,51.3
+108,35,Villarreal,10,49.4,SecondPeriodOfExtraTime,KeeperPickup,Successful,13,,
+108,50,Villarreal,9.9,47.3,SecondPeriodOfExtraTime,Pass,Successful,13,36.7,75.9
+109,1,Villarreal,36.6,75.9,SecondPeriodOfExtraTime,BallTouch,Successful,4,,
+110,12,Manchester United,43.9,0,SecondPeriodOfExtraTime,Pass,Successful,29,52.7,7.9
+110,13,Manchester United,53.7,6.4,SecondPeriodOfExtraTime,BallTouch,Successful,39,,
+110,18,Villarreal,2.9,76.3,SecondPeriodOfExtraTime,BallRecovery,Successful,13,,
+110,26,Villarreal,12.1,62.4,SecondPeriodOfExtraTime,Pass,Successful,13,25,74.4
+110,32,Villarreal,37.8,70.8,SecondPeriodOfExtraTime,Pass,Unsuccessful,4,71.7,43.4
+110,34,Manchester United,27.2,56.6,SecondPeriodOfExtraTime,Pass,Unsuccessful,2,36,54.2
+110,36,Villarreal,61.1,42.2,SecondPeriodOfExtraTime,Pass,Unsuccessful,19,54,56.6
+110,37,Manchester United,44.5,45.8,SecondPeriodOfExtraTime,BallRecovery,Successful,39,,
+110,37,Manchester United,44.5,45.8,SecondPeriodOfExtraTime,Pass,Successful,39,54.4,41.5
+110,43,Manchester United,69.2,46,SecondPeriodOfExtraTime,Pass,Successful,6,74.5,69.1
+110,46,Manchester United,70.5,71.8,SecondPeriodOfExtraTime,Pass,Successful,7,69,90.8
+110,50,Manchester United,70.1,95.6,SecondPeriodOfExtraTime,Pass,Successful,23,59.4,79.6
+110,52,Manchester United,60.6,80.6,SecondPeriodOfExtraTime,Pass,Successful,17,53.8,47.5
+110,56,Manchester United,54.2,56.3,SecondPeriodOfExtraTime,Pass,Unsuccessful,3,63.1,76.7
+110,57,Villarreal,40.7,13.5,SecondPeriodOfExtraTime,BallRecovery,Successful,19,,
+110,59,Villarreal,42,13.1,SecondPeriodOfExtraTime,Pass,Successful,19,46.1,4.6
+111,0,Villarreal,46.1,4.6,SecondPeriodOfExtraTime,Pass,Successful,2,54.1,2.6
+111,3,Villarreal,54.7,4.9,SecondPeriodOfExtraTime,Pass,Successful,7,73.2,68.7
+111,6,Villarreal,73.2,68.7,SecondPeriodOfExtraTime,Pass,Successful,17,76.2,77.5
+111,9,Villarreal,76.2,77.5,SecondPeriodOfExtraTime,Pass,Successful,18,80.8,64
+111,10,Villarreal,85,64.3,SecondPeriodOfExtraTime,BallTouch,Unsuccessful,17,,
+111,11,Manchester United,11.9,34.3,SecondPeriodOfExtraTime,BallRecovery,Successful,39,,
+111,12,Manchester United,11.9,34.3,SecondPeriodOfExtraTime,Pass,Successful,39,13.8,20.9
+111,14,Manchester United,13.8,20.9,SecondPeriodOfExtraTime,Pass,Successful,18,2.1,17.3
+111,17,Manchester United,2.1,17.3,SecondPeriodOfExtraTime,Pass,Unsuccessful,29,37.8,45.7
+111,21,Villarreal,59.1,59.9,SecondPeriodOfExtraTime,Pass,Successful,25,65.2,54.9
+111,22,Villarreal,65.4,55.1,SecondPeriodOfExtraTime,BallRecovery,Successful,2,,
+111,22,Villarreal,65.4,55.1,SecondPeriodOfExtraTime,Pass,Successful,2,56.2,89.1
+111,28,Villarreal,51.8,75.6,SecondPeriodOfExtraTime,Pass,Successful,5,47,64.9
+111,31,Villarreal,46.7,58.5,SecondPeriodOfExtraTime,Pass,Successful,25,44.6,33.4
+111,34,Villarreal,44.6,33.4,SecondPeriodOfExtraTime,Pass,Successful,3,42.8,72
+111,36,Villarreal,43.3,72.1,SecondPeriodOfExtraTime,Pass,Successful,4,47.5,77.2
+111,42,Villarreal,53.6,64.5,SecondPeriodOfExtraTime,Pass,Successful,5,52.9,31.9
+111,45,Villarreal,59.3,22.1,SecondPeriodOfExtraTime,Pass,Successful,3,72.4,2.9
+111,48,Villarreal,72.1,2.6,SecondPeriodOfExtraTime,Pass,Successful,7,59.6,6.5
+111,49,Villarreal,56.7,6.4,SecondPeriodOfExtraTime,Pass,Successful,2,44.4,23
+111,52,Villarreal,44.4,23,SecondPeriodOfExtraTime,Pass,Successful,3,19.4,39.2
+111,55,Villarreal,19.4,39.2,SecondPeriodOfExtraTime,Pass,Successful,13,29.2,86.9
+111,59,Villarreal,29.2,86.9,SecondPeriodOfExtraTime,Pass,Successful,4,34.8,97.8
+112,1,Villarreal,34.8,97.8,SecondPeriodOfExtraTime,Pass,Successful,18,66.1,92.7
+112,8,Villarreal,76.4,88.9,SecondPeriodOfExtraTime,BallTouch,Successful,23,,
+112,11,Villarreal,85.3,85.9,SecondPeriodOfExtraTime,Pass,Successful,18,79.1,59.6
+112,14,Villarreal,78.6,49,SecondPeriodOfExtraTime,Pass,Unsuccessful,19,79.2,45.7
+112,14,Manchester United,21.9,53,SecondPeriodOfExtraTime,BlockedPass,Successful,10,,
+112,15,Manchester United,18,37,SecondPeriodOfExtraTime,BallRecovery,Successful,39,,
+112,16,Manchester United,21.6,38,SecondPeriodOfExtraTime,Pass,Successful,39,22.5,56.7
+112,17,Manchester United,22.5,56.7,SecondPeriodOfExtraTime,Pass,Successful,17,10.9,51.8
+112,20,Manchester United,10.9,51.8,SecondPeriodOfExtraTime,Pass,Unsuccessful,2,17,35.5
+112,20,Villarreal,85.1,68.1,SecondPeriodOfExtraTime,BallRecovery,Successful,17,,
+112,24,Villarreal,91,70.8,SecondPeriodOfExtraTime,Pass,Successful,17,87.2,40.1
+112,26,Villarreal,87.2,40.1,SecondPeriodOfExtraTime,Pass,Successful,19,89.2,43.6
+112,27,Villarreal,89.2,43.6,SecondPeriodOfExtraTime,SavedShot,Successful,7,,
+112,27,Manchester United,10.8,55.9,SecondPeriodOfExtraTime,Save,Successful,17,,
+112,30,Villarreal,85.7,23.4,SecondPeriodOfExtraTime,Pass,Successful,19,78.1,32.4
+112,32,Villarreal,78.1,32.8,SecondPeriodOfExtraTime,Pass,Successful,25,92.4,29.5
+112,34,Villarreal,92.4,29.5,SecondPeriodOfExtraTime,Pass,Unsuccessful,2,89.4,24.4
+112,36,Manchester United,8.8,76,SecondPeriodOfExtraTime,BallRecovery,Successful,23,,
+112,49,Manchester United,0,0,SecondPeriodOfExtraTime,Card,Successful,7,,
+115,4,Manchester United,0,0,SecondPeriodOfExtraTime,SubstitutionOff,Successful,6,,
+115,4,Manchester United,0,0,SecondPeriodOfExtraTime,SubstitutionOn,Successful,21,,
+115,25,Manchester United,0,0,SecondPeriodOfExtraTime,SubstitutionOff,Successful,3,,
+115,25,Manchester United,0,0,SecondPeriodOfExtraTime,SubstitutionOn,Successful,38,,
+115,56,Manchester United,12.5,61.4,SecondPeriodOfExtraTime,Pass,Unsuccessful,1,68.1,83.8
+115,59,Villarreal,32.8,13.8,SecondPeriodOfExtraTime,Aerial,Successful,2,,
+115,59,Manchester United,67.2,86.2,SecondPeriodOfExtraTime,Aerial,Unsuccessful,10,,
+116,0,Villarreal,34.6,7.3,SecondPeriodOfExtraTime,Pass,Unsuccessful,2,40.6,24.8
+116,2,Manchester United,61.3,72.6,SecondPeriodOfExtraTime,Pass,Successful,18,64.8,96.2
+116,5,Manchester United,64.8,96.2,SecondPeriodOfExtraTime,Pass,Unsuccessful,23,68.6,95.7
+116,5,Villarreal,28.3,2.2,SecondPeriodOfExtraTime,BlockedPass,Successful,2,,
+116,11,Manchester United,58.9,100,SecondPeriodOfExtraTime,Pass,Successful,17,43.3,89.9
+116,12,Manchester United,43.3,89.9,SecondPeriodOfExtraTime,Pass,Successful,2,55.3,97.2
+116,15,Manchester United,55.3,97.2,SecondPeriodOfExtraTime,Pass,Unsuccessful,17,62.4,100
+116,37,Villarreal,41.7,0,SecondPeriodOfExtraTime,Pass,Successful,2,53.7,3.5
+116,38,Villarreal,53.7,3.5,SecondPeriodOfExtraTime,Pass,Unsuccessful,7,64.6,15.3
+116,41,Manchester United,30.8,80.6,SecondPeriodOfExtraTime,BallRecovery,Successful,2,,
+116,41,Manchester United,30.8,80.6,SecondPeriodOfExtraTime,Pass,Successful,2,25.1,71.1
+116,42,Manchester United,25.1,71.1,SecondPeriodOfExtraTime,Pass,Successful,38,28.1,82.4
+116,44,Manchester United,28.1,82.4,SecondPeriodOfExtraTime,Pass,Successful,2,33.2,94.7
+116,46,Manchester United,33.9,96.3,SecondPeriodOfExtraTime,Pass,Unsuccessful,23,89.1,76
+116,50,Villarreal,8.1,23.6,SecondPeriodOfExtraTime,KeeperPickup,Successful,13,,
+117,19,Villarreal,19.1,30.6,SecondPeriodOfExtraTime,Pass,Unsuccessful,13,73,22.8
+117,23,Manchester United,27.1,75.8,SecondPeriodOfExtraTime,Aerial,Successful,2,,
+117,23,Villarreal,72.9,24.2,SecondPeriodOfExtraTime,Aerial,Unsuccessful,7,,
+117,23,Manchester United,27.2,74.5,SecondPeriodOfExtraTime,Pass,Unsuccessful,2,38.5,76.9
+117,24,Villarreal,59.8,22.3,SecondPeriodOfExtraTime,Pass,Unsuccessful,2,62.4,25.2
+117,25,Manchester United,33.9,76.1,SecondPeriodOfExtraTime,Pass,Unsuccessful,10,44.8,74.1
+117,26,Villarreal,55.9,28.9,SecondPeriodOfExtraTime,Pass,Successful,25,65.7,44
+117,27,Villarreal,65.7,44,SecondPeriodOfExtraTime,Pass,Unsuccessful,23,75.6,34.3
+117,30,Manchester United,24.9,63.3,SecondPeriodOfExtraTime,Interception,Successful,2,,
+117,31,Villarreal,67.8,27.3,SecondPeriodOfExtraTime,Pass,Successful,2,72.2,9.4
+117,36,Villarreal,75,2.8,SecondPeriodOfExtraTime,TakeOn,Unsuccessful,19,,
+117,36,Manchester United,25,97.2,SecondPeriodOfExtraTime,Tackle,Successful,23,,
+117,37,Manchester United,26,96.3,SecondPeriodOfExtraTime,BallRecovery,Successful,23,,
+117,37,Manchester United,24.8,96.4,SecondPeriodOfExtraTime,BallTouch,Unsuccessful,23,,
+117,38,Villarreal,75.2,3.6,SecondPeriodOfExtraTime,BallTouch,Successful,19,,
+117,38,Manchester United,30.8,96.8,SecondPeriodOfExtraTime,BallTouch,Successful,23,,
+117,40,Manchester United,24.6,95.7,SecondPeriodOfExtraTime,Pass,Successful,17,29.3,80.2
+117,42,Manchester United,29.3,80.2,SecondPeriodOfExtraTime,Pass,Unsuccessful,18,60.9,86.5
+117,45,Villarreal,37.5,8.5,SecondPeriodOfExtraTime,BallRecovery,Successful,4,,
+117,45,Villarreal,35.3,8.5,SecondPeriodOfExtraTime,Pass,Successful,4,13.4,24.7
+119,9,Villarreal,14.6,28.6,SecondPeriodOfExtraTime,KeeperPickup,Successful,13,,
+119,19,Villarreal,19.1,33.9,SecondPeriodOfExtraTime,Pass,Successful,13,71.2,42.7
+119,22,Villarreal,72.2,43.1,SecondPeriodOfExtraTime,BallTouch,Unsuccessful,17,,
+119,23,Manchester United,26.3,58.4,SecondPeriodOfExtraTime,BallRecovery,Successful,2,,
+119,24,Manchester United,26.3,58.4,SecondPeriodOfExtraTime,Pass,Successful,2,39.6,34.9
+119,27,Manchester United,41.3,37.2,SecondPeriodOfExtraTime,Aerial,Successful,21,,
+119,27,Villarreal,58.7,62.8,SecondPeriodOfExtraTime,Aerial,Unsuccessful,18,,
+119,27,Manchester United,39.6,34.9,SecondPeriodOfExtraTime,Pass,Unsuccessful,21,54.9,41.3
+119,29,Villarreal,46.3,59,SecondPeriodOfExtraTime,BallRecovery,Successful,4,,
+119,29,Villarreal,46.3,59,SecondPeriodOfExtraTime,Pass,Successful,4,18.2,45.4
+119,33,Villarreal,22.1,40,SecondPeriodOfExtraTime,Pass,Unsuccessful,13,53.2,3.1
+119,36,Manchester United,42.6,95.4,SecondPeriodOfExtraTime,Pass,Successful,23,46.6,75.3
+119,38,Manchester United,46.6,75.3,SecondPeriodOfExtraTime,BallRecovery,Successful,10,,
+119,38,Manchester United,46.6,75.3,SecondPeriodOfExtraTime,Pass,Successful,10,45.8,50.9
+119,42,Manchester United,43.3,44.3,SecondPeriodOfExtraTime,Pass,Unsuccessful,39,61,0
+119,51,Villarreal,38.6,100,SecondPeriodOfExtraTime,Pass,Successful,18,39.3,88.3
+119,53,Villarreal,39.3,88.3,SecondPeriodOfExtraTime,Pass,Successful,5,39.9,97.1
+120,0,Villarreal,58.8,97.7,SecondPeriodOfExtraTime,Pass,Unsuccessful,18,62,97.1
+120,1,Manchester United,32.6,4.4,SecondPeriodOfExtraTime,BallTouch,Successful,29,,
+120,3,Villarreal,74.8,93.2,SecondPeriodOfExtraTime,Pass,Unsuccessful,23,75,85.4
+120,3,Manchester United,23.1,18.6,SecondPeriodOfExtraTime,Interception,Successful,17,,
+120,33,Villarreal,85.7,100,SecondPeriodOfExtraTime,Pass,Successful,18,65.4,92.6
+120,36,Villarreal,65.4,92.6,SecondPeriodOfExtraTime,Pass,Successful,5,57.4,76.6
+120,38,Villarreal,54.9,72,SecondPeriodOfExtraTime,Pass,Successful,4,47,35.1
+120,42,Villarreal,46.2,30.6,SecondPeriodOfExtraTime,Pass,Successful,3,51.5,7.1
+120,45,Villarreal,51.8,6.7,SecondPeriodOfExtraTime,Pass,Successful,2,27.2,36.4
+120,47,Villarreal,27.2,36.4,SecondPeriodOfExtraTime,Pass,Successful,3,15,41.6
+120,50,Villarreal,17.7,36.6,SecondPeriodOfExtraTime,Pass,Successful,13,67.5,11
+120,54,Villarreal,68.5,14.5,SecondPeriodOfExtraTime,Aerial,Successful,19,,
+120,54,Manchester United,31.5,85.5,SecondPeriodOfExtraTime,Aerial,Unsuccessful,23,,
+120,54,Villarreal,67.5,11,SecondPeriodOfExtraTime,Pass,Successful,19,64.4,6.8
+120,56,Villarreal,64.4,6.8,SecondPeriodOfExtraTime,Pass,Successful,2,69.9,24
+120,57,Villarreal,69.9,24,SecondPeriodOfExtraTime,BallTouch,Unsuccessful,7,,
+120,58,Manchester United,30.6,75.9,SecondPeriodOfExtraTime,BallRecovery,Successful,2,,
+120,58,Manchester United,30.6,75.9,SecondPeriodOfExtraTime,Pass,Unsuccessful,2,67.9,50.9
+121,5,Villarreal,31.9,47.5,SecondPeriodOfExtraTime,BallRecovery,Successful,4,,
+121,6,Villarreal,31.9,47.5,SecondPeriodOfExtraTime,Pass,Successful,4,31.1,17.7
+121,10,Villarreal,40.8,8.8,SecondPeriodOfExtraTime,Pass,Successful,3,77.3,8.5
+121,13,Villarreal,75.9,12,SecondPeriodOfExtraTime,Aerial,Successful,7,,
+121,13,Manchester United,24.1,88,SecondPeriodOfExtraTime,Aerial,Unsuccessful,2,,
+121,13,Villarreal,77.3,8.6,SecondPeriodOfExtraTime,Pass,Unsuccessful,7,81.1,25.3
+121,15,Manchester United,19.7,73,SecondPeriodOfExtraTime,Clearance,Successful,38,16.3,100
+121,39,Villarreal,85.4,0,SecondPeriodOfExtraTime,Pass,Successful,2,97.4,9.8
+121,43,Villarreal,98.6,0.8,SecondPeriodOfExtraTime,Pass,Unsuccessful,7,98.2,3.1
+121,43,Manchester United,1.4,97.4,SecondPeriodOfExtraTime,BlockedPass,Successful,17,,
+121,44,Villarreal,97.8,1,SecondPeriodOfExtraTime,BallTouch,Successful,7,,
+122,21,Manchester United,0,0,SecondPeriodOfExtraTime,SubstitutionOff,Successful,39,,
+122,21,Manchester United,0,0,SecondPeriodOfExtraTime,SubstitutionOn,Successful,27,,
+122,38,Manchester United,0,0,SecondPeriodOfExtraTime,SubstitutionOff,Successful,29,,
+122,38,Manchester United,0,0,SecondPeriodOfExtraTime,SubstitutionOn,Successful,8,,
+122,39,Manchester United,0,0,SecondPeriodOfExtraTime,FormationChange,Successful,,,
+122,45,Villarreal,0,0,SecondPeriodOfExtraTime,SubstitutionOff,Successful,25,,
+122,45,Villarreal,0,0,SecondPeriodOfExtraTime,SubstitutionOn,Successful,12,,
+123,18,Manchester United,9.5,100,SecondPeriodOfExtraTime,Pass,Successful,23,26.6,97.4
+123,19,Manchester United,24.7,97.4,SecondPeriodOfExtraTime,Aerial,Successful,7,,
+123,19,Villarreal,75.3,2.6,SecondPeriodOfExtraTime,Aerial,Unsuccessful,19,,
+123,19,Manchester United,26.5,97.2,SecondPeriodOfExtraTime,Pass,Successful,7,30.8,88
+123,21,Manchester United,30.8,88,SecondPeriodOfExtraTime,Pass,Successful,17,33.4,80.3
+123,21,Manchester United,33.4,80.3,SecondPeriodOfExtraTime,Pass,Unsuccessful,8,27.9,85.9
+123,23,Villarreal,75.5,12.9,SecondPeriodOfExtraTime,BallRecovery,Successful,2,,
+123,24,Villarreal,75.7,12.5,SecondPeriodOfExtraTime,Pass,Successful,2,81,7.3
+123,30,Villarreal,95.5,1.3,SecondPeriodOfExtraTime,Pass,Unsuccessful,7,95.4,3.5
+123,30,Manchester United,7.7,96.3,SecondPeriodOfExtraTime,Clearance,Successful,23,,
+123,30,Villarreal,95.4,3.5,SecondPeriodOfExtraTime,BallTouch,Successful,7,,
+123,57,Manchester United,13.6,100,SecondPeriodOfExtraTime,Pass,Unsuccessful,23,25.4,96
+124,1,Villarreal,0,0,SecondPeriodOfExtraTime,End,Successful,,,
+124,1,Manchester United,0,0,SecondPeriodOfExtraTime,End,Successful,,,
+120,0,Villarreal,0,0,PenaltyShootout,Start,Successful,,,
+120,0,Manchester United,0,0,PenaltyShootout,Start,Successful,,,
+120,0,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,7,,
+120,0,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+120,41,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+120,41,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,8,,
+121,22,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,12,,
+121,22,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+122,8,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+122,8,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,27,,
+122,49,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,17,,
+122,49,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+123,34,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+123,34,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,18,,
+124,9,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,18,,
+124,9,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+125,1,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+125,1,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,10,,
+125,46,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,5,,
+125,46,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+126,28,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+126,28,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,7,,
+127,6,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,23,,
+127,6,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+127,49,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+127,49,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,17,,
+128,30,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,3,,
+128,30,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+129,6,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+129,6,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,21,,
+129,49,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,19,,
+129,49,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+130,32,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+130,32,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,23,,
+131,22,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,2,,
+131,22,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+132,2,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+132,2,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,38,,
+132,51,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,4,,
+132,51,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+133,30,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+133,30,Manchester United,88.5,50,PenaltyShootout,Goal,Successful,2,,
+134,7,Villarreal,88.5,50,PenaltyShootout,Goal,Successful,13,,
+134,7,Manchester United,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,1,,
+134,44,Villarreal,0,0,PenaltyShootout,PenaltyFaced,Unsuccessful,13,,
+134,44,Manchester United,88.5,50,PenaltyShootout,SavedShot,Successful,1,,
+134,44,Villarreal,99.2,50.1,PenaltyShootout,Save,Successful,13,,
+134,46,Villarreal,0,0,PenaltyShootout,End,Successful,,,
+134,46,Manchester United,0,0,PenaltyShootout,End,Successful,,,
+0,0,Villarreal,0,0,PostGame,End,Successful,,,
+0,0,Manchester United,0,0,PostGame,End,Successful,,,
+0,0,Manchester United,0,0,PreMatch,FormationSet,Successful,,,
+0,0,Villarreal,0,0,PreMatch,FormationSet,Successful,,,
