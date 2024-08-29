@@ -1,0 +1,124 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+479846,20,MissedShots,0.9359999847412109,0.5029999923706054,0.48408499360084534,Erling Haaland,a,8260,OpenPlay,2022,Head,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Phil Foden,Cross
+479847,35,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,a,8260,Penalty,2022,LeftFoot,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,,Standard
+479854,64,Goal,0.8640000152587891,0.405,0.32805299758911133,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Kevin De Bruyne,Throughball
+479855,69,MissedShots,0.9530000305175781,0.5520000076293945,0.5266079902648926,Erling Haaland,a,8260,OpenPlay,2022,Head,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Jack Grealish,Chipped
+479856,75,BlockedShot,0.894000015258789,0.71,0.06644280254840851,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Ilkay Gündogan,Pass
+480318,44,SavedShot,0.9330000305175781,0.7069999694824218,0.08454620093107224,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18214,Manchester City,Bournemouth,4,0,2022-08-13 14:00:00,João Cancelo,Chipped
+480325,72,MissedShots,0.905,0.575,0.13663500547409058,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18214,Manchester City,Bournemouth,4,0,2022-08-13 14:00:00,Jack Grealish,Pass
+482576,51,SavedShot,0.8219999694824218,0.605999984741211,0.05562619864940643,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,Rúben Dias,TakeOn
+482581,59,Goal,0.9669999694824218,0.5670000076293945,0.5415260195732117,Erling Haaland,a,8260,FromCorner,2022,LeftFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,Rodri,Pass
+482582,61,SavedShot,0.865999984741211,0.44299999237060544,0.3397890031337738,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,Kevin De Bruyne,Throughball
+482586,77,MissedShots,0.955999984741211,0.5609999847412109,0.580489993095398,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,,None
+483627,12,MissedShots,0.919000015258789,0.43400001525878906,0.023860400542616844,Erling Haaland,h,8260,FromCorner,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Riyad Mahrez,Aerial
+483629,22,MissedShots,0.9719999694824218,0.72,0.08428049832582474,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Phil Foden,Throughball
+483631,31,MissedShots,0.9059999847412109,0.595999984741211,0.0427360013127327,Erling Haaland,h,8260,OpenPlay,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,,Aerial
+483637,61,Goal,0.95,0.5,0.46911099553108215,Erling Haaland,h,8260,OpenPlay,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Phil Foden,Chipped
+483640,69,Goal,0.9730000305175781,0.5629999923706055,0.5720340013504028,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,John Stones,Rebound
+483641,72,MissedShots,0.8719999694824219,0.5179999923706055,0.055922698229551315,Erling Haaland,h,8260,OpenPlay,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Phil Foden,Cross
+483643,80,Goal,0.875999984741211,0.5159999847412109,0.3726620078086853,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Ilkay Gündogan,Pass
+485197,11,Goal,0.950999984741211,0.5120000076293946,0.5539680123329163,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,Phil Foden,Cross
+485199,22,Goal,0.92,0.45799999237060546,0.492141991853714,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,,Dispossessed
+485200,29,MissedShots,0.9009999847412109,0.5629999923706055,0.07161930203437805,Erling Haaland,h,8260,SetPiece,2022,Head,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,Ilkay Gündogan,Cross
+485201,37,Goal,0.980999984741211,0.4759999847412109,0.6953009963035583,Erling Haaland,h,8260,FromCorner,2022,Head,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,John Stones,HeadPass
+486141,49,Goal,0.9790000152587891,0.5479999923706055,0.5999889969825745,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18258,Aston Villa,Manchester City,1,1,2022-09-03 16:30:00,Kevin De Bruyne,Cross
+486144,63,SavedShot,0.9,0.42200000762939455,0.13967199623584747,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18258,Aston Villa,Manchester City,1,1,2022-09-03 16:30:00,,TakeOn
+486146,67,SavedShot,0.86,0.505,0.11906100064516068,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18258,Aston Villa,Manchester City,1,1,2022-09-03 16:30:00,Kevin De Bruyne,Pass
+488551,15,Goal,0.8030000305175782,0.5320000076293945,0.061806198209524155,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18274,Wolverhampton Wanderers,Manchester City,0,3,2022-09-17 11:30:00,Bernardo Silva,Pass
+488563,66,SavedShot,0.8190000152587891,0.4979999923706055,0.08831699937582016,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18274,Wolverhampton Wanderers,Manchester City,0,3,2022-09-17 11:30:00,Jack Grealish,Pass
+490630,2,MissedShots,0.9590000152587891,0.4,0.03885030001401901,Erling Haaland,h,8260,OpenPlay,2022,Head,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Bernardo Silva,Chipped
+490643,33,Goal,0.9490000152587891,0.4859999847412109,0.07706859707832336,Erling Haaland,h,8260,FromCorner,2022,Head,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Kevin De Bruyne,Aerial
+490644,36,Goal,0.9640000152587891,0.5590000152587891,0.5460309982299805,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Kevin De Bruyne,Chipped
+490651,63,MissedShots,0.905,0.6680000305175782,0.13559700548648834,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Bernardo Silva,Throughball
+490652,63,Goal,0.91,0.5,0.14154300093650818,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Sergio Gómez,Cross
+490656,75,BlockedShot,0.8869999694824219,0.6630000305175782,0.08242630213499069,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Cole Palmer,Pass
+491596,13,ShotOnPost,0.8440000152587891,0.40700000762939453,0.3033739924430847,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,Phil Foden,Throughball
+491599,28,BlockedShot,0.899000015258789,0.355,0.05578630045056343,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,,None
+491602,38,BlockedShot,0.850999984741211,0.5690000152587891,0.11160899698734283,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,Kevin De Bruyne,Pass
+491608,51,MissedShots,0.8719999694824219,0.549000015258789,0.11905600130558014,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,Phil Foden,Cross
+491610,64,Goal,0.8969999694824219,0.5690000152587891,0.13886700570583344,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,João Cancelo,Pass
+493832,14,BlockedShot,0.85,0.705,0.028689000755548477,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Rodri,Chipped
+493838,32,SavedShot,0.8880000305175781,0.7390000152587891,0.031383901834487915,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Ilkay Gündogan,Pass
+493839,34,MissedShots,0.9269999694824219,0.5409999847412109,0.06155629828572273,Erling Haaland,a,8260,OpenPlay,2022,Head,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Kevin De Bruyne,Aerial
+493841,39,SavedShot,0.955,0.5990000152587891,0.258199006319046,Erling Haaland,a,8260,OpenPlay,2022,Head,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Kevin De Bruyne,Chipped
+493847,63,SavedShot,0.8490000152587891,0.4909999847412109,0.09623999893665314,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Ilkay Gündogan,Pass
+493860,95,SavedShot,0.9169999694824219,0.45599998474121095,0.07673130184412003,Erling Haaland,a,8260,OpenPlay,2022,OtherBodyPart,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Kevin De Bruyne,Cross
+495017,21,Goal,0.92,0.3559999847412109,0.28556498885154724,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18326,Manchester City,Brighton,3,1,2022-10-22 14:00:00,Ederson,Chipped
+495022,42,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,h,8260,Penalty,2022,LeftFoot,18326,Manchester City,Brighton,3,1,2022-10-22 14:00:00,,Standard
+495028,70,BlockedShot,0.8819999694824219,0.5920000076293945,0.09461689740419388,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18326,Manchester City,Brighton,3,1,2022-10-22 14:00:00,,None
+498069,68,MissedShots,0.9640000152587891,0.64,0.045961398631334305,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,John Stones,Cross
+498070,83,BlockedShot,0.91,0.68,0.11448600143194199,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,Kevin De Bruyne,Throughball
+498071,88,BlockedShot,0.9259999847412109,0.445,0.05797639861702919,Erling Haaland,h,8260,OpenPlay,2022,Head,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,Kevin De Bruyne,Aerial
+498072,94,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,h,8260,Penalty,2022,LeftFoot,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,,Standard
+499891,9,BlockedShot,0.845,0.6630000305175782,0.04682449996471405,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18356,Manchester City,Brentford,1,2,2022-11-12 12:30:00,Phil Foden,Pass
+501272,0,SavedShot,0.825999984741211,0.6980000305175781,0.03462440147995949,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Nathan Aké,Chipped
+501273,3,MissedShots,0.8809999847412109,0.40900001525878904,0.0756651982665062,Erling Haaland,a,8260,SetPiece,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Riyad Mahrez,Chipped
+501278,30,SavedShot,0.8380000305175781,0.46,0.33365398645401,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Kevin De Bruyne,Throughball
+501279,31,MissedShots,0.8909999847412109,0.495,0.06594490259885788,Erling Haaland,a,8260,FromCorner,2022,Head,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Riyad Mahrez,Cross
+501290,50,Goal,0.8869999694824219,0.54,0.399509996175766,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Jack Grealish,Pass
+501296,63,Goal,0.8869999694824219,0.5690000152587891,0.13546599447727203,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Jack Grealish,Pass
+501299,77,SavedShot,0.8519999694824218,0.5,0.4416149854660034,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Rodri,Throughball
+501306,91,BlockedShot,0.865999984741211,0.5159999847412109,0.09111300110816956,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,,Rebound
+501722,10,MissedShots,0.985999984741211,0.66,0.3060060143470764,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18376,Manchester City,Everton,1,1,2022-12-31 15:00:00,Kevin De Bruyne,Throughball
+501723,23,Goal,0.925,0.51,0.5327680110931396,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18376,Manchester City,Everton,1,1,2022-12-31 15:00:00,Riyad Mahrez,Pass
+502599,37,MissedShots,0.874000015258789,0.385,0.08666189759969711,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18385,Chelsea,Manchester City,0,1,2023-01-05 20:00:00,Ilkay Gündogan,Pass
+502604,47,MissedShots,0.775,0.4829999923706055,0.033770401030778885,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18385,Chelsea,Manchester City,0,1,2023-01-05 20:00:00,,BallRecovery
+502611,72,MissedShots,0.9590000152587891,0.5820000076293945,0.45892301201820374,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18385,Chelsea,Manchester City,0,1,2023-01-05 20:00:00,Kevin De Bruyne,Pass
+503447,22,BlockedShot,0.8480000305175781,0.4520000076293945,0.0671859011054039,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,,None
+503457,86,MissedShots,0.875,0.5459999847412109,0.03950849920511246,Erling Haaland,a,8260,OpenPlay,2022,Head,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,João Cancelo,Cross
+504355,41,SavedShot,0.9,0.6509999847412109,0.12026099860668182,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18267,Manchester City,Tottenham,4,2,2023-01-19 19:00:00,Nathan Aké,Throughball
+504356,42,MissedShots,0.9169999694824219,0.5279999923706055,0.43265300989151,Erling Haaland,h,8260,OpenPlay,2022,Head,18267,Manchester City,Tottenham,4,2,2023-01-19 19:00:00,Rodri,Aerial
+504363,52,Goal,0.9680000305175781,0.5159999847412109,0.5429559946060181,Erling Haaland,h,8260,OpenPlay,2022,Head,18267,Manchester City,Tottenham,4,2,2023-01-19 19:00:00,Riyad Mahrez,HeadPass
+504942,18,SavedShot,0.9059999847412109,0.600999984741211,0.10977199673652649,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Kevin De Bruyne,Pass
+504947,39,Goal,0.9319999694824219,0.5279999923706055,0.4696820080280304,Erling Haaland,h,8260,OpenPlay,2022,Head,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Kevin De Bruyne,Aerial
+504951,49,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,h,8260,Penalty,2022,LeftFoot,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,,Standard
+504953,53,Goal,0.915,0.534000015258789,0.53855299949646,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Riyad Mahrez,Pass
+509030,20,MissedShots,0.9419999694824219,0.45599998474121095,0.5382140278816223,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18429,Manchester City,Aston Villa,3,1,2023-02-12 16:30:00,,Rebound
+509281,44,BlockedShot,0.875,0.38799999237060545,0.07631509751081467,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18312,Arsenal,Manchester City,1,3,2023-02-15 18:30:00,Jack Grealish,BallTouch
+509286,68,SavedShot,0.95,0.34200000762939453,0.3033350110054016,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18312,Arsenal,Manchester City,1,3,2023-02-15 18:30:00,Bernardo Silva,Pass
+509288,81,Goal,0.9069999694824219,0.4370000076293945,0.40649598836898804,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18312,Arsenal,Manchester City,1,3,2023-02-15 18:30:00,Kevin De Bruyne,Pass
+509777,66,ShotOnPost,0.9159999847412109,0.5670000076293945,0.41300201416015625,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18439,Nottingham Forest,Manchester City,1,1,2023-02-18 15:00:00,,Rebound
+509778,66,MissedShots,0.9469999694824218,0.4929999923706055,0.6549550294876099,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18439,Nottingham Forest,Manchester City,1,1,2023-02-18 15:00:00,,Rebound
+511016,14,BlockedShot,0.9069999694824219,0.4279999923706055,0.1322219967842102,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,Phil Foden,TakeOn
+511018,20,BlockedShot,0.9319999694824219,0.6980000305175781,0.13284699618816376,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,Julián Álvarez,Throughball
+511021,28,Goal,0.9669999694824218,0.5509999847412109,0.6841059923171997,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,Phil Foden,Pass
+511880,33,MissedShots,0.9459999847412109,0.45599998474121095,0.11131200194358826,Erling Haaland,h,8260,OpenPlay,2022,Head,18458,Manchester City,Newcastle United,2,0,2023-03-04 12:30:00,Kevin De Bruyne,Aerial
+511883,59,MissedShots,0.8830000305175781,0.6580000305175782,0.07136490195989609,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18458,Manchester City,Newcastle United,2,0,2023-03-04 12:30:00,Kevin De Bruyne,Chipped
+513671,18,BlockedShot,0.7959999847412109,0.4329999923706055,0.041756801307201385,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,Rodri,Pass
+513673,27,MissedShots,0.9269999694824219,0.505,0.5641909837722778,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,Nathan Aké,Pass
+513674,31,BlockedShot,0.8630000305175781,0.32799999237060545,0.04613510146737099,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,Phil Foden,Pass
+513680,77,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,a,8260,Penalty,2022,LeftFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,,Standard
+513681,82,MissedShots,0.9130000305175782,0.46799999237060547,0.1270740032196045,Erling Haaland,a,8260,OpenPlay,2022,Head,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,Jack Grealish,Cross
+518223,40,MissedShots,0.9780000305175781,0.4279999923706055,0.07566139847040176,Erling Haaland,a,8260,OpenPlay,2022,Head,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,,Aerial
+518225,44,Goal,0.9519999694824218,0.49599998474121093,0.5902569890022278,Erling Haaland,a,8260,OpenPlay,2022,Head,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,Kevin De Bruyne,Cross
+518233,67,Goal,0.9280000305175782,0.45099998474121095,0.46863698959350586,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,Jack Grealish,Chipped
+519647,9,MissedShots,0.9259999847412109,0.5670000076293945,0.1252879947423935,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,Riyad Mahrez,Rebound
+519649,12,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,h,8260,Penalty,2022,LeftFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,,Standard
+519651,24,Goal,0.875999984741211,0.605,0.3326219916343689,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,Kevin De Bruyne,Pass
+522170,27,SavedShot,0.895,0.4370000076293945,0.40684202313423157,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Kevin De Bruyne,TakeOn
+522171,31,SavedShot,0.9390000152587891,0.7069999694824218,0.06110943481326103,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Jack Grealish,Chipped
+522173,35,MissedShots,0.8490000152587891,0.5379999923706055,0.13109342753887177,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Jack Grealish,Pass
+522174,40,SavedShot,0.9130000305175782,0.5879999923706055,0.12950509786605835,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Ilkay Gündogan,Pass
+522178,52,SavedShot,0.8380000305175781,0.4779999923706055,0.2996329665184021,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Rúben Dias,Chipped
+522187,94,Goal,0.860999984741211,0.49599998474121093,0.1210688054561615,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Phil Foden,Pass
+523289,2,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,a,8260,Penalty,2022,LeftFoot,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,,Standard
+523292,25,MissedShots,0.9919999694824219,0.35400001525878905,0.053700678050518036,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,Riyad Mahrez,Chipped
+523299,47,SavedShot,0.8780000305175781,0.5590000152587891,0.12054423242807388,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,Jack Grealish,Pass
+523301,72,MissedShots,0.9019999694824219,0.4370000076293945,0.050973668694496155,Erling Haaland,a,8260,SetPiece,2022,Head,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,Manuel Akanji,Chipped
+524011,23,MissedShots,0.9819999694824219,0.4229999923706055,0.3323915898799896,Erling Haaland,h,8260,OpenPlay,2022,Head,18478,Manchester City,West Ham,3,0,2023-05-03 19:00:00,Jack Grealish,Cross
+524022,69,Goal,0.8590000152587891,0.5920000076293945,0.5438916683197021,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18478,Manchester City,West Ham,3,0,2023-05-03 19:00:00,Jack Grealish,Throughball
+524643,1,MissedShots,0.769000015258789,0.62,0.02032453939318657,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Phil Foden,Pass
+524648,16,SavedShot,0.8930000305175781,0.620999984741211,0.33728551864624023,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,,None
+524650,24,MissedShots,0.8669999694824219,0.519000015258789,0.39077985286712646,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Kevin De Bruyne,Pass
+524654,34,MissedShots,0.9540000152587891,0.335,0.13645783066749573,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Kevin De Bruyne,Throughball
+524656,52,SavedShot,0.9269999694824219,0.5029999923706054,0.07178524136543274,Erling Haaland,h,8260,OpenPlay,2022,Head,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Julián Álvarez,Aerial
+524658,61,ShotOnPost,0.8219999694824218,0.53,0.41656190156936646,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Rico Lewis,Throughball
+526443,38,Goal,0.9519999694824218,0.46799999237060547,0.5702345967292786,Erling Haaland,a,8260,OpenPlay,2022,Head,18557,Everton,Manchester City,0,3,2023-05-14 13:00:00,Ilkay Gündogan,Cross
+526449,59,MissedShots,0.9059999847412109,0.36700000762939455,0.13939005136489868,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18557,Everton,Manchester City,0,3,2023-05-14 13:00:00,Phil Foden,Chipped
+528108,73,MissedShots,0.9280000305175782,0.6809999847412109,0.13480524718761444,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18566,Manchester City,Chelsea,1,0,2023-05-21 15:00:00,Julián Álvarez,Throughball
+528606,4,MissedShots,0.895,0.5309999847412109,0.10012829303741455,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Bernardo Silva,Cross
+528607,5,MissedShots,0.96,0.46,0.5399767160415649,Erling Haaland,a,8260,OpenPlay,2022,Head,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Phil Foden,Chipped
+528612,20,SavedShot,0.9009999847412109,0.539000015258789,0.4356217682361603,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Phil Foden,Pass
+528623,47,MissedShots,0.8540000152587891,0.5320000076293945,0.06592796742916107,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Bernardo Silva,Cross
+528634,65,MissedShots,0.8630000305175781,0.7030000305175781,0.02927715890109539,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Julián Álvarez,Chipped
+528638,88,MissedShots,0.9059999847412109,0.49700000762939456,0.04707805812358856,Erling Haaland,a,8260,SetPiece,2022,Head,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Riyad Mahrez,Aerial
